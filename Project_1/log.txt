@@ -1,0 +1,3225 @@
+[Event] JOB ARRIVAL job#0 at time: 0
+[Event] CPU ARRIVAL of job#0 at time: 0
+[Event] JOB ARRIVAL job#1 at time: 23
+[Event] CPU ARRIVAL of job#1 at time: 23
+[Event] CPU FINISH of job#0 at time: 36
+[Event] NETWORK ARRIVAL of job#0 at time: 36
+[Event] JOB ARRIVAL job#2 at time: 50
+[Event] CPU ARRIVAL of job#2 at time: 50
+[Event] JOB ARRIVAL job#3 at time: 76
+[Event] CPU FINISH of job#1 at time: 76
+[Event] DISK1 ARRIVAL of job#1 at time: 76
+[Event] CPU ARRIVAL of job#3 at time: 76
+[Event] JOB ARRIVAL job#4 at time: 98
+[Event] CPU ARRIVAL of job#4 at time: 98
+[Event] JOB ARRIVAL job#5 at time: 118
+[Event] CPU ARRIVAL of job#5 at time: 118
+[Event] CPU FINISH of job#2 at time: 125
+[Event] DISK2 ARRIVAL of job#2 at time: 125
+[Event] JOB ARRIVAL job#6 at time: 147
+[Event] CPU ARRIVAL of job#6 at time: 147
+[Event] CPU FINISH of job#3 at time: 163
+[Event] JOB ARRIVAL job#7 at time: 169
+[Event] CPU ARRIVAL of job#7 at time: 169
+[Event] JOB ARRIVAL job#8 at time: 197
+[Event] CPU ARRIVAL of job#8 at time: 197
+[Event] CPU FINISH of job#4 at time: 199
+[Event] NETWORK ARRIVAL of job#4 at time: 199
+[Event] DISK1 FINISH of job#1 at time: 203
+[Event] CPU ARRIVAL of job#1 at time: 203
+[Event] JOB ARRIVAL job#9 at time: 224
+[Event] CPU ARRIVAL of job#9 at time: 224
+[Event] CPU FINISH of job#5 at time: 228
+[Event] DISK1 ARRIVAL of job#5 at time: 228
+[Event] JOB ARRIVAL job#10 at time: 244
+[Event] CPU ARRIVAL of job#10 at time: 244
+[Event] CPU FINISH of job#6 at time: 265
+[Event] DISK1 ARRIVAL of job#6 at time: 265
+[Event] JOB ARRIVAL job#11 at time: 273
+[Event] CPU ARRIVAL of job#11 at time: 273
+[Event] CPU FINISH of job#7 at time: 292
+[Event] NETWORK ARRIVAL of job#7 at time: 292
+[Event] DISK2 FINISH of job#2 at time: 301
+[Event] CPU ARRIVAL of job#2 at time: 301
+[Event] JOB ARRIVAL job#12 at time: 302
+[Event] CPU ARRIVAL of job#12 at time: 302
+[Event] JOB ARRIVAL job#13 at time: 328
+[Event] CPU ARRIVAL of job#13 at time: 328
+[Event] CPU FINISH of job#8 at time: 334
+[Event] DISK1 ARRIVAL of job#8 at time: 334
+[Event] JOB ARRIVAL job#14 at time: 349
+[Event] CPU ARRIVAL of job#14 at time: 349
+[Event] DISK1 FINISH of job#5 at time: 363
+[Event] CPU ARRIVAL of job#5 at time: 363
+[Event] JOB ARRIVAL job#15 at time: 370
+[Event] CPU ARRIVAL of job#15 at time: 370
+[Event] CPU FINISH of job#1 at time: 376
+[Event] NETWORK ARRIVAL of job#1 at time: 376
+[Event] JOB ARRIVAL job#16 at time: 394
+[Event] CPU ARRIVAL of job#16 at time: 394
+[Event] CPU FINISH of job#9 at time: 413
+[Event] DISK2 ARRIVAL of job#9 at time: 413
+[Event] JOB ARRIVAL job#17 at time: 418
+[Event] CPU ARRIVAL of job#17 at time: 418
+[Event] JOB ARRIVAL job#18 at time: 439
+[Event] CPU ARRIVAL of job#18 at time: 439
+[Event] CPU FINISH of job#10 at time: 453
+[Event] DISK1 ARRIVAL of job#10 at time: 453
+[Event] JOB ARRIVAL job#19 at time: 459
+[Event] CPU ARRIVAL of job#19 at time: 459
+[Event] JOB ARRIVAL job#20 at time: 479
+[Event] CPU ARRIVAL of job#20 at time: 479
+[Event] DISK1 FINISH of job#6 at time: 482
+[Event] CPU ARRIVAL of job#6 at time: 482
+[Event] CPU FINISH of job#11 at time: 484
+[Event] DISK1 ARRIVAL of job#11 at time: 484
+[Event] JOB ARRIVAL job#21 at time: 505
+[Event] CPU ARRIVAL of job#21 at time: 505
+[Event] CPU FINISH of job#2 at time: 514
+[Event] JOB ARRIVAL job#22 at time: 532
+[Event] CPU ARRIVAL of job#22 at time: 532
+[Event] CPU FINISH of job#12 at time: 550
+[Event] JOB ARRIVAL job#23 at time: 558
+[Event] CPU ARRIVAL of job#23 at time: 558
+[Event] CPU FINISH of job#13 at time: 579
+[Event] NETWORK ARRIVAL of job#13 at time: 579
+[Event] JOB ARRIVAL job#24 at time: 585
+[Event] CPU ARRIVAL of job#24 at time: 585
+[Event] DISK2 FINISH of job#9 at time: 589
+[Event] CPU ARRIVAL of job#9 at time: 589
+[Event] JOB ARRIVAL job#25 at time: 607
+[Event] CPU ARRIVAL of job#25 at time: 607
+[Event] DISK1 FINISH of job#8 at time: 613
+[Event] CPU ARRIVAL of job#8 at time: 613
+[Event] CPU FINISH of job#14 at time: 628
+[Event] DISK1 ARRIVAL of job#14 at time: 628
+[Event] JOB ARRIVAL job#26 at time: 632
+[Event] CPU ARRIVAL of job#26 at time: 632
+[Event] JOB ARRIVAL job#27 at time: 655
+[Event] CPU ARRIVAL of job#27 at time: 655
+[Event] CPU FINISH of job#5 at time: 670
+[Event] JOB ARRIVAL job#28 at time: 675
+[Event] CPU ARRIVAL of job#28 at time: 675
+[Event] JOB ARRIVAL job#29 at time: 701
+[Event] CPU ARRIVAL of job#29 at time: 701
+[Event] CPU FINISH of job#15 at time: 707
+[Event] NETWORK ARRIVAL of job#15 at time: 707
+[Event] DISK1 FINISH of job#10 at time: 727
+[Event] CPU ARRIVAL of job#10 at time: 727
+[Event] JOB ARRIVAL job#30 at time: 729
+[Event] CPU ARRIVAL of job#30 at time: 729
+[Event] CPU FINISH of job#16 at time: 745
+[Event] NETWORK ARRIVAL of job#16 at time: 745
+[Event] JOB ARRIVAL job#31 at time: 750
+[Event] CPU ARRIVAL of job#31 at time: 750
+[Event] JOB ARRIVAL job#32 at time: 772
+[Event] CPU ARRIVAL of job#32 at time: 772
+[Event] CPU FINISH of job#17 at time: 774
+[Event] DISK2 ARRIVAL of job#17 at time: 774
+[Event] JOB ARRIVAL job#33 at time: 792
+[Event] CPU ARRIVAL of job#33 at time: 792
+[Event] CPU FINISH of job#18 at time: 800
+[Event] NETWORK ARRIVAL of job#18 at time: 800
+[Event] JOB ARRIVAL job#34 at time: 818
+[Event] CPU ARRIVAL of job#34 at time: 818
+[Event] DISK1 FINISH of job#11 at time: 830
+[Event] CPU ARRIVAL of job#11 at time: 830
+[Event] CPU FINISH of job#19 at time: 836
+[Event] DISK1 ARRIVAL of job#19 at time: 836
+[Event] JOB ARRIVAL job#35 at time: 847
+[Event] CPU ARRIVAL of job#35 at time: 847
+[Event] NETWORK FINISH of job#0 at time: 871
+[Event] CPU ARRIVAL of job#0 at time: 871
+[Event] JOB ARRIVAL job#36 at time: 874
+[Event] CPU ARRIVAL of job#36 at time: 874
+[Event] CPU FINISH of job#20 at time: 881
+[Event] JOB ARRIVAL job#37 at time: 901
+[Event] CPU ARRIVAL of job#37 at time: 901
+[Event] CPU FINISH of job#6 at time: 908
+[Event] DISK2 ARRIVAL of job#6 at time: 908
+[Event] JOB ARRIVAL job#38 at time: 923
+[Event] CPU ARRIVAL of job#38 at time: 923
+[Event] CPU FINISH of job#21 at time: 935
+[Event] DISK1 ARRIVAL of job#21 at time: 935
+[Event] DISK2 FINISH of job#17 at time: 936
+[Event] CPU ARRIVAL of job#17 at time: 936
+[Event] JOB ARRIVAL job#39 at time: 943
+[Event] CPU ARRIVAL of job#39 at time: 943
+[Event] JOB ARRIVAL job#40 at time: 967
+[Event] CPU ARRIVAL of job#40 at time: 967
+[Event] CPU FINISH of job#22 at time: 971
+[Event] DISK2 ARRIVAL of job#22 at time: 971
+[Event] DISK1 FINISH of job#14 at time: 975
+[Event] CPU ARRIVAL of job#14 at time: 975
+[Event] JOB ARRIVAL job#41 at time: 996
+[Event] CPU ARRIVAL of job#41 at time: 996
+[Event] CPU FINISH of job#23 at time: 1011
+[Event] NETWORK ARRIVAL of job#23 at time: 1011
+[Event] JOB ARRIVAL job#42 at time: 1023
+[Event] CPU ARRIVAL of job#42 at time: 1023
+[Event] JOB ARRIVAL job#43 at time: 1048
+[Event] CPU ARRIVAL of job#43 at time: 1048
+[Event] CPU FINISH of job#24 at time: 1057
+[Event] DISK1 ARRIVAL of job#24 at time: 1057
+[Event] JOB ARRIVAL job#44 at time: 1077
+[Event] CPU ARRIVAL of job#44 at time: 1077
+[Event] CPU FINISH of job#9 at time: 1084
+[Event] NETWORK ARRIVAL of job#9 at time: 1084
+[Event] DISK1 FINISH of job#19 at time: 1092
+[Event] CPU ARRIVAL of job#19 at time: 1092
+[Event] JOB ARRIVAL job#45 at time: 1104
+[Event] CPU ARRIVAL of job#45 at time: 1104
+[Event] CPU FINISH of job#25 at time: 1112
+[Event] DISK2 FINISH of job#6 at time: 1125
+[Event] CPU ARRIVAL of job#6 at time: 1125
+[Event] JOB ARRIVAL job#46 at time: 1130
+[Event] CPU ARRIVAL of job#46 at time: 1130
+[Event] CPU FINISH of job#8 at time: 1145
+[Event] DISK2 ARRIVAL of job#8 at time: 1145
+[Event] JOB ARRIVAL job#47 at time: 1158
+[Event] CPU ARRIVAL of job#47 at time: 1158
+[Event] JOB ARRIVAL job#48 at time: 1181
+[Event] CPU ARRIVAL of job#48 at time: 1181
+[Event] CPU FINISH of job#26 at time: 1191
+[Event] DISK2 ARRIVAL of job#26 at time: 1191
+[Event] DISK1 FINISH of job#21 at time: 1207
+[Event] CPU ARRIVAL of job#21 at time: 1207
+[Event] JOB ARRIVAL job#49 at time: 1210
+[Event] CPU ARRIVAL of job#49 at time: 1210
+[Event] JOB ARRIVAL job#50 at time: 1230
+[Event] CPU ARRIVAL of job#50 at time: 1230
+[Event] CPU FINISH of job#27 at time: 1236
+[Event] DISK1 ARRIVAL of job#27 at time: 1236
+[Event] JOB ARRIVAL job#51 at time: 1259
+[Event] CPU ARRIVAL of job#51 at time: 1259
+[Event] CPU FINISH of job#28 at time: 1282
+[Event] DISK1 ARRIVAL of job#28 at time: 1282
+[Event] JOB ARRIVAL job#52 at time: 1287
+[Event] CPU ARRIVAL of job#52 at time: 1287
+[Event] DISK2 FINISH of job#22 at time: 1299
+[Event] CPU ARRIVAL of job#22 at time: 1299
+[Event] JOB ARRIVAL job#53 at time: 1308
+[Event] CPU ARRIVAL of job#53 at time: 1308
+[Event] DISK1 FINISH of job#24 at time: 1322
+[Event] CPU ARRIVAL of job#24 at time: 1322
+[Event] CPU FINISH of job#29 at time: 1327
+[Event] DISK2 ARRIVAL of job#29 at time: 1327
+[Event] JOB ARRIVAL job#54 at time: 1333
+[Event] CPU ARRIVAL of job#54 at time: 1333
+[Event] JOB ARRIVAL job#55 at time: 1354
+[Event] CPU ARRIVAL of job#55 at time: 1354
+[Event] CPU FINISH of job#10 at time: 1365
+[Event] JOB ARRIVAL job#56 at time: 1374
+[Event] CPU ARRIVAL of job#56 at time: 1374
+[Event] JOB ARRIVAL job#57 at time: 1398
+[Event] CPU ARRIVAL of job#57 at time: 1398
+[Event] CPU FINISH of job#30 at time: 1408
+[Event] JOB ARRIVAL job#58 at time: 1422
+[Event] CPU ARRIVAL of job#58 at time: 1422
+[Event] JOB ARRIVAL job#59 at time: 1449
+[Event] CPU ARRIVAL of job#59 at time: 1449
+[Event] DISK1 FINISH of job#27 at time: 1451
+[Event] CPU ARRIVAL of job#27 at time: 1451
+[Event] CPU FINISH of job#31 at time: 1457
+[Event] DISK1 ARRIVAL of job#31 at time: 1457
+[Event] DISK2 FINISH of job#8 at time: 1470
+[Event] CPU ARRIVAL of job#8 at time: 1470
+[Event] NETWORK FINISH of job#4 at time: 1472
+[Event] CPU ARRIVAL of job#4 at time: 1472
+[Event] JOB ARRIVAL job#60 at time: 1475
+[Event] CPU ARRIVAL of job#60 at time: 1475
+[Event] CPU FINISH of job#32 at time: 1498
+[Event] DISK2 ARRIVAL of job#32 at time: 1498
+[Event] JOB ARRIVAL job#61 at time: 1501
+[Event] CPU ARRIVAL of job#61 at time: 1501
+[Event] JOB ARRIVAL job#62 at time: 1529
+[Event] CPU ARRIVAL of job#62 at time: 1529
+[Event] CPU FINISH of job#33 at time: 1530
+[Event] DISK1 ARRIVAL of job#33 at time: 1530
+[Event] JOB ARRIVAL job#63 at time: 1554
+[Event] CPU ARRIVAL of job#63 at time: 1554
+[Event] CPU FINISH of job#34 at time: 1562
+[Event] NETWORK ARRIVAL of job#34 at time: 1562
+[Event] JOB ARRIVAL job#64 at time: 1575
+[Event] CPU ARRIVAL of job#64 at time: 1575
+[Event] DISK1 FINISH of job#28 at time: 1594
+[Event] CPU ARRIVAL of job#28 at time: 1594
+[Event] CPU FINISH of job#11 at time: 1595
+[Event] NETWORK ARRIVAL of job#11 at time: 1595
+[Event] JOB ARRIVAL job#65 at time: 1604
+[Event] CPU ARRIVAL of job#65 at time: 1604
+[Event] CPU FINISH of job#35 at time: 1630
+[Event] DISK1 ARRIVAL of job#35 at time: 1630
+[Event] JOB ARRIVAL job#66 at time: 1632
+[Event] CPU ARRIVAL of job#66 at time: 1632
+[Event] DISK2 FINISH of job#26 at time: 1635
+[Event] CPU ARRIVAL of job#26 at time: 1635
+[Event] JOB ARRIVAL job#67 at time: 1653
+[Event] CPU ARRIVAL of job#67 at time: 1653
+[Event] CPU FINISH of job#0 at time: 1658
+[Event] JOB ARRIVAL job#68 at time: 1682
+[Event] CPU ARRIVAL of job#68 at time: 1682
+[Event] CPU FINISH of job#36 at time: 1684
+[Event] JOB ARRIVAL job#69 at time: 1705
+[Event] CPU ARRIVAL of job#69 at time: 1705
+[Event] CPU FINISH of job#37 at time: 1722
+[Event] DISK2 ARRIVAL of job#37 at time: 1722
+[Event] DISK1 FINISH of job#31 at time: 1731
+[Event] CPU ARRIVAL of job#31 at time: 1731
+[Event] JOB ARRIVAL job#70 at time: 1733
+[Event] CPU ARRIVAL of job#70 at time: 1733
+[Event] CPU FINISH of job#38 at time: 1753
+[Event] DISK1 ARRIVAL of job#38 at time: 1753
+[Event] JOB ARRIVAL job#71 at time: 1761
+[Event] CPU ARRIVAL of job#71 at time: 1761
+[Event] JOB ARRIVAL job#72 at time: 1788
+[Event] CPU ARRIVAL of job#72 at time: 1788
+[Event] CPU FINISH of job#17 at time: 1791
+[Event] DISK2 ARRIVAL of job#17 at time: 1791
+[Event] DISK2 FINISH of job#29 at time: 1813
+[Event] CPU ARRIVAL of job#29 at time: 1813
+[Event] JOB ARRIVAL job#73 at time: 1815
+[Event] CPU ARRIVAL of job#73 at time: 1815
+[Event] CPU FINISH of job#39 at time: 1837
+[Event] NETWORK ARRIVAL of job#39 at time: 1837
+[Event] JOB ARRIVAL job#74 at time: 1838
+[Event] CPU ARRIVAL of job#74 at time: 1838
+[Event] DISK1 FINISH of job#33 at time: 1849
+[Event] CPU ARRIVAL of job#33 at time: 1849
+[Event] JOB ARRIVAL job#75 at time: 1860
+[Event] CPU ARRIVAL of job#75 at time: 1860
+[Event] CPU FINISH of job#40 at time: 1877
+[Event] JOB ARRIVAL job#76 at time: 1884
+[Event] CPU ARRIVAL of job#76 at time: 1884
+[Event] JOB ARRIVAL job#77 at time: 1913
+[Event] CPU ARRIVAL of job#77 at time: 1913
+[Event] CPU FINISH of job#14 at time: 1917
+[Event] DISK1 ARRIVAL of job#14 at time: 1917
+[Event] JOB ARRIVAL job#78 at time: 1937
+[Event] CPU ARRIVAL of job#78 at time: 1937
+[Event] CPU FINISH of job#41 at time: 1953
+[Event] DISK1 ARRIVAL of job#41 at time: 1953
+[Event] JOB ARRIVAL job#79 at time: 1959
+[Event] CPU ARRIVAL of job#79 at time: 1959
+[Event] DISK1 FINISH of job#35 at time: 1974
+[Event] CPU ARRIVAL of job#35 at time: 1974
+[Event] DISK2 FINISH of job#32 at time: 1983
+[Event] CPU ARRIVAL of job#32 at time: 1983
+[Event] JOB ARRIVAL job#80 at time: 1986
+[Event] CPU ARRIVAL of job#80 at time: 1986
+[Event] CPU FINISH of job#42 at time: 1995
+[Event] DISK2 ARRIVAL of job#42 at time: 1995
+[Event] JOB ARRIVAL job#81 at time: 2014
+[Event] CPU ARRIVAL of job#81 at time: 2014
+[Event] CPU FINISH of job#43 at time: 2031
+[Event] DISK1 ARRIVAL of job#43 at time: 2031
+[Event] JOB ARRIVAL job#82 at time: 2043
+[Event] CPU ARRIVAL of job#82 at time: 2043
+[Event] JOB ARRIVAL job#83 at time: 2063
+[Event] CPU ARRIVAL of job#83 at time: 2063
+[Event] CPU FINISH of job#44 at time: 2074
+[Event] DISK1 FINISH of job#38 at time: 2079
+[Event] CPU ARRIVAL of job#38 at time: 2079
+[Event] JOB ARRIVAL job#84 at time: 2085
+[Event] CPU ARRIVAL of job#84 at time: 2085
+[Event] JOB ARRIVAL job#85 at time: 2106
+[Event] CPU ARRIVAL of job#85 at time: 2106
+[Event] CPU FINISH of job#19 at time: 2110
+[Event] DISK2 ARRIVAL of job#19 at time: 2110
+[Event] JOB ARRIVAL job#86 at time: 2127
+[Event] CPU ARRIVAL of job#86 at time: 2127
+[Event] DISK2 FINISH of job#37 at time: 2137
+[Event] CPU ARRIVAL of job#37 at time: 2137
+[Event] CPU FINISH of job#45 at time: 2140
+[Event] DISK2 ARRIVAL of job#45 at time: 2140
+[Event] JOB ARRIVAL job#87 at time: 2147
+[Event] CPU ARRIVAL of job#87 at time: 2147
+[Event] JOB ARRIVAL job#88 at time: 2172
+[Event] CPU ARRIVAL of job#88 at time: 2172
+[Event] CPU FINISH of job#6 at time: 2184
+[Event] DISK1 FINISH of job#14 at time: 2184
+[Event] NETWORK ARRIVAL of job#6 at time: 2184
+[Event] CPU ARRIVAL of job#14 at time: 2184
+[Event] JOB ARRIVAL job#89 at time: 2200
+[Event] CPU ARRIVAL of job#89 at time: 2200
+[Event] JOB ARRIVAL job#90 at time: 2224
+[Event] CPU ARRIVAL of job#90 at time: 2224
+[Event] CPU FINISH of job#46 at time: 2225
+[Event] DISK1 ARRIVAL of job#46 at time: 2225
+[Event] JOB ARRIVAL job#91 at time: 2251
+[Event] CPU ARRIVAL of job#91 at time: 2251
+[Event] CPU FINISH of job#47 at time: 2262
+[Event] DISK1 ARRIVAL of job#47 at time: 2262
+[Event] JOB ARRIVAL job#92 at time: 2271
+[Event] CPU ARRIVAL of job#92 at time: 2271
+[Event] DISK1 FINISH of job#41 at time: 2292
+[Event] CPU ARRIVAL of job#41 at time: 2292
+[Event] CPU FINISH of job#48 at time: 2298
+[Event] DISK1 ARRIVAL of job#48 at time: 2298
+[Event] JOB ARRIVAL job#93 at time: 2300
+[Event] CPU ARRIVAL of job#93 at time: 2300
+[Event] JOB ARRIVAL job#94 at time: 2321
+[Event] CPU ARRIVAL of job#94 at time: 2321
+[Event] CPU FINISH of job#21 at time: 2323
+[Event] DISK2 FINISH of job#17 at time: 2323
+[Event] NETWORK ARRIVAL of job#21 at time: 2323
+[Event] CPU ARRIVAL of job#17 at time: 2323
+[Event] NETWORK FINISH of job#7 at time: 2331
+[Event] CPU ARRIVAL of job#7 at time: 2331
+[Event] JOB ARRIVAL job#95 at time: 2344
+[Event] CPU ARRIVAL of job#95 at time: 2344
+[Event] CPU FINISH of job#49 at time: 2354
+[Event] DISK1 ARRIVAL of job#49 at time: 2354
+[Event] JOB ARRIVAL job#96 at time: 2368
+[Event] CPU ARRIVAL of job#96 at time: 2368
+[Event] JOB ARRIVAL job#97 at time: 2389
+[Event] CPU FINISH of job#50 at time: 2389
+[Event] DISK1 ARRIVAL of job#50 at time: 2389
+[Event] CPU ARRIVAL of job#97 at time: 2389
+[Event] JOB ARRIVAL job#98 at time: 2418
+[Event] CPU ARRIVAL of job#98 at time: 2418
+[Event] DISK1 FINISH of job#43 at time: 2421
+[Event] CPU ARRIVAL of job#43 at time: 2421
+[Event] CPU FINISH of job#51 at time: 2435
+[Event] NETWORK ARRIVAL of job#51 at time: 2435
+[Event] JOB ARRIVAL job#99 at time: 2441
+[Event] CPU ARRIVAL of job#99 at time: 2441
+[Event] JOB ARRIVAL job#100 at time: 2467
+[Event] CPU ARRIVAL of job#100 at time: 2467
+[Event] CPU FINISH of job#52 at time: 2475
+[Event] DISK1 ARRIVAL of job#52 at time: 2475
+[Event] JOB ARRIVAL job#101 at time: 2493
+[Event] CPU ARRIVAL of job#101 at time: 2493
+[Event] DISK2 FINISH of job#42 at time: 2503
+[Event] CPU ARRIVAL of job#42 at time: 2503
+[Event] CPU FINISH of job#22 at time: 2509
+[Event] DISK2 ARRIVAL of job#22 at time: 2509
+[Event] JOB ARRIVAL job#102 at time: 2517
+[Event] CPU ARRIVAL of job#102 at time: 2517
+[Event] DISK1 FINISH of job#46 at time: 2539
+[Event] CPU ARRIVAL of job#46 at time: 2539
+[Event] JOB ARRIVAL job#103 at time: 2542
+[Event] CPU ARRIVAL of job#103 at time: 2542
+[Event] CPU FINISH of job#53 at time: 2551
+[Event] NETWORK ARRIVAL of job#53 at time: 2551
+[Event] JOB ARRIVAL job#104 at time: 2571
+[Event] CPU ARRIVAL of job#104 at time: 2571
+[Event] JOB ARRIVAL job#105 at time: 2593
+[Event] CPU ARRIVAL of job#105 at time: 2593
+[Event] CPU FINISH of job#24 at time: 2594
+[Event] DISK2 ARRIVAL of job#24 at time: 2594
+[Event] JOB ARRIVAL job#106 at time: 2621
+[Event] CPU ARRIVAL of job#106 at time: 2621
+[Event] CPU FINISH of job#54 at time: 2641
+[Event] DISK1 ARRIVAL of job#54 at time: 2641
+[Event] DISK1 FINISH of job#47 at time: 2645
+[Event] CPU ARRIVAL of job#47 at time: 2645
+[Event] JOB ARRIVAL job#107 at time: 2647
+[Event] CPU ARRIVAL of job#107 at time: 2647
+[Event] JOB ARRIVAL job#108 at time: 2668
+[Event] CPU ARRIVAL of job#108 at time: 2668
+[Event] CPU FINISH of job#55 at time: 2676
+[Event] DISK1 ARRIVAL of job#55 at time: 2676
+[Event] DISK2 FINISH of job#19 at time: 2679
+[Event] CPU ARRIVAL of job#19 at time: 2679
+[Event] JOB ARRIVAL job#109 at time: 2691
+[Event] CPU ARRIVAL of job#109 at time: 2691
+[Event] JOB ARRIVAL job#110 at time: 2720
+[Event] CPU ARRIVAL of job#110 at time: 2720
+[Event] CPU FINISH of job#56 at time: 2723
+[Event] DISK2 ARRIVAL of job#56 at time: 2723
+[Event] JOB ARRIVAL job#111 at time: 2741
+[Event] CPU ARRIVAL of job#111 at time: 2741
+[Event] DISK1 FINISH of job#48 at time: 2751
+[Event] CPU ARRIVAL of job#48 at time: 2751
+[Event] CPU FINISH of job#57 at time: 2752
+[Event] DISK2 ARRIVAL of job#57 at time: 2752
+[Event] JOB ARRIVAL job#112 at time: 2761
+[Event] CPU ARRIVAL of job#112 at time: 2761
+[Event] JOB ARRIVAL job#113 at time: 2781
+[Event] CPU ARRIVAL of job#113 at time: 2781
+[Event] CPU FINISH of job#58 at time: 2782
+[Event] JOB ARRIVAL job#114 at time: 2805
+[Event] CPU ARRIVAL of job#114 at time: 2805
+[Event] CPU FINISH of job#59 at time: 2815
+[Event] DISK1 ARRIVAL of job#59 at time: 2815
+[Event] JOB ARRIVAL job#115 at time: 2829
+[Event] CPU ARRIVAL of job#115 at time: 2829
+[Event] DISK2 FINISH of job#45 at time: 2848
+[Event] CPU ARRIVAL of job#45 at time: 2848
+[Event] JOB ARRIVAL job#116 at time: 2850
+[Event] CPU ARRIVAL of job#116 at time: 2850
+[Event] CPU FINISH of job#27 at time: 2862
+[Event] DISK1 ARRIVAL of job#27 at time: 2862
+[Event] DISK1 FINISH of job#49 at time: 2868
+[Event] CPU ARRIVAL of job#49 at time: 2868
+[Event] JOB ARRIVAL job#117 at time: 2874
+[Event] CPU ARRIVAL of job#117 at time: 2874
+[Event] JOB ARRIVAL job#118 at time: 2899
+[Event] CPU ARRIVAL of job#118 at time: 2899
+[Event] CPU FINISH of job#8 at time: 2904
+[Event] NETWORK ARRIVAL of job#8 at time: 2904
+[Event] JOB ARRIVAL job#119 at time: 2924
+[Event] CPU ARRIVAL of job#119 at time: 2924
+[Event] JOB ARRIVAL job#120 at time: 2944
+[Event] CPU ARRIVAL of job#120 at time: 2944
+[Event] CPU FINISH of job#4 at time: 2951
+[Event] JOB ARRIVAL job#121 at time: 2966
+[Event] CPU ARRIVAL of job#121 at time: 2966
+[Event] DISK1 FINISH of job#50 at time: 2968
+[Event] CPU ARRIVAL of job#50 at time: 2968
+[Event] JOB ARRIVAL job#122 at time: 2994
+[Event] CPU ARRIVAL of job#122 at time: 2994
+[Event] CPU FINISH of job#60 at time: 2999
+[Event] JOB ARRIVAL job#123 at time: 3018
+[Event] CPU ARRIVAL of job#123 at time: 3018
+[Event] DISK2 FINISH of job#22 at time: 3028
+[Event] CPU ARRIVAL of job#22 at time: 3028
+[Event] JOB ARRIVAL job#124 at time: 3039
+[Event] CPU FINISH of job#61 at time: 3039
+[Event] DISK1 ARRIVAL of job#61 at time: 3039
+[Event] CPU ARRIVAL of job#124 at time: 3039
+[Event] JOB ARRIVAL job#125 at time: 3065
+[Event] CPU ARRIVAL of job#125 at time: 3065
+[Event] CPU FINISH of job#62 at time: 3071
+[Event] DISK1 ARRIVAL of job#62 at time: 3071
+[Event] JOB ARRIVAL job#126 at time: 3089
+[Event] CPU ARRIVAL of job#126 at time: 3089
+[Event] CPU FINISH of job#63 at time: 3100
+[Event] DISK1 ARRIVAL of job#63 at time: 3100
+[Event] DISK1 FINISH of job#52 at time: 3108
+[Event] CPU ARRIVAL of job#52 at time: 3108
+[Event] JOB ARRIVAL job#127 at time: 3115
+[Event] CPU ARRIVAL of job#127 at time: 3115
+[Event] CPU FINISH of job#64 at time: 3125
+[Event] NETWORK ARRIVAL of job#64 at time: 3125
+[Event] JOB ARRIVAL job#128 at time: 3144
+[Event] CPU ARRIVAL of job#128 at time: 3144
+[Event] CPU FINISH of job#28 at time: 3159
+[Event] DISK2 ARRIVAL of job#28 at time: 3159
+[Event] JOB ARRIVAL job#129 at time: 3169
+[Event] CPU ARRIVAL of job#129 at time: 3169
+[Event] JOB ARRIVAL job#130 at time: 3192
+[Event] CPU ARRIVAL of job#130 at time: 3192
+[Event] DISK2 FINISH of job#24 at time: 3197
+[Event] CPU ARRIVAL of job#24 at time: 3197
+[Event] CPU FINISH of job#65 at time: 3205
+[Event] DISK2 ARRIVAL of job#65 at time: 3205
+[Event] JOB ARRIVAL job#131 at time: 3213
+[Event] CPU ARRIVAL of job#131 at time: 3213
+[Event] CPU FINISH of job#66 at time: 3231
+[Event] JOB ARRIVAL job#132 at time: 3235
+[Event] CPU ARRIVAL of job#132 at time: 3235
+[Event] DISK1 FINISH of job#54 at time: 3250
+[Event] CPU ARRIVAL of job#54 at time: 3250
+[Event] CPU FINISH of job#26 at time: 3258
+[Event] DISK2 ARRIVAL of job#26 at time: 3258
+[Event] JOB ARRIVAL job#133 at time: 3259
+[Event] CPU ARRIVAL of job#133 at time: 3259
+[Event] NETWORK FINISH of job#1 at time: 3264
+[Event] CPU ARRIVAL of job#1 at time: 3264
+[Event] JOB ARRIVAL job#134 at time: 3288
+[Event] CPU ARRIVAL of job#134 at time: 3288
+[Event] CPU FINISH of job#67 at time: 3300
+[Event] NETWORK ARRIVAL of job#67 at time: 3300
+[Event] JOB ARRIVAL job#135 at time: 3316
+[Event] CPU ARRIVAL of job#135 at time: 3316
+[Event] CPU FINISH of job#68 at time: 3333
+[Event] DISK2 ARRIVAL of job#68 at time: 3333
+[Event] JOB ARRIVAL job#136 at time: 3342
+[Event] CPU ARRIVAL of job#136 at time: 3342
+[Event] DISK2 FINISH of job#56 at time: 3351
+[Event] CPU ARRIVAL of job#56 at time: 3351
+[Event] JOB ARRIVAL job#137 at time: 3365
+[Event] CPU ARRIVAL of job#137 at time: 3365
+[Event] CPU FINISH of job#69 at time: 3366
+[Event] NETWORK ARRIVAL of job#69 at time: 3366
+[Event] DISK1 FINISH of job#55 at time: 3371
+[Event] CPU ARRIVAL of job#55 at time: 3371
+[Event] JOB ARRIVAL job#138 at time: 3388
+[Event] CPU ARRIVAL of job#138 at time: 3388
+[Event] CPU FINISH of job#31 at time: 3414
+[Event] DISK2 ARRIVAL of job#31 at time: 3414
+[Event] JOB ARRIVAL job#139 at time: 3415
+[Event] CPU ARRIVAL of job#139 at time: 3415
+[Event] JOB ARRIVAL job#140 at time: 3435
+[Event] CPU ARRIVAL of job#140 at time: 3435
+[Event] CPU FINISH of job#70 at time: 3460
+[Event] NETWORK ARRIVAL of job#70 at time: 3460
+[Event] JOB ARRIVAL job#141 at time: 3461
+[Event] CPU ARRIVAL of job#141 at time: 3461
+[Event] DISK1 FINISH of job#59 at time: 3475
+[Event] CPU ARRIVAL of job#59 at time: 3475
+[Event] JOB ARRIVAL job#142 at time: 3490
+[Event] CPU ARRIVAL of job#142 at time: 3490
+[Event] CPU FINISH of job#71 at time: 3498
+[Event] DISK1 ARRIVAL of job#71 at time: 3498
+[Event] JOB ARRIVAL job#143 at time: 3513
+[Event] CPU ARRIVAL of job#143 at time: 3513
+[Event] CPU FINISH of job#72 at time: 3531
+[Event] NETWORK ARRIVAL of job#72 at time: 3531
+[Event] DISK2 FINISH of job#57 at time: 3534
+[Event] CPU ARRIVAL of job#57 at time: 3534
+[Event] JOB ARRIVAL job#144 at time: 3540
+[Event] CPU ARRIVAL of job#144 at time: 3540
+[Event] CPU FINISH of job#29 at time: 3559
+[Event] NETWORK ARRIVAL of job#29 at time: 3559
+[Event] JOB ARRIVAL job#145 at time: 3565
+[Event] CPU ARRIVAL of job#145 at time: 3565
+[Event] CPU FINISH of job#73 at time: 3586
+[Event] DISK2 ARRIVAL of job#73 at time: 3586
+[Event] JOB ARRIVAL job#146 at time: 3590
+[Event] CPU ARRIVAL of job#146 at time: 3590
+[Event] DISK1 FINISH of job#27 at time: 3615
+[Event] CPU ARRIVAL of job#27 at time: 3615
+[Event] JOB ARRIVAL job#147 at time: 3616
+[Event] CPU ARRIVAL of job#147 at time: 3616
+[Event] CPU FINISH of job#74 at time: 3624
+[Event] DISK1 ARRIVAL of job#74 at time: 3624
+[Event] JOB ARRIVAL job#148 at time: 3640
+[Event] CPU ARRIVAL of job#148 at time: 3640
+[Event] JOB ARRIVAL job#149 at time: 3664
+[Event] CPU ARRIVAL of job#149 at time: 3664
+[Event] CPU FINISH of job#33 at time: 3670
+[Event] DISK1 ARRIVAL of job#33 at time: 3670
+[Event] JOB ARRIVAL job#150 at time: 3692
+[Event] CPU ARRIVAL of job#150 at time: 3692
+[Event] CPU FINISH of job#75 at time: 3697
+[Event] JOB ARRIVAL job#151 at time: 3720
+[Event] DISK2 FINISH of job#28 at time: 3720
+[Event] CPU ARRIVAL of job#151 at time: 3720
+[Event] CPU ARRIVAL of job#28 at time: 3720
+[Event] DISK1 FINISH of job#61 at time: 3725
+[Event] CPU ARRIVAL of job#61 at time: 3725
+[Event] CPU FINISH of job#76 at time: 3728
+[Event] DISK2 ARRIVAL of job#76 at time: 3728
+[Event] JOB ARRIVAL job#152 at time: 3744
+[Event] CPU ARRIVAL of job#152 at time: 3744
+[Event] CPU FINISH of job#77 at time: 3771
+[Event] JOB ARRIVAL job#153 at time: 3772
+[Event] CPU ARRIVAL of job#153 at time: 3772
+[Event] JOB ARRIVAL job#154 at time: 3793
+[Event] CPU ARRIVAL of job#154 at time: 3793
+[Event] CPU FINISH of job#78 at time: 3799
+[Event] DISK1 ARRIVAL of job#78 at time: 3799
+[Event] JOB ARRIVAL job#155 at time: 3820
+[Event] CPU ARRIVAL of job#155 at time: 3820
+[Event] CPU FINISH of job#79 at time: 3837
+[Event] DISK2 ARRIVAL of job#79 at time: 3837
+[Event] JOB ARRIVAL job#156 at time: 3841
+[Event] CPU ARRIVAL of job#156 at time: 3841
+[Event] JOB ARRIVAL job#157 at time: 3863
+[Event] CPU ARRIVAL of job#157 at time: 3863
+[Event] CPU FINISH of job#35 at time: 3872
+[Event] DISK1 FINISH of job#62 at time: 3874
+[Event] CPU ARRIVAL of job#62 at time: 3874
+[Event] JOB ARRIVAL job#158 at time: 3888
+[Event] CPU ARRIVAL of job#158 at time: 3888
+[Event] CPU FINISH of job#32 at time: 3899
+[Event] NETWORK ARRIVAL of job#32 at time: 3899
+[Event] JOB ARRIVAL job#159 at time: 3917
+[Event] DISK2 FINISH of job#65 at time: 3917
+[Event] CPU ARRIVAL of job#159 at time: 3917
+[Event] CPU ARRIVAL of job#65 at time: 3917
+[Event] CPU FINISH of job#80 at time: 3938
+[Event] DISK1 ARRIVAL of job#80 at time: 3938
+[Event] JOB ARRIVAL job#160 at time: 3946
+[Event] CPU ARRIVAL of job#160 at time: 3946
+[Event] JOB ARRIVAL job#161 at time: 3966
+[Event] CPU ARRIVAL of job#161 at time: 3966
+[Event] CPU FINISH of job#81 at time: 3973
+[Event] DISK1 ARRIVAL of job#81 at time: 3973
+[Event] JOB ARRIVAL job#162 at time: 3994
+[Event] CPU ARRIVAL of job#162 at time: 3994
+[Event] DISK1 FINISH of job#63 at time: 4003
+[Event] CPU ARRIVAL of job#63 at time: 4003
+[Event] CPU FINISH of job#82 at time: 4019
+[Event] NETWORK ARRIVAL of job#82 at time: 4019
+[Event] JOB ARRIVAL job#163 at time: 4021
+[Event] CPU ARRIVAL of job#163 at time: 4021
+[Event] JOB ARRIVAL job#164 at time: 4044
+[Event] CPU ARRIVAL of job#164 at time: 4044
+[Event] CPU FINISH of job#83 at time: 4061
+[Event] NETWORK ARRIVAL of job#83 at time: 4061
+[Event] JOB ARRIVAL job#165 at time: 4068
+[Event] CPU ARRIVAL of job#165 at time: 4068
+[Event] JOB ARRIVAL job#166 at time: 4090
+[Event] CPU FINISH of job#38 at time: 4090
+[Event] DISK2 ARRIVAL of job#38 at time: 4090
+[Event] CPU ARRIVAL of job#166 at time: 4090
+[Event] JOB ARRIVAL job#167 at time: 4110
+[Event] DISK2 FINISH of job#26 at time: 4110
+[Event] CPU ARRIVAL of job#167 at time: 4110
+[Event] CPU ARRIVAL of job#26 at time: 4110
+[Event] CPU FINISH of job#84 at time: 4131
+[Event] DISK2 ARRIVAL of job#84 at time: 4131
+[Event] JOB ARRIVAL job#168 at time: 4132
+[Event] CPU ARRIVAL of job#168 at time: 4132
+[Event] NETWORK FINISH of job#13 at time: 4136
+[Event] CPU ARRIVAL of job#13 at time: 4136
+[Event] DISK1 FINISH of job#71 at time: 4141
+[Event] CPU ARRIVAL of job#71 at time: 4141
+[Event] JOB ARRIVAL job#169 at time: 4155
+[Event] CPU ARRIVAL of job#169 at time: 4155
+[Event] CPU FINISH of job#85 at time: 4173
+[Event] DISK1 ARRIVAL of job#85 at time: 4173
+[Event] JOB ARRIVAL job#170 at time: 4184
+[Event] CPU ARRIVAL of job#170 at time: 4184
+[Event] JOB ARRIVAL job#171 at time: 4210
+[Event] CPU ARRIVAL of job#171 at time: 4210
+[Event] CPU FINISH of job#86 at time: 4213
+[Event] DISK1 ARRIVAL of job#86 at time: 4213
+[Event] JOB ARRIVAL job#172 at time: 4237
+[Event] CPU ARRIVAL of job#172 at time: 4237
+[Event] CPU FINISH of job#37 at time: 4240
+[Event] DISK1 ARRIVAL of job#37 at time: 4240
+[Event] JOB ARRIVAL job#173 at time: 4257
+[Event] CPU ARRIVAL of job#173 at time: 4257
+[Event] CPU FINISH of job#87 at time: 4266
+[Event] DISK2 FINISH of job#68 at time: 4271
+[Event] CPU ARRIVAL of job#68 at time: 4271
+[Event] DISK1 FINISH of job#74 at time: 4272
+[Event] CPU ARRIVAL of job#74 at time: 4272
+[Event] JOB ARRIVAL job#174 at time: 4281
+[Event] CPU ARRIVAL of job#174 at time: 4281
+[Event] JOB ARRIVAL job#175 at time: 4307
+[Event] CPU ARRIVAL of job#175 at time: 4307
+[Event] CPU FINISH of job#88 at time: 4309
+[Event] DISK1 ARRIVAL of job#88 at time: 4309
+[Event] JOB ARRIVAL job#176 at time: 4327
+[Event] CPU ARRIVAL of job#176 at time: 4327
+[Event] JOB ARRIVAL job#177 at time: 4353
+[Event] CPU ARRIVAL of job#177 at time: 4353
+[Event] CPU FINISH of job#14 at time: 4355
+[Event] DISK2 ARRIVAL of job#14 at time: 4355
+[Event] JOB ARRIVAL job#178 at time: 4375
+[Event] CPU ARRIVAL of job#178 at time: 4375
+[Event] CPU FINISH of job#89 at time: 4383
+[Event] DISK1 ARRIVAL of job#89 at time: 4383
+[Event] DISK1 FINISH of job#33 at time: 4384
+[Event] CPU ARRIVAL of job#33 at time: 4384
+[Event] JOB ARRIVAL job#179 at time: 4395
+[Event] CPU ARRIVAL of job#179 at time: 4395
+[Event] JOB ARRIVAL job#180 at time: 4416
+[Event] CPU ARRIVAL of job#180 at time: 4416
+[Event] DISK2 FINISH of job#31 at time: 4429
+[Event] CPU ARRIVAL of job#31 at time: 4429
+[Event] CPU FINISH of job#90 at time: 4430
+[Event] JOB ARRIVAL job#181 at time: 4439
+[Event] CPU ARRIVAL of job#181 at time: 4439
+[Event] CPU FINISH of job#91 at time: 4457
+[Event] DISK2 ARRIVAL of job#91 at time: 4457
+[Event] JOB ARRIVAL job#182 at time: 4465
+[Event] CPU ARRIVAL of job#182 at time: 4465
+[Event] JOB ARRIVAL job#183 at time: 4485
+[Event] CPU ARRIVAL of job#183 at time: 4485
+[Event] CPU FINISH of job#92 at time: 4496
+[Event] JOB ARRIVAL job#184 at time: 4507
+[Event] CPU ARRIVAL of job#184 at time: 4507
+[Event] DISK1 FINISH of job#78 at time: 4514
+[Event] CPU ARRIVAL of job#78 at time: 4514
+[Event] CPU FINISH of job#41 at time: 4525
+[Event] DISK2 ARRIVAL of job#41 at time: 4525
+[Event] JOB ARRIVAL job#185 at time: 4536
+[Event] CPU ARRIVAL of job#185 at time: 4536
+[Event] JOB ARRIVAL job#186 at time: 4556
+[Event] CPU ARRIVAL of job#186 at time: 4556
+[Event] CPU FINISH of job#93 at time: 4574
+[Event] NETWORK ARRIVAL of job#93 at time: 4574
+[Event] JOB ARRIVAL job#187 at time: 4579
+[Event] CPU ARRIVAL of job#187 at time: 4579
+[Event] DISK2 FINISH of job#73 at time: 4586
+[Event] CPU ARRIVAL of job#73 at time: 4586
+[Event] JOB ARRIVAL job#188 at time: 4607
+[Event] CPU ARRIVAL of job#188 at time: 4607
+[Event] CPU FINISH of job#94 at time: 4611
+[Event] DISK2 ARRIVAL of job#94 at time: 4611
+[Event] JOB ARRIVAL job#189 at time: 4627
+[Event] CPU ARRIVAL of job#189 at time: 4627
+[Event] CPU FINISH of job#17 at time: 4645
+[Event] DISK1 ARRIVAL of job#17 at time: 4645
+[Event] JOB ARRIVAL job#190 at time: 4653
+[Event] DISK1 FINISH of job#80 at time: 4653
+[Event] CPU ARRIVAL of job#190 at time: 4653
+[Event] CPU ARRIVAL of job#80 at time: 4653
+[Event] JOB ARRIVAL job#191 at time: 4680
+[Event] CPU FINISH of job#7 at time: 4680
+[Event] CPU ARRIVAL of job#191 at time: 4680
+[Event] JOB ARRIVAL job#192 at time: 4709
+[Event] CPU ARRIVAL of job#192 at time: 4709
+[Event] CPU FINISH of job#95 at time: 4722
+[Event] DISK1 ARRIVAL of job#95 at time: 4722
+[Event] JOB ARRIVAL job#193 at time: 4734
+[Event] CPU ARRIVAL of job#193 at time: 4734
+[Event] DISK2 FINISH of job#76 at time: 4752
+[Event] CPU ARRIVAL of job#76 at time: 4752
+[Event] CPU FINISH of job#96 at time: 4755
+[Event] NETWORK ARRIVAL of job#96 at time: 4755
+[Event] DISK1 FINISH of job#81 at time: 4758
+[Event] CPU ARRIVAL of job#81 at time: 4758
+[Event] JOB ARRIVAL job#194 at time: 4762
+[Event] CPU ARRIVAL of job#194 at time: 4762
+[Event] JOB ARRIVAL job#195 at time: 4789
+[Event] CPU ARRIVAL of job#195 at time: 4789
+[Event] CPU FINISH of job#97 at time: 4792
+[Event] JOB ARRIVAL job#196 at time: 4817
+[Event] CPU ARRIVAL of job#196 at time: 4817
+[Event] CPU FINISH of job#98 at time: 4824
+[Event] JOB ARRIVAL job#197 at time: 4838
+[Event] CPU ARRIVAL of job#197 at time: 4838
+[Event] CPU FINISH of job#43 at time: 4853
+[Event] DISK2 ARRIVAL of job#43 at time: 4853
+[Event] JOB ARRIVAL job#198 at time: 4867
+[Event] CPU ARRIVAL of job#198 at time: 4867
+[Event] DISK1 FINISH of job#85 at time: 4891
+[Event] CPU ARRIVAL of job#85 at time: 4891
+[Event] JOB ARRIVAL job#199 at time: 4895
+[Event] CPU ARRIVAL of job#199 at time: 4895
+[Event] CPU FINISH of job#99 at time: 4896
+[Event] NETWORK ARRIVAL of job#99 at time: 4896
+[Event] NETWORK FINISH of job#15 at time: 4897
+[Event] CPU ARRIVAL of job#15 at time: 4897
+[Event] JOB ARRIVAL job#200 at time: 4918
+[Event] CPU ARRIVAL of job#200 at time: 4918
+[Event] DISK2 FINISH of job#79 at time: 4925
+[Event] CPU ARRIVAL of job#79 at time: 4925
+[Event] CPU FINISH of job#100 at time: 4928
+[Event] JOB ARRIVAL job#201 at time: 4946
+[Event] CPU ARRIVAL of job#201 at time: 4946
+[Event] JOB ARRIVAL job#202 at time: 4975
+[Event] CPU ARRIVAL of job#202 at time: 4975
+[Event] CPU FINISH of job#101 at time: 4977
+[Event] DISK1 ARRIVAL of job#101 at time: 4977
+[Event] JOB ARRIVAL job#203 at time: 5004
+[Event] CPU ARRIVAL of job#203 at time: 5004
+[Event] CPU FINISH of job#42 at time: 5015
+[Event] DISK1 FINISH of job#86 at time: 5015
+[Event] DISK2 ARRIVAL of job#42 at time: 5015
+[Event] CPU ARRIVAL of job#86 at time: 5015
+[Event] JOB ARRIVAL job#204 at time: 5028
+[Event] CPU ARRIVAL of job#204 at time: 5028
+[Event] JOB ARRIVAL job#205 at time: 5050
+[Event] CPU ARRIVAL of job#205 at time: 5050
+[Event] CPU FINISH of job#102 at time: 5063
+[Event] NETWORK ARRIVAL of job#102 at time: 5063
+[Event] JOB ARRIVAL job#206 at time: 5070
+[Event] CPU ARRIVAL of job#206 at time: 5070
+[Event] DISK2 FINISH of job#38 at time: 5095
+[Event] CPU ARRIVAL of job#38 at time: 5095
+[Event] JOB ARRIVAL job#207 at time: 5097
+[Event] CPU ARRIVAL of job#207 at time: 5097
+[Event] CPU FINISH of job#46 at time: 5105
+[Event] DISK1 ARRIVAL of job#46 at time: 5105
+[Event] JOB ARRIVAL job#208 at time: 5118
+[Event] CPU ARRIVAL of job#208 at time: 5118
+[Event] DISK1 FINISH of job#37 at time: 5127
+[Event] CPU ARRIVAL of job#37 at time: 5127
+[Event] CPU FINISH of job#103 at time: 5137
+[Event] DISK1 ARRIVAL of job#103 at time: 5137
+[Event] JOB ARRIVAL job#209 at time: 5139
+[Event] CPU ARRIVAL of job#209 at time: 5139
+[Event] JOB ARRIVAL job#210 at time: 5160
+[Event] CPU ARRIVAL of job#210 at time: 5160
+[Event] CPU FINISH of job#104 at time: 5163
+[Event] DISK2 ARRIVAL of job#104 at time: 5163
+[Event] JOB ARRIVAL job#211 at time: 5187
+[Event] CPU ARRIVAL of job#211 at time: 5187
+[Event] CPU FINISH of job#105 at time: 5203
+[Event] NETWORK ARRIVAL of job#105 at time: 5203
+[Event] JOB ARRIVAL job#212 at time: 5215
+[Event] CPU ARRIVAL of job#212 at time: 5215
+[Event] CPU FINISH of job#106 at time: 5228
+[Event] JOB ARRIVAL job#213 at time: 5241
+[Event] CPU ARRIVAL of job#213 at time: 5241
+[Event] DISK2 FINISH of job#84 at time: 5260
+[Event] CPU ARRIVAL of job#84 at time: 5260
+[Event] JOB ARRIVAL job#214 at time: 5262
+[Event] CPU ARRIVAL of job#214 at time: 5262
+[Event] CPU FINISH of job#47 at time: 5269
+[Event] DISK1 ARRIVAL of job#47 at time: 5269
+[Event] DISK1 FINISH of job#88 at time: 5274
+[Event] CPU ARRIVAL of job#88 at time: 5274
+[Event] JOB ARRIVAL job#215 at time: 5288
+[Event] CPU ARRIVAL of job#215 at time: 5288
+[Event] CPU FINISH of job#107 at time: 5298
+[Event] DISK2 ARRIVAL of job#107 at time: 5298
+[Event] JOB ARRIVAL job#216 at time: 5309
+[Event] CPU ARRIVAL of job#216 at time: 5309
+[Event] JOB ARRIVAL job#217 at time: 5338
+[Event] CPU ARRIVAL of job#217 at time: 5338
+[Event] CPU FINISH of job#108 at time: 5343
+[Event] DISK1 ARRIVAL of job#108 at time: 5343
+[Event] JOB ARRIVAL job#218 at time: 5365
+[Event] CPU ARRIVAL of job#218 at time: 5365
+[Event] CPU FINISH of job#19 at time: 5378
+[Event] NETWORK ARRIVAL of job#19 at time: 5378
+[Event] JOB ARRIVAL job#219 at time: 5389
+[Event] CPU ARRIVAL of job#219 at time: 5389
+[Event] DISK1 FINISH of job#89 at time: 5392
+[Event] CPU ARRIVAL of job#89 at time: 5392
+[Event] CPU FINISH of job#109 at time: 5404
+[Event] DISK1 ARRIVAL of job#109 at time: 5404
+[Event] JOB ARRIVAL job#220 at time: 5416
+[Event] CPU ARRIVAL of job#220 at time: 5416
+[Event] CPU FINISH of job#110 at time: 5436
+[Event] DISK1 ARRIVAL of job#110 at time: 5436
+[Event] JOB ARRIVAL job#221 at time: 5445
+[Event] CPU ARRIVAL of job#221 at time: 5445
+[Event] DISK2 FINISH of job#14 at time: 5449
+[Event] CPU ARRIVAL of job#14 at time: 5449
+[Event] JOB ARRIVAL job#222 at time: 5471
+[Event] CPU ARRIVAL of job#222 at time: 5471
+[Event] CPU FINISH of job#111 at time: 5472
+[Event] DISK2 ARRIVAL of job#111 at time: 5472
+[Event] JOB ARRIVAL job#223 at time: 5499
+[Event] CPU ARRIVAL of job#223 at time: 5499
+[Event] DISK1 FINISH of job#17 at time: 5501
+[Event] CPU ARRIVAL of job#17 at time: 5501
+[Event] CPU FINISH of job#48 at time: 5502
+[Event] DISK1 ARRIVAL of job#48 at time: 5502
+[Event] JOB ARRIVAL job#224 at time: 5523
+[Event] CPU ARRIVAL of job#224 at time: 5523
+[Event] CPU FINISH of job#112 at time: 5532
+[Event] JOB ARRIVAL job#225 at time: 5548
+[Event] CPU ARRIVAL of job#225 at time: 5548
+[Event] CPU FINISH of job#113 at time: 5562
+[Event] NETWORK ARRIVAL of job#113 at time: 5562
+[Event] JOB ARRIVAL job#226 at time: 5577
+[Event] CPU ARRIVAL of job#226 at time: 5577
+[Event] JOB ARRIVAL job#227 at time: 5605
+[Event] CPU FINISH of job#114 at time: 5605
+[Event] DISK1 ARRIVAL of job#114 at time: 5605
+[Event] CPU ARRIVAL of job#227 at time: 5605
+[Event] DISK2 FINISH of job#91 at time: 5609
+[Event] CPU ARRIVAL of job#91 at time: 5609
+[Event] DISK1 FINISH of job#95 at time: 5612
+[Event] CPU ARRIVAL of job#95 at time: 5612
+[Event] JOB ARRIVAL job#228 at time: 5630
+[Event] CPU ARRIVAL of job#228 at time: 5630
+[Event] CPU FINISH of job#115 at time: 5637
+[Event] DISK1 ARRIVAL of job#115 at time: 5637
+[Event] JOB ARRIVAL job#229 at time: 5653
+[Event] CPU ARRIVAL of job#229 at time: 5653
+[Event] JOB ARRIVAL job#230 at time: 5679
+[Event] CPU ARRIVAL of job#230 at time: 5679
+[Event] CPU FINISH of job#45 at time: 5686
+[Event] DISK2 ARRIVAL of job#45 at time: 5686
+[Event] JOB ARRIVAL job#231 at time: 5702
+[Event] CPU ARRIVAL of job#231 at time: 5702
+[Event] JOB ARRIVAL job#232 at time: 5725
+[Event] CPU ARRIVAL of job#232 at time: 5725
+[Event] CPU FINISH of job#116 at time: 5729
+[Event] DISK1 ARRIVAL of job#116 at time: 5729
+[Event] DISK1 FINISH of job#101 at time: 5742
+[Event] CPU ARRIVAL of job#101 at time: 5742
+[Event] JOB ARRIVAL job#233 at time: 5754
+[Event] CPU ARRIVAL of job#233 at time: 5754
+[Event] CPU FINISH of job#49 at time: 5756
+[Event] DISK1 ARRIVAL of job#49 at time: 5756
+[Event] DISK2 FINISH of job#41 at time: 5776
+[Event] CPU ARRIVAL of job#41 at time: 5776
+[Event] JOB ARRIVAL job#234 at time: 5783
+[Event] CPU ARRIVAL of job#234 at time: 5783
+[Event] CPU FINISH of job#117 at time: 5791
+[Event] DISK1 ARRIVAL of job#117 at time: 5791
+[Event] JOB ARRIVAL job#235 at time: 5809
+[Event] CPU ARRIVAL of job#235 at time: 5809
+[Event] CPU FINISH of job#118 at time: 5826
+[Event] DISK2 ARRIVAL of job#118 at time: 5826
+[Event] JOB ARRIVAL job#236 at time: 5832
+[Event] CPU ARRIVAL of job#236 at time: 5832
+[Event] JOB ARRIVAL job#237 at time: 5857
+[Event] CPU ARRIVAL of job#237 at time: 5857
+[Event] CPU FINISH of job#119 at time: 5869
+[Event] JOB ARRIVAL job#238 at time: 5878
+[Event] CPU ARRIVAL of job#238 at time: 5878
+[Event] DISK1 FINISH of job#46 at time: 5880
+[Event] CPU ARRIVAL of job#46 at time: 5880
+[Event] NETWORK FINISH of job#16 at time: 5890
+[Event] CPU ARRIVAL of job#16 at time: 5890
+[Event] CPU FINISH of job#120 at time: 5904
+[Event] NETWORK ARRIVAL of job#120 at time: 5904
+[Event] JOB ARRIVAL job#239 at time: 5905
+[Event] CPU ARRIVAL of job#239 at time: 5905
+[Event] JOB ARRIVAL job#240 at time: 5933
+[Event] CPU ARRIVAL of job#240 at time: 5933
+[Event] CPU FINISH of job#121 at time: 5934
+[Event] DISK1 ARRIVAL of job#121 at time: 5934
+[Event] DISK2 FINISH of job#94 at time: 5943
+[Event] CPU ARRIVAL of job#94 at time: 5943
+[Event] JOB ARRIVAL job#241 at time: 5953
+[Event] CPU ARRIVAL of job#241 at time: 5953
+[Event] CPU FINISH of job#50 at time: 5963
+[Event] DISK2 ARRIVAL of job#50 at time: 5963
+[Event] JOB ARRIVAL job#242 at time: 5978
+[Event] CPU ARRIVAL of job#242 at time: 5978
+[Event] JOB ARRIVAL job#243 at time: 5999
+[Event] CPU ARRIVAL of job#243 at time: 5999
+[Event] CPU FINISH of job#122 at time: 6002
+[Event] DISK2 ARRIVAL of job#122 at time: 6002
+[Event] DISK1 FINISH of job#103 at time: 6016
+[Event] CPU ARRIVAL of job#103 at time: 6016
+[Event] JOB ARRIVAL job#244 at time: 6024
+[Event] CPU ARRIVAL of job#244 at time: 6024
+[Event] CPU FINISH of job#123 at time: 6027
+[Event] DISK2 ARRIVAL of job#123 at time: 6027
+[Event] JOB ARRIVAL job#245 at time: 6050
+[Event] CPU ARRIVAL of job#245 at time: 6050
+[Event] JOB ARRIVAL job#246 at time: 6070
+[Event] CPU ARRIVAL of job#246 at time: 6070
+[Event] CPU FINISH of job#22 at time: 6072
+[Event] DISK1 ARRIVAL of job#22 at time: 6072
+[Event] JOB ARRIVAL job#247 at time: 6097
+[Event] CPU ARRIVAL of job#247 at time: 6097
+[Event] CPU FINISH of job#124 at time: 6098
+[Event] DISK1 ARRIVAL of job#124 at time: 6098
+[Event] JOB ARRIVAL job#248 at time: 6123
+[Event] CPU ARRIVAL of job#248 at time: 6123
+[Event] DISK2 FINISH of job#43 at time: 6126
+[Event] CPU ARRIVAL of job#43 at time: 6126
+[Event] CPU FINISH of job#125 at time: 6129
+[Event] JOB ARRIVAL job#249 at time: 6149
+[Event] CPU ARRIVAL of job#249 at time: 6149
+[Event] DISK1 FINISH of job#47 at time: 6151
+[Event] CPU ARRIVAL of job#47 at time: 6151
+[Event] JOB ARRIVAL job#250 at time: 6170
+[Event] CPU ARRIVAL of job#250 at time: 6170
+[Event] CPU FINISH of job#126 at time: 6174
+[Event] DISK2 ARRIVAL of job#126 at time: 6174
+[Event] JOB ARRIVAL job#251 at time: 6192
+[Event] CPU ARRIVAL of job#251 at time: 6192
+[Event] JOB ARRIVAL job#252 at time: 6212
+[Event] CPU ARRIVAL of job#252 at time: 6212
+[Event] CPU FINISH of job#52 at time: 6220
+[Event] DISK2 ARRIVAL of job#52 at time: 6220
+[Event] JOB ARRIVAL job#253 at time: 6236
+[Event] CPU ARRIVAL of job#253 at time: 6236
+[Event] JOB ARRIVAL job#254 at time: 6256
+[Event] CPU ARRIVAL of job#254 at time: 6256
+[Event] CPU FINISH of job#127 at time: 6267
+[Event] NETWORK ARRIVAL of job#127 at time: 6267
+[Event] JOB ARRIVAL job#255 at time: 6279
+[Event] CPU ARRIVAL of job#255 at time: 6279
+[Event] DISK2 FINISH of job#42 at time: 6281
+[Event] CPU ARRIVAL of job#42 at time: 6281
+[Event] DISK1 FINISH of job#108 at time: 6293
+[Event] CPU ARRIVAL of job#108 at time: 6293
+[Event] JOB ARRIVAL job#256 at time: 6299
+[Event] CPU ARRIVAL of job#256 at time: 6299
+[Event] CPU FINISH of job#128 at time: 6314
+[Event] DISK2 ARRIVAL of job#128 at time: 6314
+[Event] JOB ARRIVAL job#257 at time: 6319
+[Event] CPU ARRIVAL of job#257 at time: 6319
+[Event] CPU FINISH of job#129 at time: 6344
+[Event] DISK2 ARRIVAL of job#129 at time: 6344
+[Event] JOB ARRIVAL job#258 at time: 6348
+[Event] CPU ARRIVAL of job#258 at time: 6348
+[Event] JOB ARRIVAL job#259 at time: 6370
+[Event] CPU ARRIVAL of job#259 at time: 6370
+[Event] CPU FINISH of job#130 at time: 6391
+[Event] JOB ARRIVAL job#260 at time: 6395
+[Event] CPU ARRIVAL of job#260 at time: 6395
+[Event] JOB ARRIVAL job#261 at time: 6419
+[Event] CPU ARRIVAL of job#261 at time: 6419
+[Event] CPU FINISH of job#24 at time: 6423
+[Event] NETWORK ARRIVAL of job#24 at time: 6423
+[Event] DISK1 FINISH of job#109 at time: 6440
+[Event] CPU ARRIVAL of job#109 at time: 6440
+[Event] JOB ARRIVAL job#262 at time: 6442
+[Event] CPU ARRIVAL of job#262 at time: 6442
+[Event] DISK2 FINISH of job#104 at time: 6444
+[Event] CPU ARRIVAL of job#104 at time: 6444
+[Event] JOB ARRIVAL job#263 at time: 6470
+[Event] CPU ARRIVAL of job#263 at time: 6470
+[Event] CPU FINISH of job#131 at time: 6471
+[Event] NETWORK ARRIVAL of job#131 at time: 6471
+[Event] JOB ARRIVAL job#264 at time: 6492
+[Event] CPU ARRIVAL of job#264 at time: 6492
+[Event] CPU FINISH of job#132 at time: 6508
+[Event] DISK1 ARRIVAL of job#132 at time: 6508
+[Event] JOB ARRIVAL job#265 at time: 6513
+[Event] CPU ARRIVAL of job#265 at time: 6513
+[Event] JOB ARRIVAL job#266 at time: 6537
+[Event] CPU ARRIVAL of job#266 at time: 6537
+[Event] CPU FINISH of job#54 at time: 6556
+[Event] DISK2 ARRIVAL of job#54 at time: 6556
+[Event] JOB ARRIVAL job#267 at time: 6559
+[Event] CPU ARRIVAL of job#267 at time: 6559
+[Event] JOB ARRIVAL job#268 at time: 6580
+[Event] DISK1 FINISH of job#110 at time: 6580
+[Event] CPU ARRIVAL of job#110 at time: 6580
+[Event] CPU ARRIVAL of job#268 at time: 6580
+[Event] CPU FINISH of job#133 at time: 6603
+[Event] DISK1 ARRIVAL of job#133 at time: 6603
+[Event] DISK2 FINISH of job#107 at time: 6603
+[Event] CPU ARRIVAL of job#107 at time: 6603
+[Event] JOB ARRIVAL job#269 at time: 6607
+[Event] CPU ARRIVAL of job#269 at time: 6607
+[Event] JOB ARRIVAL job#270 at time: 6636
+[Event] CPU ARRIVAL of job#270 at time: 6636
+[Event] CPU FINISH of job#1 at time: 6650
+[Event] JOB ARRIVAL job#271 at time: 6664
+[Event] CPU ARRIVAL of job#271 at time: 6664
+[Event] CPU FINISH of job#134 at time: 6676
+[Event] JOB ARRIVAL job#272 at time: 6687
+[Event] CPU ARRIVAL of job#272 at time: 6687
+[Event] DISK1 FINISH of job#48 at time: 6695
+[Event] CPU ARRIVAL of job#48 at time: 6695
+[Event] CPU FINISH of job#135 at time: 6709
+[Event] NETWORK ARRIVAL of job#135 at time: 6709
+[Event] JOB ARRIVAL job#273 at time: 6716
+[Event] CPU ARRIVAL of job#273 at time: 6716
+[Event] JOB ARRIVAL job#274 at time: 6736
+[Event] CPU ARRIVAL of job#274 at time: 6736
+[Event] CPU FINISH of job#136 at time: 6740
+[Event] DISK1 ARRIVAL of job#136 at time: 6740
+[Event] JOB ARRIVAL job#275 at time: 6760
+[Event] CPU ARRIVAL of job#275 at time: 6760
+[Event] CPU FINISH of job#56 at time: 6773
+[Event] DISK1 ARRIVAL of job#56 at time: 6773
+[Event] DISK2 FINISH of job#111 at time: 6779
+[Event] CPU ARRIVAL of job#111 at time: 6779
+[Event] JOB ARRIVAL job#276 at time: 6788
+[Event] CPU ARRIVAL of job#276 at time: 6788
+[Event] JOB ARRIVAL job#277 at time: 6810
+[Event] CPU ARRIVAL of job#277 at time: 6810
+[Event] CPU FINISH of job#137 at time: 6814
+[Event] DISK2 ARRIVAL of job#137 at time: 6814
+[Event] DISK1 FINISH of job#114 at time: 6823
+[Event] CPU ARRIVAL of job#114 at time: 6823
+[Event] JOB ARRIVAL job#278 at time: 6831
+[Event] CPU ARRIVAL of job#278 at time: 6831
+[Event] CPU FINISH of job#55 at time: 6853
+[Event] NETWORK FINISH of job#18 at time: 6853
+[Event] CPU ARRIVAL of job#18 at time: 6853
+[Event] JOB ARRIVAL job#279 at time: 6857
+[Event] CPU ARRIVAL of job#279 at time: 6857
+[Event] JOB ARRIVAL job#280 at time: 6877
+[Event] CPU ARRIVAL of job#280 at time: 6877
+[Event] CPU FINISH of job#138 at time: 6902
+[Event] DISK1 ARRIVAL of job#138 at time: 6902
+[Event] JOB ARRIVAL job#281 at time: 6905
+[Event] CPU ARRIVAL of job#281 at time: 6905
+[Event] JOB ARRIVAL job#282 at time: 6929
+[Event] CPU ARRIVAL of job#282 at time: 6929
+[Event] DISK1 FINISH of job#115 at time: 6933
+[Event] CPU ARRIVAL of job#115 at time: 6933
+[Event] CPU FINISH of job#139 at time: 6936
+[Event] DISK2 ARRIVAL of job#139 at time: 6936
+[Event] DISK2 FINISH of job#45 at time: 6944
+[Event] CPU ARRIVAL of job#45 at time: 6944
+[Event] JOB ARRIVAL job#283 at time: 6957
+[Event] CPU ARRIVAL of job#283 at time: 6957
+[Event] CPU FINISH of job#140 at time: 6962
+[Event] DISK2 ARRIVAL of job#140 at time: 6962
+[Event] JOB ARRIVAL job#284 at time: 6984
+[Event] CPU ARRIVAL of job#284 at time: 6984
+[Event] CPU FINISH of job#141 at time: 6993
+[Event] DISK1 ARRIVAL of job#141 at time: 6993
+[Event] JOB ARRIVAL job#285 at time: 7005
+[Event] CPU ARRIVAL of job#285 at time: 7005
+[Event] CPU FINISH of job#59 at time: 7018
+[Event] DISK1 ARRIVAL of job#59 at time: 7018
+[Event] JOB ARRIVAL job#286 at time: 7034
+[Event] CPU ARRIVAL of job#286 at time: 7034
+[Event] JOB ARRIVAL job#287 at time: 7055
+[Event] CPU ARRIVAL of job#287 at time: 7055
+[Event] CPU FINISH of job#142 at time: 7058
+[Event] NETWORK ARRIVAL of job#142 at time: 7058
+[Event] DISK1 FINISH of job#116 at time: 7072
+[Event] CPU ARRIVAL of job#116 at time: 7072
+[Event] JOB ARRIVAL job#288 at time: 7078
+[Event] CPU ARRIVAL of job#288 at time: 7078
+[Event] CPU FINISH of job#143 at time: 7090
+[Event] JOB ARRIVAL job#289 at time: 7099
+[Event] CPU ARRIVAL of job#289 at time: 7099
+[Event] DISK2 FINISH of job#118 at time: 7117
+[Event] CPU ARRIVAL of job#118 at time: 7117
+[Event] CPU FINISH of job#57 at time: 7118
+[Event] NETWORK ARRIVAL of job#57 at time: 7118
+[Event] JOB ARRIVAL job#290 at time: 7122
+[Event] CPU ARRIVAL of job#290 at time: 7122
+[Event] JOB ARRIVAL job#291 at time: 7147
+[Event] CPU ARRIVAL of job#291 at time: 7147
+[Event] CPU FINISH of job#144 at time: 7149
+[Event] JOB ARRIVAL job#292 at time: 7173
+[Event] CPU ARRIVAL of job#292 at time: 7173
+[Event] CPU FINISH of job#145 at time: 7174
+[Event] DISK1 ARRIVAL of job#145 at time: 7174
+[Event] JOB ARRIVAL job#293 at time: 7195
+[Event] CPU ARRIVAL of job#293 at time: 7195
+[Event] DISK1 FINISH of job#49 at time: 7203
+[Event] CPU ARRIVAL of job#49 at time: 7203
+[Event] CPU FINISH of job#146 at time: 7216
+[Event] JOB ARRIVAL job#294 at time: 7217
+[Event] CPU ARRIVAL of job#294 at time: 7217
+[Event] JOB ARRIVAL job#295 at time: 7242
+[Event] CPU ARRIVAL of job#295 at time: 7242
+[Event] CPU FINISH of job#27 at time: 7247
+[Event] NETWORK ARRIVAL of job#27 at time: 7247
+[Event] JOB ARRIVAL job#296 at time: 7269
+[Event] CPU ARRIVAL of job#296 at time: 7269
+[Event] CPU FINISH of job#147 at time: 7280
+[Event] NETWORK ARRIVAL of job#147 at time: 7280
+[Event] JOB ARRIVAL job#297 at time: 7298
+[Event] CPU ARRIVAL of job#297 at time: 7298
+[Event] DISK2 FINISH of job#50 at time: 7299
+[Event] CPU ARRIVAL of job#50 at time: 7299
+[Event] CPU FINISH of job#148 at time: 7317
+[Event] DISK2 ARRIVAL of job#148 at time: 7317
+[Event] JOB ARRIVAL job#298 at time: 7321
+[Event] CPU ARRIVAL of job#298 at time: 7321
+[Event] DISK1 FINISH of job#117 at time: 7337
+[Event] CPU ARRIVAL of job#117 at time: 7337
+[Event] CPU FINISH of job#149 at time: 7346
+[Event] DISK1 ARRIVAL of job#149 at time: 7346
+[Event] JOB ARRIVAL job#299 at time: 7348
+[Event] CPU ARRIVAL of job#299 at time: 7348
+[Event] JOB ARRIVAL job#300 at time: 7371
+[Event] CPU ARRIVAL of job#300 at time: 7371
+[Event] CPU FINISH of job#150 at time: 7378
+[Event] JOB ARRIVAL job#301 at time: 7391
+[Event] CPU ARRIVAL of job#301 at time: 7391
+[Event] NETWORK FINISH of job#23 at time: 7392
+[Event] CPU ARRIVAL of job#23 at time: 7392
+[Event] CPU FINISH of job#151 at time: 7410
+[Event] DISK1 ARRIVAL of job#151 at time: 7410
+[Event] JOB ARRIVAL job#302 at time: 7416
+[Event] CPU ARRIVAL of job#302 at time: 7416
+[Event] JOB ARRIVAL job#303 at time: 7439
+[Event] CPU ARRIVAL of job#303 at time: 7439
+[Event] CPU FINISH of job#28 at time: 7445
+[Event] JOB ARRIVAL job#304 at time: 7463
+[Event] CPU ARRIVAL of job#304 at time: 7463
+[Event] DISK1 FINISH of job#121 at time: 7469
+[Event] CPU ARRIVAL of job#121 at time: 7469
+[Event] CPU FINISH of job#61 at time: 7471
+[Event] DISK2 ARRIVAL of job#61 at time: 7471
+[Event] DISK2 FINISH of job#122 at time: 7475
+[Event] CPU ARRIVAL of job#122 at time: 7475
+[Event] JOB ARRIVAL job#305 at time: 7483
+[Event] CPU ARRIVAL of job#305 at time: 7483
+[Event] CPU FINISH of job#152 at time: 7496
+[Event] DISK2 ARRIVAL of job#152 at time: 7496
+[Event] JOB ARRIVAL job#306 at time: 7503
+[Event] CPU ARRIVAL of job#306 at time: 7503
+[Event] JOB ARRIVAL job#307 at time: 7526
+[Event] CPU ARRIVAL of job#307 at time: 7526
+[Event] CPU FINISH of job#153 at time: 7532
+[Event] NETWORK ARRIVAL of job#153 at time: 7532
+[Event] JOB ARRIVAL job#308 at time: 7553
+[Event] CPU ARRIVAL of job#308 at time: 7553
+[Event] CPU FINISH of job#154 at time: 7560
+[Event] DISK1 ARRIVAL of job#154 at time: 7560
+[Event] JOB ARRIVAL job#309 at time: 7574
+[Event] CPU ARRIVAL of job#309 at time: 7574
+[Event] CPU FINISH of job#155 at time: 7595
+[Event] DISK2 ARRIVAL of job#155 at time: 7595
+[Event] JOB ARRIVAL job#310 at time: 7599
+[Event] CPU ARRIVAL of job#310 at time: 7599
+[Event] DISK1 FINISH of job#22 at time: 7611
+[Event] CPU ARRIVAL of job#22 at time: 7611
+[Event] JOB ARRIVAL job#311 at time: 7622
+[Event] CPU ARRIVAL of job#311 at time: 7622
+[Event] CPU FINISH of job#156 at time: 7635
+[Event] DISK1 ARRIVAL of job#156 at time: 7635
+[Event] JOB ARRIVAL job#312 at time: 7644
+[Event] CPU ARRIVAL of job#312 at time: 7644
+[Event] DISK2 FINISH of job#123 at time: 7650
+[Event] CPU ARRIVAL of job#123 at time: 7650
+[Event] CPU FINISH of job#157 at time: 7668
+[Event] DISK1 ARRIVAL of job#157 at time: 7668
+[Event] JOB ARRIVAL job#313 at time: 7671
+[Event] CPU ARRIVAL of job#313 at time: 7671
+[Event] JOB ARRIVAL job#314 at time: 7692
+[Event] CPU ARRIVAL of job#314 at time: 7692
+[Event] CPU FINISH of job#62 at time: 7695
+[Event] JOB ARRIVAL job#315 at time: 7713
+[Event] CPU ARRIVAL of job#315 at time: 7713
+[Event] DISK1 FINISH of job#124 at time: 7719
+[Event] CPU ARRIVAL of job#124 at time: 7719
+[Event] JOB ARRIVAL job#316 at time: 7741
+[Event] CPU ARRIVAL of job#316 at time: 7741
+[Event] CPU FINISH of job#158 at time: 7744
+[Event] JOB ARRIVAL job#317 at time: 7769
+[Event] CPU ARRIVAL of job#317 at time: 7769
+[Event] CPU FINISH of job#159 at time: 7782
+[Event] NETWORK ARRIVAL of job#159 at time: 7782
+[Event] JOB ARRIVAL job#318 at time: 7792
+[Event] CPU ARRIVAL of job#318 at time: 7792
+[Event] CPU FINISH of job#65 at time: 7809
+[Event] DISK2 ARRIVAL of job#65 at time: 7809
+[Event] JOB ARRIVAL job#319 at time: 7818
+[Event] CPU ARRIVAL of job#319 at time: 7818
+[Event] JOB ARRIVAL job#320 at time: 7845
+[Event] CPU ARRIVAL of job#320 at time: 7845
+[Event] DISK2 FINISH of job#126 at time: 7847
+[Event] CPU ARRIVAL of job#126 at time: 7847
+[Event] CPU FINISH of job#160 at time: 7858
+[Event] DISK1 ARRIVAL of job#160 at time: 7858
+[Event] DISK1 FINISH of job#132 at time: 7858
+[Event] CPU ARRIVAL of job#132 at time: 7858
+[Event] JOB ARRIVAL job#321 at time: 7872
+[Event] CPU ARRIVAL of job#321 at time: 7872
+[Event] CPU FINISH of job#161 at time: 7890
+[Event] DISK1 ARRIVAL of job#161 at time: 7890
+[Event] JOB ARRIVAL job#322 at time: 7893
+[Event] CPU ARRIVAL of job#322 at time: 7893
+[Event] JOB ARRIVAL job#323 at time: 7917
+[Event] CPU ARRIVAL of job#323 at time: 7917
+[Event] CPU FINISH of job#162 at time: 7925
+[Event] JOB ARRIVAL job#324 at time: 7942
+[Event] CPU ARRIVAL of job#324 at time: 7942
+[Event] CPU FINISH of job#63 at time: 7951
+[Event] DISK2 ARRIVAL of job#63 at time: 7951
+[Event] JOB ARRIVAL job#325 at time: 7968
+[Event] CPU ARRIVAL of job#325 at time: 7968
+[Event] DISK1 FINISH of job#133 at time: 7975
+[Event] CPU ARRIVAL of job#133 at time: 7975
+[Event] NETWORK FINISH of job#9 at time: 7978
+[Event] CPU ARRIVAL of job#9 at time: 7978
+[Event] CPU FINISH of job#163 at time: 7979
+[Event] DISK1 ARRIVAL of job#163 at time: 7979
+[Event] JOB ARRIVAL job#326 at time: 7996
+[Event] CPU ARRIVAL of job#326 at time: 7996
+[Event] JOB ARRIVAL job#327 at time: 8020
+[Event] CPU ARRIVAL of job#327 at time: 8020
+[Event] CPU FINISH of job#164 at time: 8026
+[Event] DISK1 ARRIVAL of job#164 at time: 8026
+[Event] JOB ARRIVAL job#328 at time: 8045
+[Event] CPU ARRIVAL of job#328 at time: 8045
+[Event] DISK2 FINISH of job#52 at time: 8046
+[Event] CPU ARRIVAL of job#52 at time: 8046
+[Event] CPU FINISH of job#165 at time: 8051
+[Event] NETWORK ARRIVAL of job#165 at time: 8051
+[Event] JOB ARRIVAL job#329 at time: 8068
+[Event] CPU ARRIVAL of job#329 at time: 8068
+[Event] CPU FINISH of job#166 at time: 8078
+[Event] DISK2 ARRIVAL of job#166 at time: 8078
+[Event] JOB ARRIVAL job#330 at time: 8089
+[Event] CPU ARRIVAL of job#330 at time: 8089
+[Event] JOB ARRIVAL job#331 at time: 8113
+[Event] CPU ARRIVAL of job#331 at time: 8113
+[Event] DISK1 FINISH of job#136 at time: 8118
+[Event] CPU ARRIVAL of job#136 at time: 8118
+[Event] CPU FINISH of job#167 at time: 8121
+[Event] DISK1 ARRIVAL of job#167 at time: 8121
+[Event] JOB ARRIVAL job#332 at time: 8134
+[Event] CPU ARRIVAL of job#332 at time: 8134
+[Event] JOB ARRIVAL job#333 at time: 8155
+[Event] CPU ARRIVAL of job#333 at time: 8155
+[Event] CPU FINISH of job#26 at time: 8156
+[Event] DISK2 ARRIVAL of job#26 at time: 8156
+[Event] JOB ARRIVAL job#334 at time: 8177
+[Event] CPU ARRIVAL of job#334 at time: 8177
+[Event] JOB ARRIVAL job#335 at time: 8199
+[Event] CPU ARRIVAL of job#335 at time: 8199
+[Event] CPU FINISH of job#168 at time: 8203
+[Event] NETWORK ARRIVAL of job#168 at time: 8203
+[Event] DISK2 FINISH of job#128 at time: 8208
+[Event] CPU ARRIVAL of job#128 at time: 8208
+[Event] JOB ARRIVAL job#336 at time: 8219
+[Event] CPU ARRIVAL of job#336 at time: 8219
+[Event] DISK1 FINISH of job#56 at time: 8227
+[Event] CPU ARRIVAL of job#56 at time: 8227
+[Event] CPU FINISH of job#13 at time: 8240
+[Event] JOB ARRIVAL job#337 at time: 8246
+[Event] CPU ARRIVAL of job#337 at time: 8246
+[Event] JOB ARRIVAL job#338 at time: 8272
+[Event] CPU ARRIVAL of job#338 at time: 8272
+[Event] CPU FINISH of job#71 at time: 8288
+[Event] NETWORK ARRIVAL of job#71 at time: 8288
+[Event] JOB ARRIVAL job#339 at time: 8293
+[Event] CPU ARRIVAL of job#339 at time: 8293
+[Event] JOB ARRIVAL job#340 at time: 8316
+[Event] CPU ARRIVAL of job#340 at time: 8316
+[Event] CPU FINISH of job#169 at time: 8327
+[Event] DISK2 ARRIVAL of job#169 at time: 8327
+[Event] DISK1 FINISH of job#138 at time: 8331
+[Event] CPU ARRIVAL of job#138 at time: 8331
+[Event] JOB ARRIVAL job#341 at time: 8337
+[Event] CPU ARRIVAL of job#341 at time: 8337
+[Event] JOB ARRIVAL job#342 at time: 8365
+[Event] CPU ARRIVAL of job#342 at time: 8365
+[Event] CPU FINISH of job#170 at time: 8374
+[Event] NETWORK ARRIVAL of job#170 at time: 8374
+[Event] JOB ARRIVAL job#343 at time: 8386
+[Event] CPU ARRIVAL of job#343 at time: 8386
+[Event] CPU FINISH of job#171 at time: 8404
+[Event] DISK1 ARRIVAL of job#171 at time: 8404
+[Event] DISK2 FINISH of job#129 at time: 8407
+[Event] CPU ARRIVAL of job#129 at time: 8407
+[Event] JOB ARRIVAL job#344 at time: 8412
+[Event] CPU ARRIVAL of job#344 at time: 8412
+[Event] JOB ARRIVAL job#345 at time: 8434
+[Event] CPU ARRIVAL of job#345 at time: 8434
+[Event] DISK1 FINISH of job#141 at time: 8440
+[Event] CPU ARRIVAL of job#141 at time: 8440
+[Event] CPU FINISH of job#172 at time: 8444
+[Event] JOB ARRIVAL job#346 at time: 8459
+[Event] CPU ARRIVAL of job#346 at time: 8459
+[Event] JOB ARRIVAL job#347 at time: 8480
+[Event] CPU ARRIVAL of job#347 at time: 8480
+[Event] CPU FINISH of job#173 at time: 8488
+[Event] JOB ARRIVAL job#348 at time: 8503
+[Event] CPU ARRIVAL of job#348 at time: 8503
+[Event] CPU FINISH of job#68 at time: 8514
+[Event] DISK1 ARRIVAL of job#68 at time: 8514
+[Event] JOB ARRIVAL job#349 at time: 8523
+[Event] CPU ARRIVAL of job#349 at time: 8523
+[Event] CPU FINISH of job#74 at time: 8545
+[Event] DISK1 ARRIVAL of job#74 at time: 8545
+[Event] JOB ARRIVAL job#350 at time: 8547
+[Event] CPU ARRIVAL of job#350 at time: 8547
+[Event] DISK1 FINISH of job#59 at time: 8551
+[Event] CPU ARRIVAL of job#59 at time: 8551
+[Event] JOB ARRIVAL job#351 at time: 8571
+[Event] CPU ARRIVAL of job#351 at time: 8571
+[Event] DISK2 FINISH of job#54 at time: 8577
+[Event] CPU ARRIVAL of job#54 at time: 8577
+[Event] CPU FINISH of job#174 at time: 8584
+[Event] DISK1 ARRIVAL of job#174 at time: 8584
+[Event] JOB ARRIVAL job#352 at time: 8600
+[Event] CPU ARRIVAL of job#352 at time: 8600
+[Event] CPU FINISH of job#175 at time: 8621
+[Event] DISK2 ARRIVAL of job#175 at time: 8621
+[Event] JOB ARRIVAL job#353 at time: 8626
+[Event] CPU ARRIVAL of job#353 at time: 8626
+[Event] JOB ARRIVAL job#354 at time: 8646
+[Event] CPU ARRIVAL of job#354 at time: 8646
+[Event] CPU FINISH of job#176 at time: 8666
+[Event] DISK2 ARRIVAL of job#176 at time: 8666
+[Event] JOB ARRIVAL job#355 at time: 8675
+[Event] CPU ARRIVAL of job#355 at time: 8675
+[Event] DISK1 FINISH of job#145 at time: 8676
+[Event] CPU ARRIVAL of job#145 at time: 8676
+[Event] JOB ARRIVAL job#356 at time: 8701
+[Event] CPU ARRIVAL of job#356 at time: 8701
+[Event] CPU FINISH of job#177 at time: 8705
+[Event] DISK2 ARRIVAL of job#177 at time: 8705
+[Event] JOB ARRIVAL job#357 at time: 8724
+[Event] CPU ARRIVAL of job#357 at time: 8724
+[Event] CPU FINISH of job#178 at time: 8744
+[Event] NETWORK ARRIVAL of job#178 at time: 8744
+[Event] JOB ARRIVAL job#358 at time: 8746
+[Event] CPU ARRIVAL of job#358 at time: 8746
+[Event] NETWORK FINISH of job#34 at time: 8756
+[Event] CPU ARRIVAL of job#34 at time: 8756
+[Event] JOB ARRIVAL job#359 at time: 8766
+[Event] CPU ARRIVAL of job#359 at time: 8766
+[Event] DISK2 FINISH of job#137 at time: 8768
+[Event] CPU ARRIVAL of job#137 at time: 8768
+[Event] CPU FINISH of job#33 at time: 8790
+[Event] DISK2 ARRIVAL of job#33 at time: 8790
+[Event] JOB ARRIVAL job#360 at time: 8795
+[Event] CPU ARRIVAL of job#360 at time: 8795
+[Event] DISK1 FINISH of job#149 at time: 8812
+[Event] CPU ARRIVAL of job#149 at time: 8812
+[Event] JOB ARRIVAL job#361 at time: 8823
+[Event] CPU ARRIVAL of job#361 at time: 8823
+[Event] CPU FINISH of job#179 at time: 8838
+[Event] DISK1 ARRIVAL of job#179 at time: 8838
+[Event] JOB ARRIVAL job#362 at time: 8850
+[Event] CPU ARRIVAL of job#362 at time: 8850
+[Event] CPU FINISH of job#180 at time: 8876
+[Event] DISK1 ARRIVAL of job#180 at time: 8876
+[Event] JOB ARRIVAL job#363 at time: 8878
+[Event] CPU ARRIVAL of job#363 at time: 8878
+[Event] JOB ARRIVAL job#364 at time: 8903
+[Event] CPU ARRIVAL of job#364 at time: 8903
+[Event] CPU FINISH of job#31 at time: 8925
+[Event] DISK1 ARRIVAL of job#31 at time: 8925
+[Event] JOB ARRIVAL job#365 at time: 8926
+[Event] CPU ARRIVAL of job#365 at time: 8926
+[Event] JOB ARRIVAL job#366 at time: 8949
+[Event] DISK2 FINISH of job#139 at time: 8949
+[Event] CPU ARRIVAL of job#139 at time: 8949
+[Event] CPU ARRIVAL of job#366 at time: 8949
+[Event] DISK1 FINISH of job#151 at time: 8957
+[Event] CPU ARRIVAL of job#151 at time: 8957
+[Event] CPU FINISH of job#181 at time: 8968
+[Event] DISK2 ARRIVAL of job#181 at time: 8968
+[Event] JOB ARRIVAL job#367 at time: 8972
+[Event] CPU ARRIVAL of job#367 at time: 8972
+[Event] JOB ARRIVAL job#368 at time: 8997
+[Event] CPU ARRIVAL of job#368 at time: 8997
+[Event] CPU FINISH of job#182 at time: 9001
+[Event] NETWORK ARRIVAL of job#182 at time: 9001
+[Event] JOB ARRIVAL job#369 at time: 9018
+[Event] CPU ARRIVAL of job#369 at time: 9018
+[Event] CPU FINISH of job#183 at time: 9037
+[Event] JOB ARRIVAL job#370 at time: 9041
+[Event] CPU ARRIVAL of job#370 at time: 9041
+[Event] CPU FINISH of job#184 at time: 9062
+[Event] DISK2 ARRIVAL of job#184 at time: 9062
+[Event] JOB ARRIVAL job#371 at time: 9065
+[Event] CPU ARRIVAL of job#371 at time: 9065
+[Event] DISK1 FINISH of job#154 at time: 9078
+[Event] CPU ARRIVAL of job#154 at time: 9078
+[Event] CPU FINISH of job#78 at time: 9087
+[Event] NETWORK ARRIVAL of job#78 at time: 9087
+[Event] JOB ARRIVAL job#372 at time: 9089
+[Event] CPU ARRIVAL of job#372 at time: 9089
+[Event] JOB ARRIVAL job#373 at time: 9113
+[Event] CPU ARRIVAL of job#373 at time: 9113
+[Event] CPU FINISH of job#185 at time: 9131
+[Event] DISK1 ARRIVAL of job#185 at time: 9131
+[Event] DISK2 FINISH of job#140 at time: 9135
+[Event] CPU ARRIVAL of job#140 at time: 9135
+[Event] JOB ARRIVAL job#374 at time: 9142
+[Event] CPU ARRIVAL of job#374 at time: 9142
+[Event] JOB ARRIVAL job#375 at time: 9165
+[Event] CPU ARRIVAL of job#375 at time: 9165
+[Event] CPU FINISH of job#186 at time: 9169
+[Event] DISK2 ARRIVAL of job#186 at time: 9169
+[Event] DISK1 FINISH of job#156 at time: 9187
+[Event] CPU ARRIVAL of job#156 at time: 9187
+[Event] JOB ARRIVAL job#376 at time: 9194
+[Event] CPU ARRIVAL of job#376 at time: 9194
+[Event] CPU FINISH of job#187 at time: 9202
+[Event] DISK1 ARRIVAL of job#187 at time: 9202
+[Event] JOB ARRIVAL job#377 at time: 9215
+[Event] CPU ARRIVAL of job#377 at time: 9215
+[Event] CPU FINISH of job#73 at time: 9227
+[Event] JOB ARRIVAL job#378 at time: 9236
+[Event] CPU ARRIVAL of job#378 at time: 9236
+[Event] JOB ARRIVAL job#379 at time: 9258
+[Event] CPU ARRIVAL of job#379 at time: 9258
+[Event] CPU FINISH of job#188 at time: 9269
+[Event] DISK1 ARRIVAL of job#188 at time: 9269
+[Event] JOB ARRIVAL job#380 at time: 9287
+[Event] CPU ARRIVAL of job#380 at time: 9287
+[Event] DISK1 FINISH of job#157 at time: 9293
+[Event] CPU ARRIVAL of job#157 at time: 9293
+[Event] CPU FINISH of job#189 at time: 9296
+[Event] JOB ARRIVAL job#381 at time: 9308
+[Event] CPU ARRIVAL of job#381 at time: 9308
+[Event] DISK2 FINISH of job#148 at time: 9311
+[Event] CPU ARRIVAL of job#148 at time: 9311
+[Event] JOB ARRIVAL job#382 at time: 9336
+[Event] CPU ARRIVAL of job#382 at time: 9336
+[Event] CPU FINISH of job#190 at time: 9345
+[Event] NETWORK ARRIVAL of job#190 at time: 9345
+[Event] JOB ARRIVAL job#383 at time: 9359
+[Event] CPU ARRIVAL of job#383 at time: 9359
+[Event] CPU FINISH of job#80 at time: 9372
+[Event] DISK1 ARRIVAL of job#80 at time: 9372
+[Event] JOB ARRIVAL job#384 at time: 9381
+[Event] CPU ARRIVAL of job#384 at time: 9381
+[Event] DISK1 FINISH of job#160 at time: 9395
+[Event] CPU ARRIVAL of job#160 at time: 9395
+[Event] JOB ARRIVAL job#385 at time: 9406
+[Event] CPU ARRIVAL of job#385 at time: 9406
+[Event] CPU FINISH of job#191 at time: 9420
+[Event] JOB ARRIVAL job#386 at time: 9433
+[Event] CPU ARRIVAL of job#386 at time: 9433
+[Event] JOB ARRIVAL job#387 at time: 9454
+[Event] CPU ARRIVAL of job#387 at time: 9454
+[Event] CPU FINISH of job#192 at time: 9466
+[Event] DISK1 ARRIVAL of job#192 at time: 9466
+[Event] JOB ARRIVAL job#388 at time: 9477
+[Event] DISK2 FINISH of job#61 at time: 9477
+[Event] CPU ARRIVAL of job#388 at time: 9477
+[Event] CPU ARRIVAL of job#61 at time: 9477
+[Event] CPU FINISH of job#193 at time: 9492
+[Event] JOB ARRIVAL job#389 at time: 9500
+[Event] CPU ARRIVAL of job#389 at time: 9500
+[Event] JOB ARRIVAL job#390 at time: 9520
+[Event] CPU ARRIVAL of job#390 at time: 9520
+[Event] DISK1 FINISH of job#161 at time: 9528
+[Event] CPU ARRIVAL of job#161 at time: 9528
+[Event] CPU FINISH of job#76 at time: 9540
+[Event] DISK1 ARRIVAL of job#76 at time: 9540
+[Event] NETWORK FINISH of job#11 at time: 9545
+[Event] CPU ARRIVAL of job#11 at time: 9545
+[Event] JOB ARRIVAL job#391 at time: 9549
+[Event] CPU ARRIVAL of job#391 at time: 9549
+[Event] JOB ARRIVAL job#392 at time: 9578
+[Event] CPU ARRIVAL of job#392 at time: 9578
+[Event] CPU FINISH of job#81 at time: 9588
+[Event] JOB ARRIVAL job#393 at time: 9598
+[Event] CPU ARRIVAL of job#393 at time: 9598
+[Event] JOB ARRIVAL job#394 at time: 9618
+[Event] CPU ARRIVAL of job#394 at time: 9618
+[Event] CPU FINISH of job#194 at time: 9629
+[Event] NETWORK ARRIVAL of job#194 at time: 9629
+[Event] DISK1 FINISH of job#163 at time: 9637
+[Event] CPU ARRIVAL of job#163 at time: 9637
+[Event] JOB ARRIVAL job#395 at time: 9638
+[Event] CPU ARRIVAL of job#395 at time: 9638
+[Event] CPU FINISH of job#195 at time: 9655
+[Event] DISK2 ARRIVAL of job#195 at time: 9655
+[Event] JOB ARRIVAL job#396 at time: 9658
+[Event] CPU ARRIVAL of job#396 at time: 9658
+[Event] DISK2 FINISH of job#152 at time: 9662
+[Event] CPU ARRIVAL of job#152 at time: 9662
+[Event] JOB ARRIVAL job#397 at time: 9685
+[Event] CPU ARRIVAL of job#397 at time: 9685
+[Event] CPU FINISH of job#196 at time: 9688
+[Event] JOB ARRIVAL job#398 at time: 9706
+[Event] CPU ARRIVAL of job#398 at time: 9706
+[Event] CPU FINISH of job#197 at time: 9723
+[Event] JOB ARRIVAL job#399 at time: 9731
+[Event] CPU ARRIVAL of job#399 at time: 9731
+[Event] JOB ARRIVAL job#400 at time: 9752
+[Event] CPU ARRIVAL of job#400 at time: 9752
+[Event] CPU FINISH of job#198 at time: 9763
+[Event] DISK1 ARRIVAL of job#198 at time: 9763
+[Event] DISK1 FINISH of job#164 at time: 9776
+[Event] CPU ARRIVAL of job#164 at time: 9776
+[Event] JOB ARRIVAL job#401 at time: 9780
+[Event] CPU ARRIVAL of job#401 at time: 9780
+[Event] JOB ARRIVAL job#402 at time: 9801
+[Event] CPU ARRIVAL of job#402 at time: 9801
+[Event] CPU FINISH of job#85 at time: 9808
+[Event] NETWORK ARRIVAL of job#85 at time: 9808
+[Event] JOB ARRIVAL job#403 at time: 9821
+[Event] CPU ARRIVAL of job#403 at time: 9821
+[Event] JOB ARRIVAL job#404 at time: 9850
+[Event] CPU ARRIVAL of job#404 at time: 9850
+[Event] CPU FINISH of job#199 at time: 9851
+[Event] DISK1 ARRIVAL of job#199 at time: 9851
+[Event] DISK2 FINISH of job#155 at time: 9855
+[Event] CPU ARRIVAL of job#155 at time: 9855
+[Event] JOB ARRIVAL job#405 at time: 9874
+[Event] CPU ARRIVAL of job#405 at time: 9874
+[Event] CPU FINISH of job#15 at time: 9889
+[Event] JOB ARRIVAL job#406 at time: 9896
+[Event] CPU ARRIVAL of job#406 at time: 9896
+[Event] DISK1 FINISH of job#167 at time: 9905
+[Event] CPU ARRIVAL of job#167 at time: 9905
+[Event] JOB ARRIVAL job#407 at time: 9919
+[Event] CPU ARRIVAL of job#407 at time: 9919
+[Event] CPU FINISH of job#200 at time: 9933
+[Event] NETWORK ARRIVAL of job#200 at time: 9933
+[Event] JOB ARRIVAL job#408 at time: 9942
+[Event] CPU ARRIVAL of job#408 at time: 9942
+[Event] JOB ARRIVAL job#409 at time: 9971
+[Event] CPU FINISH of job#79 at time: 9971
+[Event] NETWORK ARRIVAL of job#79 at time: 9971
+[Event] CPU ARRIVAL of job#409 at time: 9971
+[Event] JOB ARRIVAL job#410 at time: 9995
+[Event] CPU ARRIVAL of job#410 at time: 9995
+[Event] JOB ARRIVAL job#411 at time: 10016
+[Event] CPU ARRIVAL of job#411 at time: 10016
+[Event] CPU FINISH of job#201 at time: 10020
+[Event] DISK2 ARRIVAL of job#201 at time: 10020
+[Event] DISK2 FINISH of job#65 at time: 10024
+[Event] CPU ARRIVAL of job#65 at time: 10024
+[Event] DISK1 FINISH of job#171 at time: 10035
+[Event] CPU ARRIVAL of job#171 at time: 10035
+[Event] JOB ARRIVAL job#412 at time: 10045
+[Event] CPU ARRIVAL of job#412 at time: 10045
+[Event] CPU FINISH of job#202 at time: 10059
+[Event] NETWORK ARRIVAL of job#202 at time: 10059
+[Event] JOB ARRIVAL job#413 at time: 10074
+[Event] CPU ARRIVAL of job#413 at time: 10074
+[Event] JOB ARRIVAL job#414 at time: 10095
+[Event] CPU ARRIVAL of job#414 at time: 10095
+[Event] CPU FINISH of job#203 at time: 10099
+[Event] DISK1 ARRIVAL of job#203 at time: 10099
+[Event] JOB ARRIVAL job#415 at time: 10116
+[Event] CPU ARRIVAL of job#415 at time: 10116
+[Event] CPU FINISH of job#86 at time: 10133
+[Event] DISK2 ARRIVAL of job#86 at time: 10133
+[Event] JOB ARRIVAL job#416 at time: 10138
+[Event] CPU ARRIVAL of job#416 at time: 10138
+[Event] DISK1 FINISH of job#68 at time: 10150
+[Event] CPU ARRIVAL of job#68 at time: 10150
+[Event] JOB ARRIVAL job#417 at time: 10167
+[Event] CPU ARRIVAL of job#417 at time: 10167
+[Event] CPU FINISH of job#204 at time: 10170
+[Event] DISK2 ARRIVAL of job#204 at time: 10170
+[Event] JOB ARRIVAL job#418 at time: 10191
+[Event] CPU ARRIVAL of job#418 at time: 10191
+[Event] DISK2 FINISH of job#63 at time: 10210
+[Event] CPU ARRIVAL of job#63 at time: 10210
+[Event] CPU FINISH of job#205 at time: 10214
+[Event] DISK2 ARRIVAL of job#205 at time: 10214
+[Event] JOB ARRIVAL job#419 at time: 10220
+[Event] CPU ARRIVAL of job#419 at time: 10220
+[Event] JOB ARRIVAL job#420 at time: 10249
+[Event] CPU ARRIVAL of job#420 at time: 10249
+[Event] CPU FINISH of job#206 at time: 10257
+[Event] DISK1 ARRIVAL of job#206 at time: 10257
+[Event] JOB ARRIVAL job#421 at time: 10274
+[Event] CPU ARRIVAL of job#421 at time: 10274
+[Event] CPU FINISH of job#38 at time: 10286
+[Event] DISK1 FINISH of job#74 at time: 10292
+[Event] CPU ARRIVAL of job#74 at time: 10292
+[Event] JOB ARRIVAL job#422 at time: 10303
+[Event] CPU ARRIVAL of job#422 at time: 10303
+[Event] CPU FINISH of job#207 at time: 10320
+[Event] DISK1 ARRIVAL of job#207 at time: 10320
+[Event] JOB ARRIVAL job#423 at time: 10328
+[Event] CPU ARRIVAL of job#423 at time: 10328
+[Event] JOB ARRIVAL job#424 at time: 10357
+[Event] CPU FINISH of job#208 at time: 10357
+[Event] CPU ARRIVAL of job#424 at time: 10357
+[Event] DISK2 FINISH of job#166 at time: 10373
+[Event] CPU ARRIVAL of job#166 at time: 10373
+[Event] JOB ARRIVAL job#425 at time: 10377
+[Event] CPU ARRIVAL of job#425 at time: 10377
+[Event] CPU FINISH of job#37 at time: 10394
+[Event] JOB ARRIVAL job#426 at time: 10399
+[Event] CPU ARRIVAL of job#426 at time: 10399
+[Event] DISK1 FINISH of job#174 at time: 10407
+[Event] CPU ARRIVAL of job#174 at time: 10407
+[Event] JOB ARRIVAL job#427 at time: 10424
+[Event] CPU ARRIVAL of job#427 at time: 10424
+[Event] CPU FINISH of job#209 at time: 10433
+[Event] DISK2 ARRIVAL of job#209 at time: 10433
+[Event] JOB ARRIVAL job#428 at time: 10448
+[Event] CPU ARRIVAL of job#428 at time: 10448
+[Event] CPU FINISH of job#210 at time: 10469
+[Event] NETWORK ARRIVAL of job#210 at time: 10469
+[Event] NETWORK FINISH of job#39 at time: 10469
+[Event] CPU ARRIVAL of job#39 at time: 10469
+[Event] JOB ARRIVAL job#429 at time: 10471
+[Event] CPU ARRIVAL of job#429 at time: 10471
+[Event] JOB ARRIVAL job#430 at time: 10493
+[Event] CPU ARRIVAL of job#430 at time: 10493
+[Event] CPU FINISH of job#211 at time: 10510
+[Event] DISK1 ARRIVAL of job#211 at time: 10510
+[Event] DISK1 FINISH of job#179 at time: 10517
+[Event] CPU ARRIVAL of job#179 at time: 10517
+[Event] JOB ARRIVAL job#431 at time: 10518
+[Event] CPU ARRIVAL of job#431 at time: 10518
+[Event] JOB ARRIVAL job#432 at time: 10546
+[Event] CPU ARRIVAL of job#432 at time: 10546
+[Event] CPU FINISH of job#212 at time: 10553
+[Event] DISK2 FINISH of job#26 at time: 10560
+[Event] CPU ARRIVAL of job#26 at time: 10560
+[Event] JOB ARRIVAL job#433 at time: 10574
+[Event] CPU ARRIVAL of job#433 at time: 10574
+[Event] JOB ARRIVAL job#434 at time: 10596
+[Event] CPU ARRIVAL of job#434 at time: 10596
+[Event] CPU FINISH of job#213 at time: 10600
+[Event] DISK1 ARRIVAL of job#213 at time: 10600
+[Event] JOB ARRIVAL job#435 at time: 10623
+[Event] CPU ARRIVAL of job#435 at time: 10623
+[Event] DISK1 FINISH of job#180 at time: 10628
+[Event] CPU ARRIVAL of job#180 at time: 10628
+[Event] JOB ARRIVAL job#436 at time: 10649
+[Event] CPU FINISH of job#84 at time: 10649
+[Event] NETWORK ARRIVAL of job#84 at time: 10649
+[Event] CPU ARRIVAL of job#436 at time: 10649
+[Event] JOB ARRIVAL job#437 at time: 10675
+[Event] CPU ARRIVAL of job#437 at time: 10675
+[Event] CPU FINISH of job#214 at time: 10697
+[Event] JOB ARRIVAL job#438 at time: 10701
+[Event] CPU ARRIVAL of job#438 at time: 10701
+[Event] JOB ARRIVAL job#439 at time: 10723
+[Event] CPU ARRIVAL of job#439 at time: 10723
+[Event] CPU FINISH of job#88 at time: 10728
+[Event] DISK2 ARRIVAL of job#88 at time: 10728
+[Event] DISK1 FINISH of job#31 at time: 10731
+[Event] CPU ARRIVAL of job#31 at time: 10731
+[Event] JOB ARRIVAL job#440 at time: 10750
+[Event] CPU ARRIVAL of job#440 at time: 10750
+[Event] DISK2 FINISH of job#169 at time: 10755
+[Event] CPU ARRIVAL of job#169 at time: 10755
+[Event] CPU FINISH of job#215 at time: 10767
+[Event] DISK1 ARRIVAL of job#215 at time: 10767
+[Event] JOB ARRIVAL job#441 at time: 10776
+[Event] CPU ARRIVAL of job#441 at time: 10776
+[Event] CPU FINISH of job#216 at time: 10796
+[Event] NETWORK ARRIVAL of job#216 at time: 10796
+[Event] JOB ARRIVAL job#442 at time: 10803
+[Event] CPU ARRIVAL of job#442 at time: 10803
+[Event] CPU FINISH of job#217 at time: 10829
+[Event] DISK2 ARRIVAL of job#217 at time: 10829
+[Event] JOB ARRIVAL job#443 at time: 10830
+[Event] CPU ARRIVAL of job#443 at time: 10830
+[Event] JOB ARRIVAL job#444 at time: 10859
+[Event] CPU ARRIVAL of job#444 at time: 10859
+[Event] DISK1 FINISH of job#185 at time: 10861
+[Event] CPU ARRIVAL of job#185 at time: 10861
+[Event] CPU FINISH of job#218 at time: 10866
+[Event] DISK1 ARRIVAL of job#218 at time: 10866
+[Event] JOB ARRIVAL job#445 at time: 10884
+[Event] CPU ARRIVAL of job#445 at time: 10884
+[Event] CPU FINISH of job#219 at time: 10899
+[Event] DISK1 ARRIVAL of job#219 at time: 10899
+[Event] JOB ARRIVAL job#446 at time: 10909
+[Event] CPU ARRIVAL of job#446 at time: 10909
+[Event] JOB ARRIVAL job#447 at time: 10930
+[Event] CPU ARRIVAL of job#447 at time: 10930
+[Event] CPU FINISH of job#89 at time: 10944
+[Event] DISK2 ARRIVAL of job#89 at time: 10944
+[Event] DISK2 FINISH of job#175 at time: 10949
+[Event] CPU ARRIVAL of job#175 at time: 10949
+[Event] JOB ARRIVAL job#448 at time: 10955
+[Event] CPU ARRIVAL of job#448 at time: 10955
+[Event] DISK1 FINISH of job#187 at time: 10967
+[Event] CPU ARRIVAL of job#187 at time: 10967
+[Event] JOB ARRIVAL job#449 at time: 10977
+[Event] CPU ARRIVAL of job#449 at time: 10977
+[Event] CPU FINISH of job#220 at time: 10988
+[Event] DISK1 ARRIVAL of job#220 at time: 10988
+[Event] JOB ARRIVAL job#450 at time: 10997
+[Event] CPU ARRIVAL of job#450 at time: 10997
+[Event] CPU FINISH of job#221 at time: 11013
+[Event] NETWORK ARRIVAL of job#221 at time: 11013
+[Event] JOB ARRIVAL job#451 at time: 11019
+[Event] CPU ARRIVAL of job#451 at time: 11019
+[Event] JOB ARRIVAL job#452 at time: 11046
+[Event] CPU ARRIVAL of job#452 at time: 11046
+[Event] CPU FINISH of job#14 at time: 11054
+[Event] JOB ARRIVAL job#453 at time: 11072
+[Event] CPU ARRIVAL of job#453 at time: 11072
+[Event] CPU FINISH of job#222 at time: 11082
+[Event] DISK2 ARRIVAL of job#222 at time: 11082
+[Event] DISK1 FINISH of job#188 at time: 11088
+[Event] CPU ARRIVAL of job#188 at time: 11088
+[Event] JOB ARRIVAL job#454 at time: 11092
+[Event] CPU ARRIVAL of job#454 at time: 11092
+[Event] JOB ARRIVAL job#455 at time: 11118
+[Event] CPU ARRIVAL of job#455 at time: 11118
+[Event] DISK2 FINISH of job#176 at time: 11125
+[Event] CPU ARRIVAL of job#176 at time: 11125
+[Event] CPU FINISH of job#223 at time: 11128
+[Event] DISK1 ARRIVAL of job#223 at time: 11128
+[Event] JOB ARRIVAL job#456 at time: 11147
+[Event] CPU ARRIVAL of job#456 at time: 11147
+[Event] JOB ARRIVAL job#457 at time: 11172
+[Event] CPU FINISH of job#17 at time: 11172
+[Event] DISK2 ARRIVAL of job#17 at time: 11172
+[Event] CPU ARRIVAL of job#457 at time: 11172
+[Event] JOB ARRIVAL job#458 at time: 11193
+[Event] CPU ARRIVAL of job#458 at time: 11193
+[Event] DISK1 FINISH of job#80 at time: 11201
+[Event] CPU ARRIVAL of job#80 at time: 11201
+[Event] CPU FINISH of job#224 at time: 11214
+[Event] DISK1 ARRIVAL of job#224 at time: 11214
+[Event] JOB ARRIVAL job#459 at time: 11216
+[Event] CPU ARRIVAL of job#459 at time: 11216
+[Event] JOB ARRIVAL job#460 at time: 11238
+[Event] CPU ARRIVAL of job#460 at time: 11238
+[Event] CPU FINISH of job#225 at time: 11254
+[Event] DISK1 ARRIVAL of job#225 at time: 11254
+[Event] JOB ARRIVAL job#461 at time: 11261
+[Event] CPU ARRIVAL of job#461 at time: 11261
+[Event] CPU FINISH of job#226 at time: 11285
+[Event] DISK2 ARRIVAL of job#226 at time: 11285
+[Event] JOB ARRIVAL job#462 at time: 11288
+[Event] CPU ARRIVAL of job#462 at time: 11288
+[Event] NETWORK FINISH of job#6 at time: 11290
+[Event] CPU ARRIVAL of job#6 at time: 11290
+[Event] DISK2 FINISH of job#177 at time: 11295
+[Event] CPU ARRIVAL of job#177 at time: 11295
+[Event] JOB ARRIVAL job#463 at time: 11311
+[Event] CPU ARRIVAL of job#463 at time: 11311
+[Event] CPU FINISH of job#227 at time: 11314
+[Event] DISK1 ARRIVAL of job#227 at time: 11314
+[Event] JOB ARRIVAL job#464 at time: 11336
+[Event] CPU ARRIVAL of job#464 at time: 11336
+[Event] DISK1 FINISH of job#192 at time: 11349
+[Event] CPU ARRIVAL of job#192 at time: 11349
+[Event] CPU FINISH of job#91 at time: 11354
+[Event] DISK1 ARRIVAL of job#91 at time: 11354
+[Event] JOB ARRIVAL job#465 at time: 11362
+[Event] CPU ARRIVAL of job#465 at time: 11362
+[Event] JOB ARRIVAL job#466 at time: 11384
+[Event] CPU ARRIVAL of job#466 at time: 11384
+[Event] CPU FINISH of job#95 at time: 11387
+[Event] DISK2 ARRIVAL of job#95 at time: 11387
+[Event] JOB ARRIVAL job#467 at time: 11409
+[Event] CPU ARRIVAL of job#467 at time: 11409
+[Event] JOB ARRIVAL job#468 at time: 11430
+[Event] CPU ARRIVAL of job#468 at time: 11430
+[Event] CPU FINISH of job#228 at time: 11434
+[Event] DISK2 ARRIVAL of job#228 at time: 11434
+[Event] JOB ARRIVAL job#469 at time: 11453
+[Event] CPU ARRIVAL of job#469 at time: 11453
+[Event] CPU FINISH of job#229 at time: 11462
+[Event] DISK1 ARRIVAL of job#229 at time: 11462
+[Event] DISK2 FINISH of job#33 at time: 11470
+[Event] CPU ARRIVAL of job#33 at time: 11470
+[Event] JOB ARRIVAL job#470 at time: 11475
+[Event] CPU ARRIVAL of job#470 at time: 11475
+[Event] DISK1 FINISH of job#76 at time: 11483
+[Event] CPU ARRIVAL of job#76 at time: 11483
+[Event] JOB ARRIVAL job#471 at time: 11499
+[Event] CPU ARRIVAL of job#471 at time: 11499
+[Event] CPU FINISH of job#230 at time: 11503
+[Event] NETWORK ARRIVAL of job#230 at time: 11503
+[Event] JOB ARRIVAL job#472 at time: 11519
+[Event] CPU ARRIVAL of job#472 at time: 11519
+[Event] JOB ARRIVAL job#473 at time: 11542
+[Event] CPU ARRIVAL of job#473 at time: 11542
+[Event] CPU FINISH of job#231 at time: 11545
+[Event] DISK1 ARRIVAL of job#231 at time: 11545
+[Event] JOB ARRIVAL job#474 at time: 11569
+[Event] CPU ARRIVAL of job#474 at time: 11569
+[Event] CPU FINISH of job#232 at time: 11589
+[Event] DISK1 ARRIVAL of job#232 at time: 11589
+[Event] JOB ARRIVAL job#475 at time: 11591
+[Event] CPU ARRIVAL of job#475 at time: 11591
+[Event] JOB ARRIVAL job#476 at time: 11611
+[Event] CPU ARRIVAL of job#476 at time: 11611
+[Event] CPU FINISH of job#101 at time: 11621
+[Event] NETWORK ARRIVAL of job#101 at time: 11621
+[Event] DISK1 FINISH of job#198 at time: 11629
+[Event] CPU ARRIVAL of job#198 at time: 11629
+[Event] JOB ARRIVAL job#477 at time: 11634
+[Event] CPU ARRIVAL of job#477 at time: 11634
+[Event] DISK2 FINISH of job#181 at time: 11644
+[Event] CPU ARRIVAL of job#181 at time: 11644
+[Event] CPU FINISH of job#233 at time: 11656
+[Event] DISK1 ARRIVAL of job#233 at time: 11656
+[Event] JOB ARRIVAL job#478 at time: 11661
+[Event] CPU ARRIVAL of job#478 at time: 11661
+[Event] JOB ARRIVAL job#479 at time: 11681
+[Event] CPU ARRIVAL of job#479 at time: 11681
+[Event] CPU FINISH of job#41 at time: 11693
+[Event] NETWORK ARRIVAL of job#41 at time: 11693
+[Event] JOB ARRIVAL job#480 at time: 11705
+[Event] CPU ARRIVAL of job#480 at time: 11705
+[Event] CPU FINISH of job#234 at time: 11719
+[Event] JOB ARRIVAL job#481 at time: 11725
+[Event] CPU ARRIVAL of job#481 at time: 11725
+[Event] JOB ARRIVAL job#482 at time: 11751
+[Event] CPU ARRIVAL of job#482 at time: 11751
+[Event] CPU FINISH of job#235 at time: 11761
+[Event] DISK2 ARRIVAL of job#235 at time: 11761
+[Event] JOB ARRIVAL job#483 at time: 11771
+[Event] CPU ARRIVAL of job#483 at time: 11771
+[Event] DISK1 FINISH of job#199 at time: 11777
+[Event] CPU ARRIVAL of job#199 at time: 11777
+[Event] JOB ARRIVAL job#484 at time: 11795
+[Event] CPU ARRIVAL of job#484 at time: 11795
+[Event] CPU FINISH of job#236 at time: 11800
+[Event] DISK1 ARRIVAL of job#236 at time: 11800
+[Event] JOB ARRIVAL job#485 at time: 11821
+[Event] CPU ARRIVAL of job#485 at time: 11821
+[Event] DISK2 FINISH of job#184 at time: 11835
+[Event] CPU ARRIVAL of job#184 at time: 11835
+[Event] CPU FINISH of job#237 at time: 11839
+[Event] DISK2 ARRIVAL of job#237 at time: 11839
+[Event] JOB ARRIVAL job#486 at time: 11850
+[Event] CPU ARRIVAL of job#486 at time: 11850
+[Event] CPU FINISH of job#238 at time: 11869
+[Event] JOB ARRIVAL job#487 at time: 11875
+[Event] CPU ARRIVAL of job#487 at time: 11875
+[Event] JOB ARRIVAL job#488 at time: 11900
+[Event] DISK1 FINISH of job#203 at time: 11900
+[Event] CPU ARRIVAL of job#203 at time: 11900
+[Event] CPU ARRIVAL of job#488 at time: 11900
+[Event] CPU FINISH of job#46 at time: 11905
+[Event] NETWORK FINISH of job#21 at time: 11928
+[Event] CPU ARRIVAL of job#21 at time: 11928
+[Event] JOB ARRIVAL job#489 at time: 11929
+[Event] CPU ARRIVAL of job#489 at time: 11929
+[Event] JOB ARRIVAL job#490 at time: 11950
+[Event] CPU ARRIVAL of job#490 at time: 11950
+[Event] CPU FINISH of job#16 at time: 11952
+[Event] DISK1 ARRIVAL of job#16 at time: 11952
+[Event] JOB ARRIVAL job#491 at time: 11971
+[Event] CPU ARRIVAL of job#491 at time: 11971
+[Event] DISK2 FINISH of job#186 at time: 11986
+[Event] CPU ARRIVAL of job#186 at time: 11986
+[Event] CPU FINISH of job#239 at time: 11996
+[Event] JOB ARRIVAL job#492 at time: 11999
+[Event] CPU ARRIVAL of job#492 at time: 11999
+[Event] JOB ARRIVAL job#493 at time: 12022
+[Event] CPU ARRIVAL of job#493 at time: 12022
+[Event] CPU FINISH of job#240 at time: 12040
+[Event] DISK1 ARRIVAL of job#240 at time: 12040
+[Event] DISK1 FINISH of job#206 at time: 12041
+[Event] CPU ARRIVAL of job#206 at time: 12041
+[Event] JOB ARRIVAL job#494 at time: 12043
+[Event] CPU ARRIVAL of job#494 at time: 12043
+[Event] JOB ARRIVAL job#495 at time: 12066
+[Event] CPU ARRIVAL of job#495 at time: 12066
+[Event] CPU FINISH of job#94 at time: 12088
+[Event] NETWORK ARRIVAL of job#94 at time: 12088
+[Event] JOB ARRIVAL job#496 at time: 12094
+[Event] CPU ARRIVAL of job#496 at time: 12094
+[Event] JOB ARRIVAL job#497 at time: 12114
+[Event] CPU ARRIVAL of job#497 at time: 12114
+[Event] CPU FINISH of job#241 at time: 12126
+[Event] NETWORK ARRIVAL of job#241 at time: 12126
+[Event] JOB ARRIVAL job#498 at time: 12134
+[Event] CPU ARRIVAL of job#498 at time: 12134
+[Event] JOB ARRIVAL job#499 at time: 12162
+[Event] CPU ARRIVAL of job#499 at time: 12162
+[Event] DISK2 FINISH of job#195 at time: 12163
+[Event] CPU ARRIVAL of job#195 at time: 12163
+[Event] CPU FINISH of job#242 at time: 12174
+[Event] NETWORK ARRIVAL of job#242 at time: 12174
+[Event] DISK1 FINISH of job#207 at time: 12180
+[Event] CPU ARRIVAL of job#207 at time: 12180
+[Event] JOB ARRIVAL job#500 at time: 12184
+[Event] CPU ARRIVAL of job#500 at time: 12184
+[Event] JOB ARRIVAL job#501 at time: 12209
+[Event] CPU ARRIVAL of job#501 at time: 12209
+[Event] CPU FINISH of job#243 at time: 12222
+[Event] DISK1 ARRIVAL of job#243 at time: 12222
+[Event] JOB ARRIVAL job#502 at time: 12238
+[Event] CPU ARRIVAL of job#502 at time: 12238
+[Event] JOB ARRIVAL job#503 at time: 12263
+[Event] CPU ARRIVAL of job#503 at time: 12263
+[Event] CPU FINISH of job#103 at time: 12264
+[Event] DISK1 ARRIVAL of job#103 at time: 12264
+[Event] JOB ARRIVAL job#504 at time: 12285
+[Event] CPU ARRIVAL of job#504 at time: 12285
+[Event] DISK1 FINISH of job#211 at time: 12290
+[Event] CPU ARRIVAL of job#211 at time: 12290
+[Event] CPU FINISH of job#244 at time: 12292
+[Event] DISK2 ARRIVAL of job#244 at time: 12292
+[Event] JOB ARRIVAL job#505 at time: 12312
+[Event] CPU ARRIVAL of job#505 at time: 12312
+[Event] DISK2 FINISH of job#201 at time: 12326
+[Event] CPU ARRIVAL of job#201 at time: 12326
+[Event] JOB ARRIVAL job#506 at time: 12338
+[Event] CPU ARRIVAL of job#506 at time: 12338
+[Event] CPU FINISH of job#245 at time: 12339
+[Event] CPU FINISH of job#246 at time: 12366
+[Event] NETWORK ARRIVAL of job#246 at time: 12366
+[Event] JOB ARRIVAL job#507 at time: 12367
+[Event] CPU ARRIVAL of job#507 at time: 12367
+[Event] JOB ARRIVAL job#508 at time: 12389
+[Event] CPU ARRIVAL of job#508 at time: 12389
+[Event] CPU FINISH of job#247 at time: 12394
+[Event] DISK2 ARRIVAL of job#247 at time: 12394
+[Event] JOB ARRIVAL job#509 at time: 12412
+[Event] CPU ARRIVAL of job#509 at time: 12412
+[Event] CPU FINISH of job#248 at time: 12429
+[Event] DISK1 ARRIVAL of job#248 at time: 12429
+[Event] DISK1 FINISH of job#213 at time: 12438
+[Event] CPU ARRIVAL of job#213 at time: 12438
+[Event] JOB ARRIVAL job#510 at time: 12440
+[Event] CPU ARRIVAL of job#510 at time: 12440
+[Event] JOB ARRIVAL job#511 at time: 12464
+[Event] CPU ARRIVAL of job#511 at time: 12464
+[Event] CPU FINISH of job#43 at time: 12478
+[Event] NETWORK ARRIVAL of job#43 at time: 12478
+[Event] JOB ARRIVAL job#512 at time: 12487
+[Event] CPU ARRIVAL of job#512 at time: 12487
+[Event] DISK2 FINISH of job#86 at time: 12488
+[Event] CPU ARRIVAL of job#86 at time: 12488
+[Event] CPU FINISH of job#249 at time: 12503
+[Event] DISK2 ARRIVAL of job#249 at time: 12503
+[Event] JOB ARRIVAL job#513 at time: 12515
+[Event] CPU ARRIVAL of job#513 at time: 12515
+[Event] JOB ARRIVAL job#514 at time: 12535
+[Event] CPU ARRIVAL of job#514 at time: 12535
+[Event] CPU FINISH of job#47 at time: 12541
+[Event] NETWORK ARRIVAL of job#47 at time: 12541
+[Event] DISK1 FINISH of job#215 at time: 12544
+[Event] CPU ARRIVAL of job#215 at time: 12544
+[Event] JOB ARRIVAL job#515 at time: 12556
+[Event] CPU ARRIVAL of job#515 at time: 12556
+[Event] JOB ARRIVAL job#516 at time: 12576
+[Event] CPU ARRIVAL of job#516 at time: 12576
+[Event] CPU FINISH of job#250 at time: 12580
+[Event] DISK2 ARRIVAL of job#250 at time: 12580
+[Event] JOB ARRIVAL job#517 at time: 12603
+[Event] CPU ARRIVAL of job#517 at time: 12603
+[Event] CPU FINISH of job#251 at time: 12613
+[Event] DISK2 ARRIVAL of job#251 at time: 12613
+[Event] JOB ARRIVAL job#518 at time: 12626
+[Event] CPU ARRIVAL of job#518 at time: 12626
+[Event] CPU FINISH of job#252 at time: 12642
+[Event] DISK1 ARRIVAL of job#252 at time: 12642
+[Event] JOB ARRIVAL job#519 at time: 12650
+[Event] CPU ARRIVAL of job#519 at time: 12650
+[Event] JOB ARRIVAL job#520 at time: 12676
+[Event] CPU ARRIVAL of job#520 at time: 12676
+[Event] CPU FINISH of job#253 at time: 12677
+[Event] NETWORK ARRIVAL of job#253 at time: 12677
+[Event] DISK2 FINISH of job#204 at time: 12685
+[Event] CPU ARRIVAL of job#204 at time: 12685
+[Event] DISK1 FINISH of job#218 at time: 12691
+[Event] CPU ARRIVAL of job#218 at time: 12691
+[Event] JOB ARRIVAL job#521 at time: 12696
+[Event] CPU ARRIVAL of job#521 at time: 12696
+[Event] CPU FINISH of job#254 at time: 12703
+[Event] JOB ARRIVAL job#522 at time: 12725
+[Event] CPU ARRIVAL of job#522 at time: 12725
+[Event] CPU FINISH of job#255 at time: 12730
+[Event] NETWORK ARRIVAL of job#255 at time: 12730
+[Event] JOB ARRIVAL job#523 at time: 12751
+[Event] CPU ARRIVAL of job#523 at time: 12751
+[Event] CPU FINISH of job#42 at time: 12770
+[Event] DISK2 ARRIVAL of job#42 at time: 12770
+[Event] JOB ARRIVAL job#524 at time: 12774
+[Event] CPU ARRIVAL of job#524 at time: 12774
+[Event] JOB ARRIVAL job#525 at time: 12797
+[Event] CPU ARRIVAL of job#525 at time: 12797
+[Event] CPU FINISH of job#108 at time: 12798
+[Event] DISK1 ARRIVAL of job#108 at time: 12798
+[Event] DISK1 FINISH of job#219 at time: 12820
+[Event] CPU ARRIVAL of job#219 at time: 12820
+[Event] JOB ARRIVAL job#526 at time: 12823
+[Event] CPU FINISH of job#256 at time: 12823
+[Event] CPU ARRIVAL of job#526 at time: 12823
+[Event] JOB ARRIVAL job#527 at time: 12846
+[Event] CPU ARRIVAL of job#527 at time: 12846
+[Event] CPU FINISH of job#257 at time: 12848
+[Event] DISK1 ARRIVAL of job#257 at time: 12848
+[Event] DISK2 FINISH of job#205 at time: 12851
+[Event] CPU ARRIVAL of job#205 at time: 12851
+[Event] JOB ARRIVAL job#528 at time: 12873
+[Event] CPU ARRIVAL of job#528 at time: 12873
+[Event] CPU FINISH of job#258 at time: 12889
+[Event] DISK2 ARRIVAL of job#258 at time: 12889
+[Event] JOB ARRIVAL job#529 at time: 12893
+[Event] CPU ARRIVAL of job#529 at time: 12893
+[Event] NETWORK FINISH of job#51 at time: 12912
+[Event] CPU ARRIVAL of job#51 at time: 12912
+[Event] JOB ARRIVAL job#530 at time: 12918
+[Event] CPU ARRIVAL of job#530 at time: 12918
+[Event] CPU FINISH of job#259 at time: 12934
+[Event] DISK2 ARRIVAL of job#259 at time: 12934
+[Event] JOB ARRIVAL job#531 at time: 12947
+[Event] CPU ARRIVAL of job#531 at time: 12947
+[Event] DISK1 FINISH of job#220 at time: 12949
+[Event] CPU ARRIVAL of job#220 at time: 12949
+[Event] CPU FINISH of job#260 at time: 12968
+[Event] NETWORK ARRIVAL of job#260 at time: 12968
+[Event] JOB ARRIVAL job#532 at time: 12970
+[Event] CPU ARRIVAL of job#532 at time: 12970
+[Event] JOB ARRIVAL job#533 at time: 12992
+[Event] CPU ARRIVAL of job#533 at time: 12992
+[Event] CPU FINISH of job#261 at time: 12996
+[Event] JOB ARRIVAL job#534 at time: 13014
+[Event] CPU ARRIVAL of job#534 at time: 13014
+[Event] CPU FINISH of job#109 at time: 13030
+[Event] DISK1 ARRIVAL of job#109 at time: 13030
+[Event] JOB ARRIVAL job#535 at time: 13034
+[Event] CPU ARRIVAL of job#535 at time: 13034
+[Event] DISK2 FINISH of job#209 at time: 13045
+[Event] CPU ARRIVAL of job#209 at time: 13045
+[Event] JOB ARRIVAL job#536 at time: 13060
+[Event] CPU ARRIVAL of job#536 at time: 13060
+[Event] DISK1 FINISH of job#223 at time: 13061
+[Event] CPU ARRIVAL of job#223 at time: 13061
+[Event] CPU FINISH of job#262 at time: 13064
+[Event] NETWORK ARRIVAL of job#262 at time: 13064
+[Event] JOB ARRIVAL job#537 at time: 13084
+[Event] CPU ARRIVAL of job#537 at time: 13084
+[Event] JOB ARRIVAL job#538 at time: 13109
+[Event] CPU ARRIVAL of job#538 at time: 13109
+[Event] CPU FINISH of job#104 at time: 13113
+[Event] DISK2 ARRIVAL of job#104 at time: 13113
+[Event] JOB ARRIVAL job#539 at time: 13130
+[Event] CPU ARRIVAL of job#539 at time: 13130
+[Event] CPU FINISH of job#263 at time: 13154
+[Event] DISK1 ARRIVAL of job#263 at time: 13154
+[Event] JOB ARRIVAL job#540 at time: 13157
+[Event] CPU ARRIVAL of job#540 at time: 13157
+[Event] JOB ARRIVAL job#541 at time: 13179
+[Event] CPU ARRIVAL of job#541 at time: 13179
+[Event] CPU FINISH of job#264 at time: 13191
+[Event] NETWORK ARRIVAL of job#264 at time: 13191
+[Event] JOB ARRIVAL job#542 at time: 13200
+[Event] CPU ARRIVAL of job#542 at time: 13200
+[Event] DISK1 FINISH of job#224 at time: 13207
+[Event] CPU ARRIVAL of job#224 at time: 13207
+[Event] DISK2 FINISH of job#88 at time: 13210
+[Event] CPU ARRIVAL of job#88 at time: 13210
+[Event] CPU FINISH of job#265 at time: 13226
+[Event] DISK2 ARRIVAL of job#265 at time: 13226
+[Event] JOB ARRIVAL job#543 at time: 13229
+[Event] CPU ARRIVAL of job#543 at time: 13229
+[Event] JOB ARRIVAL job#544 at time: 13254
+[Event] CPU ARRIVAL of job#544 at time: 13254
+[Event] CPU FINISH of job#266 at time: 13269
+[Event] DISK1 ARRIVAL of job#266 at time: 13269
+[Event] JOB ARRIVAL job#545 at time: 13282
+[Event] CPU ARRIVAL of job#545 at time: 13282
+[Event] JOB ARRIVAL job#546 at time: 13302
+[Event] CPU ARRIVAL of job#546 at time: 13302
+[Event] CPU FINISH of job#267 at time: 13306
+[Event] DISK2 ARRIVAL of job#267 at time: 13306
+[Event] DISK1 FINISH of job#225 at time: 13327
+[Event] CPU ARRIVAL of job#225 at time: 13327
+[Event] JOB ARRIVAL job#547 at time: 13328
+[Event] CPU ARRIVAL of job#547 at time: 13328
+[Event] CPU FINISH of job#110 at time: 13344
+[Event] DISK1 ARRIVAL of job#110 at time: 13344
+[Event] JOB ARRIVAL job#548 at time: 13353
+[Event] CPU ARRIVAL of job#548 at time: 13353
+[Event] JOB ARRIVAL job#549 at time: 13375
+[Event] CPU ARRIVAL of job#549 at time: 13375
+[Event] CPU FINISH of job#268 at time: 13381
+[Event] NETWORK ARRIVAL of job#268 at time: 13381
+[Event] JOB ARRIVAL job#550 at time: 13395
+[Event] CPU ARRIVAL of job#550 at time: 13395
+[Event] DISK2 FINISH of job#217 at time: 13401
+[Event] CPU ARRIVAL of job#217 at time: 13401
+[Event] CPU FINISH of job#107 at time: 13406
+[Event] NETWORK ARRIVAL of job#107 at time: 13406
+[Event] JOB ARRIVAL job#551 at time: 13418
+[Event] CPU ARRIVAL of job#551 at time: 13418
+[Event] DISK1 FINISH of job#227 at time: 13427
+[Event] CPU ARRIVAL of job#227 at time: 13427
+[Event] CPU FINISH of job#269 at time: 13436
+[Event] NETWORK ARRIVAL of job#269 at time: 13436
+[Event] JOB ARRIVAL job#552 at time: 13441
+[Event] CPU ARRIVAL of job#552 at time: 13441
+[Event] JOB ARRIVAL job#553 at time: 13465
+[Event] CPU FINISH of job#270 at time: 13465
+[Event] DISK1 ARRIVAL of job#270 at time: 13465
+[Event] CPU ARRIVAL of job#553 at time: 13465
+[Event] JOB ARRIVAL job#554 at time: 13490
+[Event] CPU ARRIVAL of job#554 at time: 13490
+[Event] JOB ARRIVAL job#555 at time: 13511
+[Event] CPU ARRIVAL of job#555 at time: 13511
+[Event] CPU FINISH of job#271 at time: 13513
+[Event] JOB ARRIVAL job#556 at time: 13532
+[Event] CPU ARRIVAL of job#556 at time: 13532
+[Event] DISK1 FINISH of job#91 at time: 13540
+[Event] CPU ARRIVAL of job#91 at time: 13540
+[Event] JOB ARRIVAL job#557 at time: 13557
+[Event] CPU ARRIVAL of job#557 at time: 13557
+[Event] CPU FINISH of job#272 at time: 13561
+[Event] NETWORK ARRIVAL of job#272 at time: 13561
+[Event] JOB ARRIVAL job#558 at time: 13578
+[Event] CPU ARRIVAL of job#558 at time: 13578
+[Event] DISK2 FINISH of job#89 at time: 13590
+[Event] CPU ARRIVAL of job#89 at time: 13590
+[Event] CPU FINISH of job#48 at time: 13599
+[Event] JOB ARRIVAL job#559 at time: 13607
+[Event] CPU ARRIVAL of job#559 at time: 13607
+[Event] JOB ARRIVAL job#560 at time: 13631
+[Event] CPU ARRIVAL of job#560 at time: 13631
+[Event] CPU FINISH of job#273 at time: 13634
+[Event] DISK1 FINISH of job#229 at time: 13658
+[Event] CPU ARRIVAL of job#229 at time: 13658
+[Event] JOB ARRIVAL job#561 at time: 13660
+[Event] CPU ARRIVAL of job#561 at time: 13660
+[Event] CPU FINISH of job#274 at time: 13680
+[Event] JOB ARRIVAL job#562 at time: 13681
+[Event] CPU ARRIVAL of job#562 at time: 13681
+[Event] JOB ARRIVAL job#563 at time: 13704
+[Event] CPU ARRIVAL of job#563 at time: 13704
+[Event] NETWORK FINISH of job#53 at time: 13706
+[Event] CPU ARRIVAL of job#53 at time: 13706
+[Event] CPU FINISH of job#275 at time: 13720
+[Event] NETWORK ARRIVAL of job#275 at time: 13720
+[Event] JOB ARRIVAL job#564 at time: 13731
+[Event] CPU ARRIVAL of job#564 at time: 13731
+[Event] CPU FINISH of job#111 at time: 13756
+[Event] JOB ARRIVAL job#565 at time: 13760
+[Event] CPU ARRIVAL of job#565 at time: 13760
+[Event] DISK2 FINISH of job#222 at time: 13767
+[Event] CPU ARRIVAL of job#222 at time: 13767
+[Event] DISK1 FINISH of job#231 at time: 13780
+[Event] CPU ARRIVAL of job#231 at time: 13780
+[Event] JOB ARRIVAL job#566 at time: 13784
+[Event] CPU ARRIVAL of job#566 at time: 13784
+[Event] CPU FINISH of job#276 at time: 13787
+[Event] DISK1 ARRIVAL of job#276 at time: 13787
+[Event] JOB ARRIVAL job#567 at time: 13812
+[Event] CPU ARRIVAL of job#567 at time: 13812
+[Event] CPU FINISH of job#277 at time: 13833
+[Event] DISK1 ARRIVAL of job#277 at time: 13833
+[Event] JOB ARRIVAL job#568 at time: 13835
+[Event] CPU ARRIVAL of job#568 at time: 13835
+[Event] JOB ARRIVAL job#569 at time: 13855
+[Event] CPU ARRIVAL of job#569 at time: 13855
+[Event] CPU FINISH of job#114 at time: 13872
+[Event] DISK2 ARRIVAL of job#114 at time: 13872
+[Event] JOB ARRIVAL job#570 at time: 13882
+[Event] CPU ARRIVAL of job#570 at time: 13882
+[Event] DISK1 FINISH of job#232 at time: 13901
+[Event] CPU ARRIVAL of job#232 at time: 13901
+[Event] JOB ARRIVAL job#571 at time: 13902
+[Event] CPU ARRIVAL of job#571 at time: 13902
+[Event] CPU FINISH of job#278 at time: 13921
+[Event] DISK1 ARRIVAL of job#278 at time: 13921
+[Event] JOB ARRIVAL job#572 at time: 13924
+[Event] CPU ARRIVAL of job#572 at time: 13924
+[Event] DISK2 FINISH of job#17 at time: 13938
+[Event] CPU ARRIVAL of job#17 at time: 13938
+[Event] JOB ARRIVAL job#573 at time: 13947
+[Event] CPU ARRIVAL of job#573 at time: 13947
+[Event] JOB ARRIVAL job#574 at time: 13969
+[Event] CPU ARRIVAL of job#574 at time: 13969
+[Event] CPU FINISH of job#18 at time: 13970
+[Event] DISK2 ARRIVAL of job#18 at time: 13970
+[Event] JOB ARRIVAL job#575 at time: 13996
+[Event] CPU ARRIVAL of job#575 at time: 13996
+[Event] CPU FINISH of job#279 at time: 13999
+[Event] DISK2 ARRIVAL of job#279 at time: 13999
+[Event] DISK1 FINISH of job#233 at time: 14008
+[Event] CPU ARRIVAL of job#233 at time: 14008
+[Event] JOB ARRIVAL job#576 at time: 14018
+[Event] CPU ARRIVAL of job#576 at time: 14018
+[Event] CPU FINISH of job#280 at time: 14039
+[Event] DISK1 ARRIVAL of job#280 at time: 14039
+[Event] JOB ARRIVAL job#577 at time: 14047
+[Event] CPU ARRIVAL of job#577 at time: 14047
+[Event] JOB ARRIVAL job#578 at time: 14073
+[Event] CPU ARRIVAL of job#578 at time: 14073
+[Event] CPU FINISH of job#281 at time: 14080
+[Event] DISK1 ARRIVAL of job#281 at time: 14080
+[Event] JOB ARRIVAL job#579 at time: 14096
+[Event] CPU ARRIVAL of job#579 at time: 14096
+[Event] DISK1 FINISH of job#236 at time: 14113
+[Event] CPU ARRIVAL of job#236 at time: 14113
+[Event] CPU FINISH of job#282 at time: 14115
+[Event] NETWORK ARRIVAL of job#282 at time: 14115
+[Event] JOB ARRIVAL job#580 at time: 14116
+[Event] CPU ARRIVAL of job#580 at time: 14116
+[Event] DISK2 FINISH of job#226 at time: 14128
+[Event] CPU ARRIVAL of job#226 at time: 14128
+[Event] JOB ARRIVAL job#581 at time: 14139
+[Event] CPU ARRIVAL of job#581 at time: 14139
+[Event] CPU FINISH of job#115 at time: 14144
+[Event] NETWORK ARRIVAL of job#115 at time: 14144
+[Event] JOB ARRIVAL job#582 at time: 14160
+[Event] CPU ARRIVAL of job#582 at time: 14160
+[Event] CPU FINISH of job#45 at time: 14170
+[Event] DISK2 ARRIVAL of job#45 at time: 14170
+[Event] JOB ARRIVAL job#583 at time: 14185
+[Event] CPU ARRIVAL of job#583 at time: 14185
+[Event] CPU FINISH of job#283 at time: 14197
+[Event] DISK1 ARRIVAL of job#283 at time: 14197
+[Event] JOB ARRIVAL job#584 at time: 14214
+[Event] CPU ARRIVAL of job#584 at time: 14214
+[Event] DISK1 FINISH of job#16 at time: 14220
+[Event] CPU ARRIVAL of job#16 at time: 14220
+[Event] JOB ARRIVAL job#585 at time: 14242
+[Event] CPU FINISH of job#284 at time: 14242
+[Event] DISK1 ARRIVAL of job#284 at time: 14242
+[Event] CPU ARRIVAL of job#585 at time: 14242
+[Event] NETWORK FINISH of job#8 at time: 14263
+[Event] CPU ARRIVAL of job#8 at time: 14263
+[Event] JOB ARRIVAL job#586 at time: 14265
+[Event] CPU ARRIVAL of job#586 at time: 14265
+[Event] CPU FINISH of job#285 at time: 14288
+[Event] DISK1 ARRIVAL of job#285 at time: 14288
+[Event] JOB ARRIVAL job#587 at time: 14291
+[Event] CPU ARRIVAL of job#587 at time: 14291
+[Event] JOB ARRIVAL job#588 at time: 14313
+[Event] CPU ARRIVAL of job#588 at time: 14313
+[Event] DISK2 FINISH of job#95 at time: 14318
+[Event] CPU ARRIVAL of job#95 at time: 14318
+[Event] CPU FINISH of job#286 at time: 14330
+[Event] DISK2 ARRIVAL of job#286 at time: 14330
+[Event] JOB ARRIVAL job#589 at time: 14334
+[Event] CPU ARRIVAL of job#589 at time: 14334
+[Event] DISK1 FINISH of job#240 at time: 14340
+[Event] CPU ARRIVAL of job#240 at time: 14340
+[Event] JOB ARRIVAL job#590 at time: 14356
+[Event] CPU ARRIVAL of job#590 at time: 14356
+[Event] CPU FINISH of job#287 at time: 14358
+[Event] DISK1 ARRIVAL of job#287 at time: 14358
+[Event] JOB ARRIVAL job#591 at time: 14381
+[Event] CPU ARRIVAL of job#591 at time: 14381
+[Event] CPU FINISH of job#116 at time: 14406
+[Event] DISK2 ARRIVAL of job#116 at time: 14406
+[Event] JOB ARRIVAL job#592 at time: 14407
+[Event] CPU ARRIVAL of job#592 at time: 14407
+[Event] JOB ARRIVAL job#593 at time: 14434
+[Event] CPU ARRIVAL of job#593 at time: 14434
+[Event] CPU FINISH of job#288 at time: 14440
+[Event] DISK1 ARRIVAL of job#288 at time: 14440
+[Event] JOB ARRIVAL job#594 at time: 14458
+[Event] DISK1 FINISH of job#243 at time: 14458
+[Event] CPU ARRIVAL of job#243 at time: 14458
+[Event] CPU ARRIVAL of job#594 at time: 14458
+[Event] JOB ARRIVAL job#595 at time: 14481
+[Event] CPU ARRIVAL of job#595 at time: 14481
+[Event] CPU FINISH of job#289 at time: 14488
+[Event] DISK1 ARRIVAL of job#289 at time: 14488
+[Event] DISK2 FINISH of job#228 at time: 14503
+[Event] CPU ARRIVAL of job#228 at time: 14503
+[Event] JOB ARRIVAL job#596 at time: 14507
+[Event] CPU ARRIVAL of job#596 at time: 14507
+[Event] CPU FINISH of job#118 at time: 14532
+[Event] DISK1 ARRIVAL of job#118 at time: 14532
+[Event] JOB ARRIVAL job#597 at time: 14536
+[Event] CPU ARRIVAL of job#597 at time: 14536
+[Event] JOB ARRIVAL job#598 at time: 14562
+[Event] CPU FINISH of job#290 at time: 14562
+[Event] NETWORK ARRIVAL of job#290 at time: 14562
+[Event] CPU ARRIVAL of job#598 at time: 14562
+[Event] JOB ARRIVAL job#599 at time: 14586
+[Event] CPU ARRIVAL of job#599 at time: 14586
+[Event] DISK1 FINISH of job#103 at time: 14587
+[Event] CPU ARRIVAL of job#103 at time: 14587
+[Event] CPU FINISH of job#291 at time: 14596
+[Event] DISK1 ARRIVAL of job#291 at time: 14596
+[Event] JOB ARRIVAL job#600 at time: 14608
+[Event] CPU ARRIVAL of job#600 at time: 14608
+[Event] CPU FINISH of job#292 at time: 14622
+[Event] NETWORK ARRIVAL of job#292 at time: 14622
+[Event] JOB ARRIVAL job#601 at time: 14631
+[Event] CPU ARRIVAL of job#601 at time: 14631
+[Event] JOB ARRIVAL job#602 at time: 14653
+[Event] CPU ARRIVAL of job#602 at time: 14653
+[Event] CPU FINISH of job#293 at time: 14655
+[Event] DISK1 ARRIVAL of job#293 at time: 14655
+[Event] DISK2 FINISH of job#235 at time: 14665
+[Event] CPU ARRIVAL of job#235 at time: 14665
+[Event] JOB ARRIVAL job#603 at time: 14677
+[Event] CPU ARRIVAL of job#603 at time: 14677
+[Event] CPU FINISH of job#49 at time: 14685
+[Event] JOB ARRIVAL job#604 at time: 14698
+[Event] CPU ARRIVAL of job#604 at time: 14698
+[Event] DISK1 FINISH of job#248 at time: 14710
+[Event] CPU ARRIVAL of job#248 at time: 14710
+[Event] JOB ARRIVAL job#605 at time: 14718
+[Event] CPU ARRIVAL of job#605 at time: 14718
+[Event] CPU FINISH of job#294 at time: 14733
+[Event] DISK2 ARRIVAL of job#294 at time: 14733
+[Event] JOB ARRIVAL job#606 at time: 14738
+[Event] CPU ARRIVAL of job#606 at time: 14738
+[Event] JOB ARRIVAL job#607 at time: 14762
+[Event] CPU ARRIVAL of job#607 at time: 14762
+[Event] CPU FINISH of job#295 at time: 14775
+[Event] DISK2 ARRIVAL of job#295 at time: 14775
+[Event] JOB ARRIVAL job#608 at time: 14789
+[Event] CPU ARRIVAL of job#608 at time: 14789
+[Event] CPU FINISH of job#296 at time: 14809
+[Event] DISK2 ARRIVAL of job#296 at time: 14809
+[Event] JOB ARRIVAL job#609 at time: 14813
+[Event] CPU ARRIVAL of job#609 at time: 14813
+[Event] DISK1 FINISH of job#252 at time: 14830
+[Event] CPU ARRIVAL of job#252 at time: 14830
+[Event] JOB ARRIVAL job#610 at time: 14833
+[Event] CPU ARRIVAL of job#610 at time: 14833
+[Event] DISK2 FINISH of job#237 at time: 14845
+[Event] CPU ARRIVAL of job#237 at time: 14845
+[Event] CPU FINISH of job#297 at time: 14851
+[Event] DISK1 ARRIVAL of job#297 at time: 14851
+[Event] JOB ARRIVAL job#611 at time: 14859
+[Event] CPU ARRIVAL of job#611 at time: 14859
+[Event] JOB ARRIVAL job#612 at time: 14887
+[Event] CPU ARRIVAL of job#612 at time: 14887
+[Event] CPU FINISH of job#50 at time: 14899
+[Event] JOB ARRIVAL job#613 at time: 14908
+[Event] CPU ARRIVAL of job#613 at time: 14908
+[Event] JOB ARRIVAL job#614 at time: 14931
+[Event] CPU ARRIVAL of job#614 at time: 14931
+[Event] DISK1 FINISH of job#108 at time: 14940
+[Event] CPU ARRIVAL of job#108 at time: 14940
+[Event] CPU FINISH of job#298 at time: 14944
+[Event] JOB ARRIVAL job#615 at time: 14951
+[Event] CPU ARRIVAL of job#615 at time: 14951
+[Event] JOB ARRIVAL job#616 at time: 14974
+[Event] CPU ARRIVAL of job#616 at time: 14974
+[Event] CPU FINISH of job#117 at time: 14980
+[Event] DISK2 ARRIVAL of job#117 at time: 14980
+[Event] JOB ARRIVAL job#617 at time: 15002
+[Event] CPU ARRIVAL of job#617 at time: 15002
+[Event] DISK2 FINISH of job#244 at time: 15009
+[Event] CPU ARRIVAL of job#244 at time: 15009
+[Event] CPU FINISH of job#299 at time: 15011
+[Event] DISK2 ARRIVAL of job#299 at time: 15011
+[Event] JOB ARRIVAL job#618 at time: 15030
+[Event] CPU ARRIVAL of job#618 at time: 15030
+[Event] CPU FINISH of job#300 at time: 15055
+[Event] DISK2 ARRIVAL of job#300 at time: 15055
+[Event] JOB ARRIVAL job#619 at time: 15056
+[Event] CPU ARRIVAL of job#619 at time: 15056
+[Event] DISK1 FINISH of job#257 at time: 15072
+[Event] CPU ARRIVAL of job#257 at time: 15072
+[Event] JOB ARRIVAL job#620 at time: 15076
+[Event] CPU ARRIVAL of job#620 at time: 15076
+[Event] JOB ARRIVAL job#621 at time: 15101
+[Event] CPU ARRIVAL of job#621 at time: 15101
+[Event] CPU FINISH of job#301 at time: 15104
+[Event] NETWORK ARRIVAL of job#301 at time: 15104
+[Event] JOB ARRIVAL job#622 at time: 15130
+[Event] CPU ARRIVAL of job#622 at time: 15130
+[Event] CPU FINISH of job#23 at time: 15146
+[Event] DISK1 ARRIVAL of job#23 at time: 15146
+[Event] NETWORK FINISH of job#64 at time: 15146
+[Event] CPU ARRIVAL of job#64 at time: 15146
+[Event] JOB ARRIVAL job#623 at time: 15156
+[Event] CPU ARRIVAL of job#623 at time: 15156
+[Event] DISK1 FINISH of job#109 at time: 15173
+[Event] CPU ARRIVAL of job#109 at time: 15173
+[Event] CPU FINISH of job#302 at time: 15178
+[Event] DISK1 ARRIVAL of job#302 at time: 15178
+[Event] JOB ARRIVAL job#624 at time: 15181
+[Event] CPU ARRIVAL of job#624 at time: 15181
+[Event] DISK2 FINISH of job#247 at time: 15190
+[Event] CPU ARRIVAL of job#247 at time: 15190
+[Event] JOB ARRIVAL job#625 at time: 15203
+[Event] CPU ARRIVAL of job#625 at time: 15203
+[Event] CPU FINISH of job#303 at time: 15215
+[Event] JOB ARRIVAL job#626 at time: 15224
+[Event] CPU ARRIVAL of job#626 at time: 15224
+[Event] JOB ARRIVAL job#627 at time: 15253
+[Event] CPU ARRIVAL of job#627 at time: 15253
+[Event] CPU FINISH of job#304 at time: 15257
+[Event] DISK2 ARRIVAL of job#304 at time: 15257
+[Event] DISK1 FINISH of job#263 at time: 15273
+[Event] CPU ARRIVAL of job#263 at time: 15273
+[Event] JOB ARRIVAL job#628 at time: 15280
+[Event] CPU ARRIVAL of job#628 at time: 15280
+[Event] CPU FINISH of job#121 at time: 15301
+[Event] NETWORK ARRIVAL of job#121 at time: 15301
+[Event] JOB ARRIVAL job#629 at time: 15308
+[Event] CPU ARRIVAL of job#629 at time: 15308
+[Event] JOB ARRIVAL job#630 at time: 15330
+[Event] CPU ARRIVAL of job#630 at time: 15330
+[Event] CPU FINISH of job#122 at time: 15346
+[Event] DISK1 ARRIVAL of job#122 at time: 15346
+[Event] JOB ARRIVAL job#631 at time: 15350
+[Event] CPU ARRIVAL of job#631 at time: 15350
+[Event] JOB ARRIVAL job#632 at time: 15373
+[Event] CPU ARRIVAL of job#632 at time: 15373
+[Event] CPU FINISH of job#305 at time: 15388
+[Event] DISK2 FINISH of job#249 at time: 15388
+[Event] CPU ARRIVAL of job#249 at time: 15388
+[Event] JOB ARRIVAL job#633 at time: 15400
+[Event] CPU ARRIVAL of job#633 at time: 15400
+[Event] DISK1 FINISH of job#266 at time: 15412
+[Event] CPU ARRIVAL of job#266 at time: 15412
+[Event] JOB ARRIVAL job#634 at time: 15421
+[Event] CPU ARRIVAL of job#634 at time: 15421
+[Event] CPU FINISH of job#306 at time: 15431
+[Event] NETWORK ARRIVAL of job#306 at time: 15431
+[Event] JOB ARRIVAL job#635 at time: 15449
+[Event] CPU ARRIVAL of job#635 at time: 15449
+[Event] JOB ARRIVAL job#636 at time: 15469
+[Event] CPU ARRIVAL of job#636 at time: 15469
+[Event] CPU FINISH of job#307 at time: 15476
+[Event] DISK1 ARRIVAL of job#307 at time: 15476
+[Event] JOB ARRIVAL job#637 at time: 15493
+[Event] CPU ARRIVAL of job#637 at time: 15493
+[Event] JOB ARRIVAL job#638 at time: 15516
+[Event] CPU ARRIVAL of job#638 at time: 15516
+[Event] CPU FINISH of job#308 at time: 15523
+[Event] DISK2 ARRIVAL of job#308 at time: 15523
+[Event] JOB ARRIVAL job#639 at time: 15537
+[Event] CPU ARRIVAL of job#639 at time: 15537
+[Event] DISK2 FINISH of job#250 at time: 15538
+[Event] CPU ARRIVAL of job#250 at time: 15538
+[Event] DISK1 FINISH of job#110 at time: 15547
+[Event] CPU ARRIVAL of job#110 at time: 15547
+[Event] JOB ARRIVAL job#640 at time: 15558
+[Event] CPU ARRIVAL of job#640 at time: 15558
+[Event] CPU FINISH of job#309 at time: 15567
+[Event] DISK1 ARRIVAL of job#309 at time: 15567
+[Event] JOB ARRIVAL job#641 at time: 15578
+[Event] CPU ARRIVAL of job#641 at time: 15578
+[Event] CPU FINISH of job#310 at time: 15596
+[Event] DISK2 ARRIVAL of job#310 at time: 15596
+[Event] JOB ARRIVAL job#642 at time: 15600
+[Event] CPU ARRIVAL of job#642 at time: 15600
+[Event] JOB ARRIVAL job#643 at time: 15624
+[Event] CPU ARRIVAL of job#643 at time: 15624
+[Event] CPU FINISH of job#22 at time: 15638
+[Event] NETWORK ARRIVAL of job#22 at time: 15638
+[Event] JOB ARRIVAL job#644 at time: 15649
+[Event] CPU ARRIVAL of job#644 at time: 15649
+[Event] DISK1 FINISH of job#270 at time: 15667
+[Event] CPU ARRIVAL of job#270 at time: 15667
+[Event] JOB ARRIVAL job#645 at time: 15669
+[Event] CPU ARRIVAL of job#645 at time: 15669
+[Event] CPU FINISH of job#311 at time: 15671
+[Event] DISK1 ARRIVAL of job#311 at time: 15671
+[Event] JOB ARRIVAL job#646 at time: 15693
+[Event] CPU ARRIVAL of job#646 at time: 15693
+[Event] CPU FINISH of job#312 at time: 15698
+[Event] NETWORK ARRIVAL of job#312 at time: 15698
+[Event] DISK2 FINISH of job#251 at time: 15701
+[Event] CPU ARRIVAL of job#251 at time: 15701
+[Event] JOB ARRIVAL job#647 at time: 15717
+[Event] CPU ARRIVAL of job#647 at time: 15717
+[Event] JOB ARRIVAL job#648 at time: 15744
+[Event] CPU ARRIVAL of job#648 at time: 15744
+[Event] CPU FINISH of job#123 at time: 15745
+[Event] NETWORK ARRIVAL of job#123 at time: 15745
+[Event] JOB ARRIVAL job#649 at time: 15769
+[Event] CPU ARRIVAL of job#649 at time: 15769
+[Event] CPU FINISH of job#313 at time: 15772
+[Event] NETWORK ARRIVAL of job#313 at time: 15772
+[Event] DISK1 FINISH of job#276 at time: 15775
+[Event] CPU ARRIVAL of job#276 at time: 15775
+[Event] JOB ARRIVAL job#650 at time: 15797
+[Event] CPU ARRIVAL of job#650 at time: 15797
+[Event] JOB ARRIVAL job#651 at time: 15817
+[Event] CPU ARRIVAL of job#651 at time: 15817
+[Event] CPU FINISH of job#314 at time: 15818
+[Event] CPU FINISH of job#315 at time: 15844
+[Event] NETWORK ARRIVAL of job#315 at time: 15844
+[Event] NETWORK FINISH of job#67 at time: 15845
+[Event] CPU ARRIVAL of job#67 at time: 15845
+[Event] JOB ARRIVAL job#652 at time: 15846
+[Event] CPU ARRIVAL of job#652 at time: 15846
+[Event] JOB ARRIVAL job#653 at time: 15874
+[Event] CPU ARRIVAL of job#653 at time: 15874
+[Event] CPU FINISH of job#124 at time: 15875
+[Event] NETWORK ARRIVAL of job#124 at time: 15875
+[Event] DISK2 FINISH of job#42 at time: 15876
+[Event] CPU ARRIVAL of job#42 at time: 15876
+[Event] JOB ARRIVAL job#654 at time: 15896
+[Event] CPU ARRIVAL of job#654 at time: 15896
+[Event] CPU FINISH of job#316 at time: 15903
+[Event] DISK1 ARRIVAL of job#316 at time: 15903
+[Event] DISK1 FINISH of job#277 at time: 15905
+[Event] CPU ARRIVAL of job#277 at time: 15905
+[Event] JOB ARRIVAL job#655 at time: 15924
+[Event] CPU ARRIVAL of job#655 at time: 15924
+[Event] CPU FINISH of job#317 at time: 15929
+[Event] JOB ARRIVAL job#656 at time: 15953
+[Event] CPU ARRIVAL of job#656 at time: 15953
+[Event] CPU FINISH of job#318 at time: 15973
+[Event] NETWORK ARRIVAL of job#318 at time: 15973
+[Event] JOB ARRIVAL job#657 at time: 15977
+[Event] CPU ARRIVAL of job#657 at time: 15977
+[Event] JOB ARRIVAL job#658 at time: 16000
+[Event] CPU ARRIVAL of job#658 at time: 16000
+[Event] CPU FINISH of job#319 at time: 16005
+[Event] DISK1 FINISH of job#278 at time: 16025
+[Event] CPU ARRIVAL of job#278 at time: 16025
+[Event] JOB ARRIVAL job#659 at time: 16029
+[Event] CPU ARRIVAL of job#659 at time: 16029
+[Event] DISK2 FINISH of job#258 at time: 16033
+[Event] CPU ARRIVAL of job#258 at time: 16033
+[Event] CPU FINISH of job#320 at time: 16041
+[Event] DISK1 ARRIVAL of job#320 at time: 16041
+[Event] JOB ARRIVAL job#660 at time: 16053
+[Event] CPU ARRIVAL of job#660 at time: 16053
+[Event] JOB ARRIVAL job#661 at time: 16073
+[Event] CPU ARRIVAL of job#661 at time: 16073
+[Event] CPU FINISH of job#126 at time: 16090
+[Event] NETWORK ARRIVAL of job#126 at time: 16090
+[Event] JOB ARRIVAL job#662 at time: 16099
+[Event] CPU ARRIVAL of job#662 at time: 16099
+[Event] JOB ARRIVAL job#663 at time: 16121
+[Event] CPU ARRIVAL of job#663 at time: 16121
+[Event] CPU FINISH of job#132 at time: 16125
+[Event] DISK2 ARRIVAL of job#132 at time: 16125
+[Event] DISK1 FINISH of job#280 at time: 16142
+[Event] CPU ARRIVAL of job#280 at time: 16142
+[Event] JOB ARRIVAL job#664 at time: 16149
+[Event] CPU ARRIVAL of job#664 at time: 16149
+[Event] CPU FINISH of job#321 at time: 16164
+[Event] JOB ARRIVAL job#665 at time: 16170
+[Event] CPU ARRIVAL of job#665 at time: 16170
+[Event] DISK2 FINISH of job#259 at time: 16186
+[Event] CPU ARRIVAL of job#259 at time: 16186
+[Event] JOB ARRIVAL job#666 at time: 16190
+[Event] CPU ARRIVAL of job#666 at time: 16190
+[Event] CPU FINISH of job#322 at time: 16208
+[Event] DISK2 ARRIVAL of job#322 at time: 16208
+[Event] JOB ARRIVAL job#667 at time: 16212
+[Event] CPU ARRIVAL of job#667 at time: 16212
+[Event] CPU FINISH of job#323 at time: 16238
+[Event] DISK1 ARRIVAL of job#323 at time: 16238
+[Event] JOB ARRIVAL job#668 at time: 16241
+[Event] CPU ARRIVAL of job#668 at time: 16241
+[Event] DISK1 FINISH of job#281 at time: 16263
+[Event] CPU ARRIVAL of job#281 at time: 16263
+[Event] JOB ARRIVAL job#669 at time: 16269
+[Event] CPU FINISH of job#324 at time: 16269
+[Event] CPU ARRIVAL of job#669 at time: 16269
+[Event] CPU FINISH of job#325 at time: 16294
+[Event] DISK1 ARRIVAL of job#325 at time: 16294
+[Event] JOB ARRIVAL job#670 at time: 16295
+[Event] CPU ARRIVAL of job#670 at time: 16295
+[Event] JOB ARRIVAL job#671 at time: 16323
+[Event] CPU ARRIVAL of job#671 at time: 16323
+[Event] CPU FINISH of job#133 at time: 16330
+[Event] DISK1 ARRIVAL of job#133 at time: 16330
+[Event] JOB ARRIVAL job#672 at time: 16348
+[Event] CPU ARRIVAL of job#672 at time: 16348
+[Event] CPU FINISH of job#9 at time: 16357
+[Event] DISK2 ARRIVAL of job#9 at time: 16357
+[Event] DISK2 FINISH of job#104 at time: 16376
+[Event] CPU ARRIVAL of job#104 at time: 16376
+[Event] JOB ARRIVAL job#673 at time: 16377
+[Event] CPU ARRIVAL of job#673 at time: 16377
+[Event] DISK1 FINISH of job#283 at time: 16380
+[Event] CPU ARRIVAL of job#283 at time: 16380
+[Event] CPU FINISH of job#326 at time: 16393
+[Event] NETWORK ARRIVAL of job#326 at time: 16393
+[Event] JOB ARRIVAL job#674 at time: 16404
+[Event] CPU ARRIVAL of job#674 at time: 16404
+[Event] JOB ARRIVAL job#675 at time: 16430
+[Event] CPU ARRIVAL of job#675 at time: 16430
+[Event] CPU FINISH of job#327 at time: 16442
+[Event] DISK1 ARRIVAL of job#327 at time: 16442
+[Event] JOB ARRIVAL job#676 at time: 16450
+[Event] CPU ARRIVAL of job#676 at time: 16450
+[Event] JOB ARRIVAL job#677 at time: 16476
+[Event] CPU ARRIVAL of job#677 at time: 16476
+[Event] CPU FINISH of job#328 at time: 16481
+[Event] DISK1 ARRIVAL of job#328 at time: 16481
+[Event] DISK1 FINISH of job#284 at time: 16486
+[Event] CPU ARRIVAL of job#284 at time: 16486
+[Event] NETWORK FINISH of job#69 at time: 16499
+[Event] CPU ARRIVAL of job#69 at time: 16499
+[Event] JOB ARRIVAL job#678 at time: 16502
+[Event] CPU ARRIVAL of job#678 at time: 16502
+[Event] CPU FINISH of job#52 at time: 16514
+[Event] DISK2 ARRIVAL of job#52 at time: 16514
+[Event] JOB ARRIVAL job#679 at time: 16527
+[Event] CPU ARRIVAL of job#679 at time: 16527
+[Event] JOB ARRIVAL job#680 at time: 16556
+[Event] CPU ARRIVAL of job#680 at time: 16556
+[Event] CPU FINISH of job#329 at time: 16557
+[Event] NETWORK ARRIVAL of job#329 at time: 16557
+[Event] DISK2 FINISH of job#265 at time: 16562
+[Event] CPU ARRIVAL of job#265 at time: 16562
+[Event] JOB ARRIVAL job#681 at time: 16583
+[Event] CPU ARRIVAL of job#681 at time: 16583
+[Event] CPU FINISH of job#330 at time: 16594
+[Event] NETWORK ARRIVAL of job#330 at time: 16594
+[Event] DISK1 FINISH of job#285 at time: 16602
+[Event] CPU ARRIVAL of job#285 at time: 16602
+[Event] JOB ARRIVAL job#682 at time: 16603
+[Event] CPU ARRIVAL of job#682 at time: 16603
+[Event] JOB ARRIVAL job#683 at time: 16623
+[Event] CPU ARRIVAL of job#683 at time: 16623
+[Event] CPU FINISH of job#331 at time: 16636
+[Event] JOB ARRIVAL job#684 at time: 16644
+[Event] CPU ARRIVAL of job#684 at time: 16644
+[Event] CPU FINISH of job#136 at time: 16663
+[Event] DISK2 ARRIVAL of job#136 at time: 16663
+[Event] JOB ARRIVAL job#685 at time: 16664
+[Event] CPU ARRIVAL of job#685 at time: 16664
+[Event] JOB ARRIVAL job#686 at time: 16684
+[Event] CPU ARRIVAL of job#686 at time: 16684
+[Event] CPU FINISH of job#332 at time: 16689
+[Event] DISK1 ARRIVAL of job#332 at time: 16689
+[Event] JOB ARRIVAL job#687 at time: 16711
+[Event] CPU ARRIVAL of job#687 at time: 16711
+[Event] CPU FINISH of job#333 at time: 16725
+[Event] NETWORK ARRIVAL of job#333 at time: 16725
+[Event] DISK1 FINISH of job#287 at time: 16726
+[Event] CPU ARRIVAL of job#287 at time: 16726
+[Event] JOB ARRIVAL job#688 at time: 16735
+[Event] CPU ARRIVAL of job#688 at time: 16735
+[Event] DISK2 FINISH of job#267 at time: 16746
+[Event] CPU ARRIVAL of job#267 at time: 16746
+[Event] JOB ARRIVAL job#689 at time: 16760
+[Event] CPU ARRIVAL of job#689 at time: 16760
+[Event] CPU FINISH of job#334 at time: 16769
+[Event] JOB ARRIVAL job#690 at time: 16781
+[Event] CPU ARRIVAL of job#690 at time: 16781
+[Event] CPU FINISH of job#335 at time: 16799
+[Event] NETWORK ARRIVAL of job#335 at time: 16799
+[Event] JOB ARRIVAL job#691 at time: 16808
+[Event] CPU ARRIVAL of job#691 at time: 16808
+[Event] CPU FINISH of job#128 at time: 16824
+[Event] DISK2 ARRIVAL of job#128 at time: 16824
+[Event] JOB ARRIVAL job#692 at time: 16829
+[Event] CPU ARRIVAL of job#692 at time: 16829
+[Event] DISK1 FINISH of job#288 at time: 16839
+[Event] CPU ARRIVAL of job#288 at time: 16839
+[Event] JOB ARRIVAL job#693 at time: 16853
+[Event] CPU ARRIVAL of job#693 at time: 16853
+[Event] CPU FINISH of job#336 at time: 16870
+[Event] DISK1 ARRIVAL of job#336 at time: 16870
+[Event] JOB ARRIVAL job#694 at time: 16881
+[Event] CPU ARRIVAL of job#694 at time: 16881
+[Event] JOB ARRIVAL job#695 at time: 16903
+[Event] CPU ARRIVAL of job#695 at time: 16903
+[Event] CPU FINISH of job#56 at time: 16911
+[Event] DISK1 ARRIVAL of job#56 at time: 16911
+[Event] DISK2 FINISH of job#114 at time: 16927
+[Event] CPU ARRIVAL of job#114 at time: 16927
+[Event] JOB ARRIVAL job#696 at time: 16928
+[Event] CPU ARRIVAL of job#696 at time: 16928
+[Event] CPU FINISH of job#337 at time: 16943
+[Event] DISK1 ARRIVAL of job#337 at time: 16943
+[Event] JOB ARRIVAL job#697 at time: 16955
+[Event] CPU ARRIVAL of job#697 at time: 16955
+[Event] DISK1 FINISH of job#289 at time: 16958
+[Event] CPU ARRIVAL of job#289 at time: 16958
+[Event] JOB ARRIVAL job#698 at time: 16976
+[Event] CPU ARRIVAL of job#698 at time: 16976
+[Event] CPU FINISH of job#338 at time: 16991
+[Event] NETWORK ARRIVAL of job#338 at time: 16991
+[Event] JOB ARRIVAL job#699 at time: 16996
+[Event] CPU ARRIVAL of job#699 at time: 16996
+[Event] JOB ARRIVAL job#700 at time: 17023
+[Event] CPU ARRIVAL of job#700 at time: 17023
+[Event] CPU FINISH of job#339 at time: 17037
+[Event] DISK2 ARRIVAL of job#339 at time: 17037
+[Event] JOB ARRIVAL job#701 at time: 17052
+[Event] CPU ARRIVAL of job#701 at time: 17052
+[Event] CPU FINISH of job#340 at time: 17064
+[Event] NETWORK ARRIVAL of job#340 at time: 17064
+[Event] DISK2 FINISH of job#18 at time: 17079
+[Event] CPU ARRIVAL of job#18 at time: 17079
+[Event] JOB ARRIVAL job#702 at time: 17081
+[Event] CPU ARRIVAL of job#702 at time: 17081
+[Event] CPU FINISH of job#138 at time: 17092
+[Event] DISK1 ARRIVAL of job#138 at time: 17092
+[Event] DISK1 FINISH of job#118 at time: 17093
+[Event] CPU ARRIVAL of job#118 at time: 17093
+[Event] JOB ARRIVAL job#703 at time: 17107
+[Event] CPU ARRIVAL of job#703 at time: 17107
+[Event] CPU FINISH of job#341 at time: 17130
+[Event] DISK1 ARRIVAL of job#341 at time: 17130
+[Event] JOB ARRIVAL job#704 at time: 17131
+[Event] CPU ARRIVAL of job#704 at time: 17131
+[Event] NETWORK FINISH of job#70 at time: 17135
+[Event] CPU ARRIVAL of job#70 at time: 17135
+[Event] JOB ARRIVAL job#705 at time: 17155
+[Event] CPU ARRIVAL of job#705 at time: 17155
+[Event] CPU FINISH of job#342 at time: 17164
+[Event] JOB ARRIVAL job#706 at time: 17184
+[Event] CPU ARRIVAL of job#706 at time: 17184
+[Event] CPU FINISH of job#343 at time: 17202
+[Event] NETWORK ARRIVAL of job#343 at time: 17202
+[Event] JOB ARRIVAL job#707 at time: 17208
+[Event] CPU ARRIVAL of job#707 at time: 17208
+[Event] DISK1 FINISH of job#291 at time: 17227
+[Event] CPU ARRIVAL of job#291 at time: 17227
+[Event] JOB ARRIVAL job#708 at time: 17233
+[Event] CPU ARRIVAL of job#708 at time: 17233
+[Event] CPU FINISH of job#129 at time: 17241
+[Event] DISK1 ARRIVAL of job#129 at time: 17241
+[Event] DISK2 FINISH of job#279 at time: 17242
+[Event] CPU ARRIVAL of job#279 at time: 17242
+[Event] JOB ARRIVAL job#709 at time: 17253
+[Event] CPU ARRIVAL of job#709 at time: 17253
+[Event] CPU FINISH of job#344 at time: 17272
+[Event] DISK1 ARRIVAL of job#344 at time: 17272
+[Event] JOB ARRIVAL job#710 at time: 17281
+[Event] CPU ARRIVAL of job#710 at time: 17281
+[Event] CPU FINISH of job#345 at time: 17300
+[Event] DISK2 ARRIVAL of job#345 at time: 17300
+[Event] JOB ARRIVAL job#711 at time: 17309
+[Event] CPU ARRIVAL of job#711 at time: 17309
+[Event] CPU FINISH of job#141 at time: 17328
+[Event] DISK2 ARRIVAL of job#141 at time: 17328
+[Event] JOB ARRIVAL job#712 at time: 17338
+[Event] CPU ARRIVAL of job#712 at time: 17338
+[Event] DISK1 FINISH of job#293 at time: 17352
+[Event] CPU ARRIVAL of job#293 at time: 17352
+[Event] CPU FINISH of job#346 at time: 17364
+[Event] DISK1 ARRIVAL of job#346 at time: 17364
+[Event] JOB ARRIVAL job#713 at time: 17365
+[Event] CPU ARRIVAL of job#713 at time: 17365
+[Event] JOB ARRIVAL job#714 at time: 17390
+[Event] CPU ARRIVAL of job#714 at time: 17390
+[Event] DISK2 FINISH of job#45 at time: 17404
+[Event] CPU ARRIVAL of job#45 at time: 17404
+[Event] CPU FINISH of job#347 at time: 17406
+[Event] DISK2 ARRIVAL of job#347 at time: 17406
+[Event] JOB ARRIVAL job#715 at time: 17415
+[Event] CPU ARRIVAL of job#715 at time: 17415
+[Event] JOB ARRIVAL job#716 at time: 17442
+[Event] CPU ARRIVAL of job#716 at time: 17442
+[Event] CPU FINISH of job#348 at time: 17446
+[Event] DISK2 ARRIVAL of job#348 at time: 17446
+[Event] JOB ARRIVAL job#717 at time: 17469
+[Event] CPU ARRIVAL of job#717 at time: 17469
+[Event] CPU FINISH of job#349 at time: 17472
+[Event] DISK1 ARRIVAL of job#349 at time: 17472
+[Event] DISK1 FINISH of job#297 at time: 17488
+[Event] CPU ARRIVAL of job#297 at time: 17488
+[Event] JOB ARRIVAL job#718 at time: 17491
+[Event] CPU ARRIVAL of job#718 at time: 17491
+[Event] CPU FINISH of job#350 at time: 17507
+[Event] NETWORK ARRIVAL of job#350 at time: 17507
+[Event] JOB ARRIVAL job#719 at time: 17518
+[Event] CPU ARRIVAL of job#719 at time: 17518
+[Event] JOB ARRIVAL job#720 at time: 17541
+[Event] CPU ARRIVAL of job#720 at time: 17541
+[Event] CPU FINISH of job#59 at time: 17546
+[Event] DISK1 ARRIVAL of job#59 at time: 17546
+[Event] DISK2 FINISH of job#286 at time: 17564
+[Event] CPU ARRIVAL of job#286 at time: 17564
+[Event] JOB ARRIVAL job#721 at time: 17569
+[Event] CPU ARRIVAL of job#721 at time: 17569
+[Event] CPU FINISH of job#351 at time: 17576
+[Event] NETWORK ARRIVAL of job#351 at time: 17576
+[Event] JOB ARRIVAL job#722 at time: 17598
+[Event] CPU ARRIVAL of job#722 at time: 17598
+[Event] CPU FINISH of job#54 at time: 17603
+[Event] DISK2 ARRIVAL of job#54 at time: 17603
+[Event] JOB ARRIVAL job#723 at time: 17619
+[Event] CPU ARRIVAL of job#723 at time: 17619
+[Event] DISK1 FINISH of job#23 at time: 17626
+[Event] CPU ARRIVAL of job#23 at time: 17626
+[Event] JOB ARRIVAL job#724 at time: 17639
+[Event] CPU ARRIVAL of job#724 at time: 17639
+[Event] CPU FINISH of job#352 at time: 17641
+[Event] DISK2 ARRIVAL of job#352 at time: 17641
+[Event] JOB ARRIVAL job#725 at time: 17664
+[Event] CPU ARRIVAL of job#725 at time: 17664
+[Event] CPU FINISH of job#353 at time: 17683
+[Event] DISK2 ARRIVAL of job#353 at time: 17683
+[Event] JOB ARRIVAL job#726 at time: 17686
+[Event] CPU ARRIVAL of job#726 at time: 17686
+[Event] NETWORK FINISH of job#72 at time: 17706
+[Event] CPU ARRIVAL of job#72 at time: 17706
+[Event] JOB ARRIVAL job#727 at time: 17708
+[Event] CPU ARRIVAL of job#727 at time: 17708
+[Event] CPU FINISH of job#354 at time: 17715
+[Event] DISK1 ARRIVAL of job#354 at time: 17715
+[Event] DISK2 FINISH of job#116 at time: 17721
+[Event] CPU ARRIVAL of job#116 at time: 17721
+[Event] JOB ARRIVAL job#728 at time: 17736
+[Event] CPU ARRIVAL of job#728 at time: 17736
+[Event] DISK1 FINISH of job#302 at time: 17755
+[Event] CPU ARRIVAL of job#302 at time: 17755
+[Event] JOB ARRIVAL job#729 at time: 17756
+[Event] CPU ARRIVAL of job#729 at time: 17756
+[Event] CPU FINISH of job#355 at time: 17761
+[Event] NETWORK ARRIVAL of job#355 at time: 17761
+[Event] JOB ARRIVAL job#730 at time: 17777
+[Event] CPU ARRIVAL of job#730 at time: 17777
+[Event] JOB ARRIVAL job#731 at time: 17802
+[Event] CPU ARRIVAL of job#731 at time: 17802
+[Event] CPU FINISH of job#145 at time: 17805
+[Event] DISK1 ARRIVAL of job#145 at time: 17805
+[Event] JOB ARRIVAL job#732 at time: 17822
+[Event] CPU ARRIVAL of job#732 at time: 17822
+[Event] CPU FINISH of job#356 at time: 17844
+[Event] NETWORK ARRIVAL of job#356 at time: 17844
+[Event] JOB ARRIVAL job#733 at time: 17848
+[Event] CPU ARRIVAL of job#733 at time: 17848
+[Event] JOB ARRIVAL job#734 at time: 17872
+[Event] CPU ARRIVAL of job#734 at time: 17872
+[Event] CPU FINISH of job#357 at time: 17877
+[Event] DISK2 ARRIVAL of job#357 at time: 17877
+[Event] DISK2 FINISH of job#294 at time: 17877
+[Event] CPU ARRIVAL of job#294 at time: 17877
+[Event] JOB ARRIVAL job#735 at time: 17898
+[Event] CPU ARRIVAL of job#735 at time: 17898
+[Event] DISK1 FINISH of job#122 at time: 17904
+[Event] CPU ARRIVAL of job#122 at time: 17904
+[Event] JOB ARRIVAL job#736 at time: 17922
+[Event] CPU FINISH of job#358 at time: 17922
+[Event] CPU ARRIVAL of job#736 at time: 17922
+[Event] JOB ARRIVAL job#737 at time: 17943
+[Event] CPU ARRIVAL of job#737 at time: 17943
+[Event] JOB ARRIVAL job#738 at time: 17967
+[Event] CPU ARRIVAL of job#738 at time: 17967
+[Event] CPU FINISH of job#34 at time: 17971
+[Event] NETWORK ARRIVAL of job#34 at time: 17971
+[Event] JOB ARRIVAL job#739 at time: 17995
+[Event] CPU ARRIVAL of job#739 at time: 17995
+[Event] DISK1 FINISH of job#307 at time: 18011
+[Event] CPU ARRIVAL of job#307 at time: 18011
+[Event] JOB ARRIVAL job#740 at time: 18019
+[Event] CPU FINISH of job#359 at time: 18019
+[Event] DISK1 ARRIVAL of job#359 at time: 18019
+[Event] CPU ARRIVAL of job#740 at time: 18019
+[Event] JOB ARRIVAL job#741 at time: 18040
+[Event] CPU ARRIVAL of job#741 at time: 18040
+[Event] JOB ARRIVAL job#742 at time: 18064
+[Event] CPU FINISH of job#137 at time: 18064
+[Event] DISK2 FINISH of job#295 at time: 18064
+[Event] NETWORK ARRIVAL of job#137 at time: 18064
+[Event] CPU ARRIVAL of job#295 at time: 18064
+[Event] CPU ARRIVAL of job#742 at time: 18064
+[Event] JOB ARRIVAL job#743 at time: 18090
+[Event] CPU ARRIVAL of job#743 at time: 18090
+[Event] CPU FINISH of job#360 at time: 18095
+[Event] DISK1 ARRIVAL of job#360 at time: 18095
+[Event] JOB ARRIVAL job#744 at time: 18117
+[Event] CPU ARRIVAL of job#744 at time: 18117
+[Event] DISK1 FINISH of job#309 at time: 18137
+[Event] CPU ARRIVAL of job#309 at time: 18137
+[Event] JOB ARRIVAL job#745 at time: 18140
+[Event] CPU FINISH of job#149 at time: 18140
+[Event] DISK1 ARRIVAL of job#149 at time: 18140
+[Event] CPU ARRIVAL of job#745 at time: 18140
+[Event] JOB ARRIVAL job#746 at time: 18160
+[Event] CPU ARRIVAL of job#746 at time: 18160
+[Event] CPU FINISH of job#361 at time: 18172
+[Event] NETWORK ARRIVAL of job#361 at time: 18172
+[Event] JOB ARRIVAL job#747 at time: 18188
+[Event] CPU ARRIVAL of job#747 at time: 18188
+[Event] JOB ARRIVAL job#748 at time: 18213
+[Event] CPU ARRIVAL of job#748 at time: 18213
+[Event] CPU FINISH of job#362 at time: 18217
+[Event] DISK1 ARRIVAL of job#362 at time: 18217
+[Event] NETWORK FINISH of job#29 at time: 18219
+[Event] CPU ARRIVAL of job#29 at time: 18219
+[Event] DISK2 FINISH of job#296 at time: 18220
+[Event] CPU ARRIVAL of job#296 at time: 18220
+[Event] JOB ARRIVAL job#749 at time: 18239
+[Event] CPU ARRIVAL of job#749 at time: 18239
+[Event] DISK1 FINISH of job#311 at time: 18247
+[Event] CPU ARRIVAL of job#311 at time: 18247
+[Event] CPU FINISH of job#363 at time: 18258
+[Event] DISK2 ARRIVAL of job#363 at time: 18258
+[Event] JOB ARRIVAL job#750 at time: 18267
+[Event] CPU ARRIVAL of job#750 at time: 18267
+[Event] JOB ARRIVAL job#751 at time: 18290
+[Event] CPU ARRIVAL of job#751 at time: 18290
+[Event] CPU FINISH of job#364 at time: 18301
+[Event] DISK2 ARRIVAL of job#364 at time: 18301
+[Event] JOB ARRIVAL job#752 at time: 18315
+[Event] CPU ARRIVAL of job#752 at time: 18315
+[Event] CPU FINISH of job#365 at time: 18327
+[Event] NETWORK ARRIVAL of job#365 at time: 18327
+[Event] JOB ARRIVAL job#753 at time: 18335
+[Event] CPU ARRIVAL of job#753 at time: 18335
+[Event] CPU FINISH of job#139 at time: 18353
+[Event] DISK2 ARRIVAL of job#139 at time: 18353
+[Event] JOB ARRIVAL job#754 at time: 18363
+[Event] CPU ARRIVAL of job#754 at time: 18363
+[Event] DISK1 FINISH of job#316 at time: 18387
+[Event] CPU ARRIVAL of job#316 at time: 18387
+[Event] JOB ARRIVAL job#755 at time: 18388
+[Event] CPU FINISH of job#366 at time: 18388
+[Event] DISK1 ARRIVAL of job#366 at time: 18388
+[Event] CPU ARRIVAL of job#755 at time: 18388
+[Event] DISK2 FINISH of job#117 at time: 18410
+[Event] CPU ARRIVAL of job#117 at time: 18410
+[Event] CPU FINISH of job#151 at time: 18413
+[Event] DISK2 ARRIVAL of job#151 at time: 18413
+[Event] JOB ARRIVAL job#756 at time: 18414
+[Event] CPU ARRIVAL of job#756 at time: 18414
+[Event] JOB ARRIVAL job#757 at time: 18434
+[Event] CPU ARRIVAL of job#757 at time: 18434
+[Event] JOB ARRIVAL job#758 at time: 18455
+[Event] CPU FINISH of job#367 at time: 18455
+[Event] DISK1 ARRIVAL of job#367 at time: 18455
+[Event] CPU ARRIVAL of job#758 at time: 18455
+[Event] JOB ARRIVAL job#759 at time: 18479
+[Event] CPU ARRIVAL of job#759 at time: 18479
+[Event] CPU FINISH of job#368 at time: 18494
+[Event] DISK2 ARRIVAL of job#368 at time: 18494
+[Event] JOB ARRIVAL job#760 at time: 18504
+[Event] CPU ARRIVAL of job#760 at time: 18504
+[Event] DISK1 FINISH of job#320 at time: 18518
+[Event] CPU ARRIVAL of job#320 at time: 18518
+[Event] JOB ARRIVAL job#761 at time: 18530
+[Event] CPU FINISH of job#369 at time: 18530
+[Event] DISK1 ARRIVAL of job#369 at time: 18530
+[Event] CPU ARRIVAL of job#761 at time: 18530
+[Event] JOB ARRIVAL job#762 at time: 18556
+[Event] CPU ARRIVAL of job#762 at time: 18556
+[Event] DISK2 FINISH of job#299 at time: 18561
+[Event] CPU ARRIVAL of job#299 at time: 18561
+[Event] CPU FINISH of job#370 at time: 18564
+[Event] DISK1 ARRIVAL of job#370 at time: 18564
+[Event] JOB ARRIVAL job#763 at time: 18584
+[Event] CPU ARRIVAL of job#763 at time: 18584
+[Event] CPU FINISH of job#371 at time: 18592
+[Event] DISK1 ARRIVAL of job#371 at time: 18592
+[Event] JOB ARRIVAL job#764 at time: 18609
+[Event] CPU ARRIVAL of job#764 at time: 18609
+[Event] JOB ARRIVAL job#765 at time: 18629
+[Event] CPU ARRIVAL of job#765 at time: 18629
+[Event] CPU FINISH of job#154 at time: 18636
+[Event] DISK2 ARRIVAL of job#154 at time: 18636
+[Event] JOB ARRIVAL job#766 at time: 18654
+[Event] CPU ARRIVAL of job#766 at time: 18654
+[Event] DISK1 FINISH of job#323 at time: 18658
+[Event] CPU ARRIVAL of job#323 at time: 18658
+[Event] CPU FINISH of job#372 at time: 18671
+[Event] DISK2 ARRIVAL of job#372 at time: 18671
+[Event] JOB ARRIVAL job#767 at time: 18675
+[Event] CPU ARRIVAL of job#767 at time: 18675
+[Event] JOB ARRIVAL job#768 at time: 18701
+[Event] CPU FINISH of job#373 at time: 18701
+[Event] CPU ARRIVAL of job#768 at time: 18701
+[Event] DISK2 FINISH of job#300 at time: 18721
+[Event] CPU ARRIVAL of job#300 at time: 18721
+[Event] JOB ARRIVAL job#769 at time: 18728
+[Event] CPU ARRIVAL of job#769 at time: 18728
+[Event] CPU FINISH of job#140 at time: 18745
+[Event] NETWORK ARRIVAL of job#140 at time: 18745
+[Event] JOB ARRIVAL job#770 at time: 18757
+[Event] CPU ARRIVAL of job#770 at time: 18757
+[Event] DISK1 FINISH of job#325 at time: 18763
+[Event] CPU ARRIVAL of job#325 at time: 18763
+[Event] JOB ARRIVAL job#771 at time: 18777
+[Event] CPU ARRIVAL of job#771 at time: 18777
+[Event] CPU FINISH of job#374 at time: 18791
+[Event] DISK2 ARRIVAL of job#374 at time: 18791
+[Event] JOB ARRIVAL job#772 at time: 18802
+[Event] CPU ARRIVAL of job#772 at time: 18802
+[Event] NETWORK FINISH of job#32 at time: 18823
+[Event] CPU ARRIVAL of job#32 at time: 18823
+[Event] CPU FINISH of job#375 at time: 18824
+[Event] JOB ARRIVAL job#773 at time: 18828
+[Event] CPU ARRIVAL of job#773 at time: 18828
+[Event] JOB ARRIVAL job#774 at time: 18852
+[Event] CPU ARRIVAL of job#774 at time: 18852
+[Event] CPU FINISH of job#156 at time: 18854
+[Event] DISK1 ARRIVAL of job#156 at time: 18854
+[Event] JOB ARRIVAL job#775 at time: 18872
+[Event] CPU ARRIVAL of job#775 at time: 18872
+[Event] JOB ARRIVAL job#776 at time: 18899
+[Event] CPU ARRIVAL of job#776 at time: 18899
+[Event] CPU FINISH of job#376 at time: 18900
+[Event] DISK2 ARRIVAL of job#376 at time: 18900
+[Event] DISK2 FINISH of job#304 at time: 18901
+[Event] CPU ARRIVAL of job#304 at time: 18901
+[Event] DISK1 FINISH of job#133 at time: 18907
+[Event] CPU ARRIVAL of job#133 at time: 18907
+[Event] CPU FINISH of job#377 at time: 18925
+[Event] DISK1 ARRIVAL of job#377 at time: 18925
+[Event] JOB ARRIVAL job#777 at time: 18927
+[Event] CPU ARRIVAL of job#777 at time: 18927
+[Event] CPU FINISH of job#378 at time: 18953
+[Event] DISK2 ARRIVAL of job#378 at time: 18953
+[Event] JOB ARRIVAL job#778 at time: 18954
+[Event] CPU ARRIVAL of job#778 at time: 18954
+[Event] JOB ARRIVAL job#779 at time: 18976
+[Event] CPU ARRIVAL of job#779 at time: 18976
+[Event] JOB ARRIVAL job#780 at time: 19000
+[Event] CPU FINISH of job#379 at time: 19000
+[Event] DISK1 ARRIVAL of job#379 at time: 19000
+[Event] CPU ARRIVAL of job#780 at time: 19000
+[Event] DISK1 FINISH of job#327 at time: 19015
+[Event] CPU ARRIVAL of job#327 at time: 19015
+[Event] JOB ARRIVAL job#781 at time: 19028
+[Event] CPU ARRIVAL of job#781 at time: 19028
+[Event] CPU FINISH of job#380 at time: 19040
+[Event] JOB ARRIVAL job#782 at time: 19054
+[Event] CPU ARRIVAL of job#782 at time: 19054
+[Event] DISK2 FINISH of job#308 at time: 19058
+[Event] CPU ARRIVAL of job#308 at time: 19058
+[Event] CPU FINISH of job#157 at time: 19075
+[Event] DISK2 ARRIVAL of job#157 at time: 19075
+[Event] JOB ARRIVAL job#783 at time: 19080
+[Event] CPU ARRIVAL of job#783 at time: 19080
+[Event] JOB ARRIVAL job#784 at time: 19101
+[Event] CPU ARRIVAL of job#784 at time: 19101
+[Event] CPU FINISH of job#381 at time: 19104
+[Event] DISK1 ARRIVAL of job#381 at time: 19104
+[Event] DISK1 FINISH of job#328 at time: 19117
+[Event] CPU ARRIVAL of job#328 at time: 19117
+[Event] JOB ARRIVAL job#785 at time: 19124
+[Event] CPU ARRIVAL of job#785 at time: 19124
+[Event] CPU FINISH of job#148 at time: 19139
+[Event] DISK1 ARRIVAL of job#148 at time: 19139
+[Event] JOB ARRIVAL job#786 at time: 19153
+[Event] CPU ARRIVAL of job#786 at time: 19153
+[Event] CPU FINISH of job#382 at time: 19164
+[Event] NETWORK ARRIVAL of job#382 at time: 19164
+[Event] JOB ARRIVAL job#787 at time: 19173
+[Event] CPU ARRIVAL of job#787 at time: 19173
+[Event] CPU FINISH of job#383 at time: 19197
+[Event] NETWORK ARRIVAL of job#383 at time: 19197
+[Event] JOB ARRIVAL job#788 at time: 19199
+[Event] CPU ARRIVAL of job#788 at time: 19199
+[Event] JOB ARRIVAL job#789 at time: 19227
+[Event] CPU ARRIVAL of job#789 at time: 19227
+[Event] DISK2 FINISH of job#310 at time: 19231
+[Event] CPU ARRIVAL of job#310 at time: 19231
+[Event] CPU FINISH of job#384 at time: 19234
+[Event] JOB ARRIVAL job#790 at time: 19249
+[Event] CPU ARRIVAL of job#790 at time: 19249
+[Event] DISK1 FINISH of job#332 at time: 19259
+[Event] CPU ARRIVAL of job#332 at time: 19259
+[Event] CPU FINISH of job#160 at time: 19267
+[Event] JOB ARRIVAL job#791 at time: 19278
+[Event] CPU ARRIVAL of job#791 at time: 19278
+[Event] JOB ARRIVAL job#792 at time: 19299
+[Event] CPU ARRIVAL of job#792 at time: 19299
+[Event] CPU FINISH of job#385 at time: 19312
+[Event] JOB ARRIVAL job#793 at time: 19321
+[Event] CPU ARRIVAL of job#793 at time: 19321
+[Event] JOB ARRIVAL job#794 at time: 19348
+[Event] CPU ARRIVAL of job#794 at time: 19348
+[Event] CPU FINISH of job#386 at time: 19359
+[Event] NETWORK ARRIVAL of job#386 at time: 19359
+[Event] JOB ARRIVAL job#795 at time: 19377
+[Event] CPU ARRIVAL of job#795 at time: 19377
+[Event] DISK1 FINISH of job#336 at time: 19382
+[Event] DISK2 FINISH of job#132 at time: 19382
+[Event] CPU ARRIVAL of job#132 at time: 19382
+[Event] CPU ARRIVAL of job#336 at time: 19382
+[Event] CPU FINISH of job#387 at time: 19395
+[Event] DISK2 ARRIVAL of job#387 at time: 19395
+[Event] JOB ARRIVAL job#796 at time: 19397
+[Event] CPU ARRIVAL of job#796 at time: 19397
+[Event] CPU FINISH of job#388 at time: 19423
+[Event] DISK1 ARRIVAL of job#388 at time: 19423
+[Event] JOB ARRIVAL job#797 at time: 19425
+[Event] CPU ARRIVAL of job#797 at time: 19425
+[Event] JOB ARRIVAL job#798 at time: 19451
+[Event] CPU ARRIVAL of job#798 at time: 19451
+[Event] CPU FINISH of job#61 at time: 19458
+[Event] DISK1 ARRIVAL of job#61 at time: 19458
+[Event] JOB ARRIVAL job#799 at time: 19472
+[Event] CPU ARRIVAL of job#799 at time: 19472
+[Event] CPU FINISH of job#389 at time: 19492
+[Event] DISK2 ARRIVAL of job#389 at time: 19492
+[Event] JOB ARRIVAL job#800 at time: 19497
+[Event] CPU ARRIVAL of job#800 at time: 19497
+[Event] NETWORK FINISH of job#82 at time: 19521
+[Event] CPU ARRIVAL of job#82 at time: 19521
+[Event] JOB ARRIVAL job#801 at time: 19525
+[Event] CPU ARRIVAL of job#801 at time: 19525
+[Event] DISK1 FINISH of job#56 at time: 19526
+[Event] CPU ARRIVAL of job#56 at time: 19526
+[Event] CPU FINISH of job#390 at time: 19531
+[Event] NETWORK ARRIVAL of job#390 at time: 19531
+[Event] DISK2 FINISH of job#322 at time: 19539
+[Event] CPU ARRIVAL of job#322 at time: 19539
+[Event] JOB ARRIVAL job#802 at time: 19548
+[Event] CPU ARRIVAL of job#802 at time: 19548
+[Event] CPU FINISH of job#161 at time: 19566
+[Event] DISK2 ARRIVAL of job#161 at time: 19566
+[Event] JOB ARRIVAL job#803 at time: 19571
+[Event] CPU ARRIVAL of job#803 at time: 19571
+[Event] JOB ARRIVAL job#804 at time: 19596
+[Event] CPU ARRIVAL of job#804 at time: 19596
+[Event] CPU FINISH of job#11 at time: 19610
+[Event] JOB ARRIVAL job#805 at time: 19619
+[Event] CPU ARRIVAL of job#805 at time: 19619
+[Event] DISK1 FINISH of job#337 at time: 19631
+[Event] CPU ARRIVAL of job#337 at time: 19631
+[Event] JOB ARRIVAL job#806 at time: 19639
+[Event] CPU ARRIVAL of job#806 at time: 19639
+[Event] CPU FINISH of job#391 at time: 19652
+[Event] DISK1 ARRIVAL of job#391 at time: 19652
+[Event] JOB ARRIVAL job#807 at time: 19668
+[Event] CPU ARRIVAL of job#807 at time: 19668
+[Event] CPU FINISH of job#392 at time: 19680
+[Event] DISK1 ARRIVAL of job#392 at time: 19680
+[Event] JOB ARRIVAL job#808 at time: 19697
+[Event] CPU ARRIVAL of job#808 at time: 19697
+[Event] CPU FINISH of job#393 at time: 19711
+[Event] JOB ARRIVAL job#809 at time: 19719
+[Event] CPU ARRIVAL of job#809 at time: 19719
+[Event] DISK2 FINISH of job#9 at time: 19728
+[Event] CPU ARRIVAL of job#9 at time: 19728
+[Event] JOB ARRIVAL job#810 at time: 19743
+[Event] CPU ARRIVAL of job#810 at time: 19743
+[Event] DISK1 FINISH of job#138 at time: 19751
+[Event] CPU ARRIVAL of job#138 at time: 19751
+[Event] CPU FINISH of job#394 at time: 19752
+[Event] DISK1 ARRIVAL of job#394 at time: 19752
+[Event] JOB ARRIVAL job#811 at time: 19767
+[Event] CPU ARRIVAL of job#811 at time: 19767
+[Event] CPU FINISH of job#163 at time: 19785
+[Event] JOB ARRIVAL job#812 at time: 19788
+[Event] CPU ARRIVAL of job#812 at time: 19788
+[Event] JOB ARRIVAL job#813 at time: 19816
+[Event] CPU ARRIVAL of job#813 at time: 19816
+[Event] CPU FINISH of job#395 at time: 19829
+[Event] DISK2 ARRIVAL of job#395 at time: 19829
+[Event] JOB ARRIVAL job#814 at time: 19836
+[Event] CPU ARRIVAL of job#814 at time: 19836
+[Event] JOB ARRIVAL job#815 at time: 19859
+[Event] CPU ARRIVAL of job#815 at time: 19859
+[Event] DISK1 FINISH of job#341 at time: 19860
+[Event] CPU ARRIVAL of job#341 at time: 19860
+[Event] CPU FINISH of job#396 at time: 19878
+[Event] DISK1 ARRIVAL of job#396 at time: 19878
+[Event] DISK2 FINISH of job#52 at time: 19886
+[Event] CPU ARRIVAL of job#52 at time: 19886
+[Event] JOB ARRIVAL job#816 at time: 19887
+[Event] CPU ARRIVAL of job#816 at time: 19887
+[Event] CPU FINISH of job#152 at time: 19908
+[Event] DISK2 ARRIVAL of job#152 at time: 19908
+[Event] JOB ARRIVAL job#817 at time: 19914
+[Event] CPU ARRIVAL of job#817 at time: 19914
+[Event] JOB ARRIVAL job#818 at time: 19936
+[Event] CPU ARRIVAL of job#818 at time: 19936
+[Event] CPU FINISH of job#397 at time: 19944
+[Event] DISK1 ARRIVAL of job#397 at time: 19944
+[Event] JOB ARRIVAL job#819 at time: 19962
+[Event] CPU ARRIVAL of job#819 at time: 19962
+[Event] JOB ARRIVAL job#820 at time: 19985
+[Event] CPU ARRIVAL of job#820 at time: 19985
+[Event] CPU FINISH of job#398 at time: 19986
+[Event] DISK1 ARRIVAL of job#398 at time: 19986
+Sim Finished at 20000
